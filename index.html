@@ -3,68 +3,114 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Radar Geopolítico & Inversión</title>
+    <title>Radar Económico Global | Panel de Control</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        /* Pequeño toque elegante para los enlaces */
+        .article-link { transition: all 0.2s ease-in-out; }
+        .article-link:hover { padding-left: 4px; border-left: 2px solid #2563eb; }
+    </style>
 </head>
-<body class="bg-slate-900 text-slate-200 font-sans">
+<body class="bg-slate-50 text-slate-800 font-sans flex flex-col min-h-screen">
     
-    <!-- Cabecera -->
-    <header class="bg-slate-800 border-b border-slate-700 p-6 shadow-lg">
+    <!-- Cabecera Blanca Minimalista -->
+    <header class="bg-white border-b border-slate-200 py-6 px-8 shadow-sm">
         <div class="max-w-7xl mx-auto flex justify-between items-center">
             <div>
-                <h1 class="text-3xl font-bold text-white tracking-tight"><i class="fas fa-globe-americas text-blue-500 mr-3"></i>Radar Global</h1>
-                <p class="text-slate-400 text-sm mt-1">Inteligencia de Mercado y Geopolítica | Actualizado Automáticamente</p>
+                <h1 class="text-3xl font-extrabold text-slate-900 tracking-tight"><i class="fas fa-globe-americas text-blue-600 mr-2"></i>Radar Económico Global</h1>
+                <p class="text-slate-500 text-sm mt-1 font-medium">Monitorización diaria de Geopolítica, Macroeconomía y Mercados Financieros</p>
             </div>
-            <div class="text-right">
-                <p class="text-xs text-slate-500 uppercase tracking-widest">Analista Senior</p>
-                <p class="font-semibold text-blue-400">Abel Guarinos Marín</p>
+            <div class="text-right hidden md:block">
+                <p class="text-xs text-slate-400 uppercase tracking-widest font-bold">Analista de Mercados</p>
+                <p class="font-bold text-slate-800">Abel Guarinos Marín</p>
             </div>
         </div>
     </header>
 
-    <!-- Contenedor Principal de Noticias -->
-    <main class="max-w-7xl mx-auto p-6 mt-6">
-        <div id="news-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            <!-- Las noticias se inyectarán aquí mediante Javascript -->
+    <!-- Contenedor de las Secciones -->
+    <main class="max-w-7xl mx-auto px-8 w-full flex-grow mb-12">
+        <div id="news-container">
+            <!-- El contenido se inyectará aquí -->
         </div>
     </main>
 
+    <!-- Pie de página con contacto y fuentes -->
+    <footer class="bg-slate-900 text-slate-400 py-10 mt-auto">
+        <div class="max-w-7xl mx-auto px-8 grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div>
+                <h4 class="text-white font-bold mb-3">Sobre este panel</h4>
+                <p class="text-sm leading-relaxed mb-4">
+                    Este dashboard se actualiza diariamente de forma automatizada mediante procesos de extracción de datos en servidores en la nube. Diseñado para ofrecer una visión panorámica y eficiente del estado actual de la economía mundial y la asignación de activos.
+                </p>
+                <a href="https://www.linkedin.com/in/abel-guarinos-marin/" target="_blank" class="inline-flex items-center text-blue-400 hover:text-white transition-colors font-medium">
+                    <i class="fab fa-linkedin text-xl mr-2"></i> Conectar en LinkedIn
+                </a>
+            </div>
+            <div class="md:text-right">
+                <h4 class="text-white font-bold mb-3">Fuentes Oficiales Integradas</h4>
+                <ul class="text-sm space-y-1">
+                    <li><i class="fas fa-check-circle text-blue-500 mr-1"></i> Fondo Monetario Internacional (FMI)</li>
+                    <li><i class="fas fa-check-circle text-blue-500 mr-1"></i> Banco Central Europeo (BCE)</li>
+                    <li><i class="fas fa-check-circle text-blue-500 mr-1"></i> Naciones Unidas (Geopolítica)</li>
+                    <li><i class="fas fa-check-circle text-blue-500 mr-1"></i> Yahoo Finance & CNBC Markets</li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+
     <script>
-        // Esta función lee el archivo que nuestro robot crea todos los días
         async function loadNews() {
             const container = document.getElementById('news-container');
-            container.innerHTML = '<p class="text-center col-span-full text-slate-500 animate-pulse">Analizando fuentes oficiales de mercado...</p>';
+            container.innerHTML = '<div class="flex justify-center my-20"><p class="text-slate-500 animate-pulse font-medium text-lg"><i class="fas fa-sync fa-spin mr-2"></i>Sincronizando con mercados globales...</p></div>';
             
             try {
-                // Truco para evitar la caché y traer siempre el dato más reciente
                 const response = await fetch('data.json?v=' + new Date().getTime()); 
                 const data = await response.json();
-                container.innerHTML = ''; // Limpiamos el mensaje de carga
+                container.innerHTML = ''; 
 
-                for (const [category, articles] of Object.entries(data)) {
+                // Recorremos las secciones principales (Política/Macro e Inversión)
+                for (const [sectionName, categories] of Object.entries(data)) {
+                    
+                    // Título de la gran sección
                     let html = `
-                    <div class="bg-slate-800 rounded-xl p-6 shadow-xl border border-slate-700/50 hover:border-blue-500/50 transition-colors">
-                        <h2 class="text-xl font-bold text-white mb-4 border-b border-slate-600 pb-2"><i class="fas fa-chart-line text-blue-400 mr-2"></i>${category}</h2>
-                        <div class="space-y-4">
+                        <div class="mt-12 mb-6">
+                            <h2 class="text-2xl font-black text-slate-900 border-b-2 border-slate-200 pb-2 flex items-center">
+                                ${sectionName === 'Política, Geopolítica y Macroeconomía' ? '<i class="fas fa-landmark text-slate-400 mr-3"></i>' : '<i class="fas fa-chart-pie text-slate-400 mr-3"></i>'}
+                                ${sectionName}
+                            </h2>
+                        </div>
+                        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                     `;
                     
-                    articles.forEach(article => {
+                    // Recorremos los continentes/temas dentro de esa sección
+                    for (const [categoryName, articles] of Object.entries(categories)) {
                         html += `
-                            <article class="group">
-                                <a href="${article.link}" target="_blank" class="block">
-                                    <p class="text-xs text-slate-400 mb-1"><i class="far fa-clock mr-1"></i>${article.date.substring(0, 16)}</p>
-                                    <h3 class="text-sm font-medium text-slate-200 group-hover:text-blue-400 transition-colors leading-snug">${article.title}</h3>
-                                </a>
-                            </article>
+                        <div class="bg-white rounded-xl p-6 shadow-sm border border-slate-200 hover:shadow-md hover:border-blue-200 transition-all">
+                            <h3 class="text-md font-bold text-blue-800 mb-4 pb-2 border-b border-slate-100">${categoryName}</h3>
+                            <div class="space-y-4">
                         `;
-                    });
+                        
+                        articles.forEach(article => {
+                            // Limpiamos un poco la fecha si viene muy larga
+                            let cleanDate = article.date.substring(0, 16).replace('T', ' ');
+                            html += `
+                                <article class="group">
+                                    <a href="${article.link}" target="_blank" class="block article-link">
+                                        <p class="text-[11px] text-slate-400 mb-1 font-medium uppercase tracking-wider"><i class="far fa-clock mr-1"></i>${cleanDate}</p>
+                                        <h4 class="text-sm font-semibold text-slate-700 group-hover:text-blue-700 leading-snug">${article.title}</h4>
+                                    </a>
+                                </article>
+                            `;
+                        });
 
-                    html += `</div></div>`;
+                        html += `</div></div>`;
+                    }
+                    html += `</div>`;
                     container.innerHTML += html;
                 }
             } catch (error) {
-                container.innerHTML = '<p class="text-center col-span-full text-red-400">El robot está generando el primer informe. Recarga en unos minutos.</p>';
+                container.innerHTML = '<div class="bg-red-50 text-red-600 p-4 rounded-lg my-10 font-medium">Reorganizando estructura de datos. El sistema estará listo en unos minutos tras la próxima ejecución automática.</div>';
             }
         }
 
