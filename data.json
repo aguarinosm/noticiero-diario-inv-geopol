@@ -1,67 +1,92 @@
 {
-    "Macroeconomía Global (FMI)": [],
-    "Geopolítica Global (ONU)": [
-        {
-            "title": "ONU Derechos Humanos deplora la represión de las libertades civiles y políticas en Nicaragua",
-            "link": "https://news.un.org/feed/view/es/story/2026/07/1541723",
-            "date": "Wed, 22 Jul 2026 12:00:00 +0000"
-        },
-        {
-            "title": "Dos de cada cinco personas en las Américas viven con un trastorno neurológico",
-            "link": "https://news.un.org/feed/view/es/story/2026/07/1541722",
-            "date": "Wed, 22 Jul 2026 12:00:00 +0000"
-        },
-        {
-            "title": "Los minerales críticos deben impulsar el desarrollo, no financiar guerras",
-            "link": "https://news.un.org/feed/view/es/story/2026/07/1541720",
-            "date": "Wed, 22 Jul 2026 12:00:00 +0000"
-        },
-        {
-            "title": "Minerales críticos: los recursos ocultos que impulsan el futuro de la energía limpia",
-            "link": "https://news.un.org/feed/view/es/story/2026/07/1541718",
-            "date": "Wed, 22 Jul 2026 12:00:00 +0000"
-        },
-        {
-            "title": "Nicaragua, recursos naturales, trastornos neurológicos… Las noticias del miércoles",
-            "link": "https://news.un.org/feed/view/es/story/2026/07/1541719",
-            "date": "Wed, 22 Jul 2026 12:00:00 +0000"
-        },
-        {
-            "title": "Siria: los avances institucionales chocan con una realidad humanitaria crítica",
-            "link": "https://news.un.org/feed/view/es/story/2026/07/1541717",
-            "date": "Tue, 21 Jul 2026 12:00:00 +0000"
-        }
-    ],
-    "Economía Europea (BCE)": [
-        {
-            "title": "ECB reveals shortlisted designs for new banknotes and launches public survey",
-            "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260723~c2d43f9170.en.html",
-            "date": "Thu, 23 Jul 2026 16:15:00 +0200"
-        },
-        {
-            "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
-            "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
-            "date": "Thu, 23 Jul 2026 15:00:00 +0200"
-        },
-        {
-            "title": "Monetary policy decisions",
-            "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
-            "date": "Thu, 23 Jul 2026 14:15:00 +0200"
-        },
-        {
-            "title": "ECB appoints Boris Kisselevsky as Director General Secretariat",
-            "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721_1~8c6ba4c5fb.en.html",
-            "date": "Tue, 21 Jul 2026 16:00:00 +0200"
-        },
-        {
-            "title": "July 2026 euro area bank lending survey",
-            "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
-            "date": "Tue, 21 Jul 2026 10:00:00 +0200"
-        },
-        {
-            "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-            "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html",
-            "date": "Mon, 20 Jul 2026 10:00:00 +0200"
-        }
-    ]
+    "Política, Geopolítica y Macroeconomía": {
+        "🌎 Global (ONU)": [
+            {
+                "title": "Gaza, conflictos, Venezuela, metano… Las noticias del jueves",
+                "link": "https://news.un.org/feed/view/es/story/2026/07/1541726",
+                "date": "Thu, 23 Jul 2026 12:00:00 +0000"
+            },
+            {
+                "title": "La escalada en Oriente Medio evidencia los límites de las soluciones militares",
+                "link": "https://news.un.org/feed/view/es/story/2026/07/1541724",
+                "date": "Thu, 23 Jul 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Siete medidas para prevenir cientos de miles de muertes por ahogamiento",
+                "link": "https://news.un.org/feed/view/es/story/2026/07/1541725",
+                "date": "Thu, 23 Jul 2026 12:00:00 +0000"
+            },
+            {
+                "title": "ONU Derechos Humanos deplora la represión de las libertades civiles y políticas en Nicaragua",
+                "link": "https://news.un.org/feed/view/es/story/2026/07/1541723",
+                "date": "Wed, 22 Jul 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Dos de cada cinco personas en las Américas viven con un trastorno neurológico",
+                "link": "https://news.un.org/feed/view/es/story/2026/07/1541722",
+                "date": "Wed, 22 Jul 2026 12:00:00 +0000"
+            }
+        ],
+        "🇪🇺 Europa (Comisión/ONU)": [],
+        "🌎 América (Noticias)": [],
+        "🌏 Asia-Pacífico (Noticias)": []
+    },
+    "Inversión, Finanzas y Mercados": {
+        "🏦 Bancos Centrales (FMI)": [],
+        "💶 Economía Europea (BCE)": [
+            {
+                "title": "ECB reveals shortlisted designs for new banknotes and launches public survey",
+                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260723~c2d43f9170.en.html",
+                "date": "Thu, 23 Jul 2026 16:15:00 +0200"
+            },
+            {
+                "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+                "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
+                "date": "Thu, 23 Jul 2026 15:00:00 +0200"
+            },
+            {
+                "title": "Monetary policy decisions",
+                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
+                "date": "Thu, 23 Jul 2026 14:15:00 +0200"
+            },
+            {
+                "title": "ECB appoints Boris Kisselevsky as Director General Secretariat",
+                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721_1~8c6ba4c5fb.en.html",
+                "date": "Tue, 21 Jul 2026 16:00:00 +0200"
+            },
+            {
+                "title": "July 2026 euro area bank lending survey",
+                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
+                "date": "Tue, 21 Jul 2026 10:00:00 +0200"
+            }
+        ],
+        "📈 Mercados (Yahoo Finance)": [
+            {
+                "title": "The oil spike everyone feared never showed up",
+                "link": "https://finance.yahoo.com/energy/articles/oil-spike-everyone-feared-never-020300378.html",
+                "date": "2026-07-23T02:03:00Z"
+            },
+            {
+                "title": "China's Oil Output Hits Record High",
+                "link": "https://finance.yahoo.com/energy/articles/chinas-oil-output-hits-record-083000811.html",
+                "date": "2026-07-22T08:30:00Z"
+            },
+            {
+                "title": "ADNOC Approves $6.2 Billion Umm Shaif Gas Project to Boost UAE Supply",
+                "link": "https://finance.yahoo.com/energy/articles/adnoc-approves-6-2-billion-074448607.html",
+                "date": "2026-07-22T07:44:48Z"
+            },
+            {
+                "title": "Jim Cramer vs. The AI Bears: Why Apple’s Consumer Ecosystem Remains Unbreakable",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-vs-ai-bears-072307994.html",
+                "date": "2026-07-22T07:23:07Z"
+            },
+            {
+                "title": "Zcash Price Warning: Multiple ZEC Technical Setups Point to Selloff Under $500",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/zcash-price-warning-multiple-zec-085141835.html",
+                "date": "2026-07-22T08:51:41Z"
+            }
+        ],
+        "📊 Wall Street & Global (CNBC)": []
+    }
 }
