@@ -2,6 +2,21 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "Solo el 13% de las grandes fugas de metano recibe respuesta",
+                "link": "https://news.un.org/feed/view/es/story/2026/07/1541730",
+                "date": "Thu, 23 Jul 2026 12:00:00 +0000"
+            },
+            {
+                "title": "La inteligencia artificial entra en las elecciones de América Latina entre oportunidades y nuevos riesgos",
+                "link": "https://news.un.org/feed/view/es/story/2026/07/1541729",
+                "date": "Thu, 23 Jul 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Gaza, conflictos, Venezuela, metano… Las noticias del jueves",
+                "link": "https://news.un.org/feed/view/es/story/2026/07/1541726",
+                "date": "Thu, 23 Jul 2026 12:00:00 +0000"
+            },
+            {
                 "title": "La escalada en Oriente Medio evidencia los límites de las soluciones militares",
                 "link": "https://news.un.org/feed/view/es/story/2026/07/1541724",
                 "date": "Thu, 23 Jul 2026 12:00:00 +0000"
@@ -10,138 +25,123 @@
                 "title": "Siete medidas para prevenir cientos de miles de muertes por ahogamiento",
                 "link": "https://news.un.org/feed/view/es/story/2026/07/1541725",
                 "date": "Thu, 23 Jul 2026 12:00:00 +0000"
-            },
-            {
-                "title": "ONU Derechos Humanos deplora la represión de las libertades civiles y políticas en Nicaragua",
-                "link": "https://news.un.org/feed/view/es/story/2026/07/1541723",
-                "date": "Wed, 22 Jul 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Dos de cada cinco personas en las Américas viven con un trastorno neurológico",
-                "link": "https://news.un.org/feed/view/es/story/2026/07/1541722",
-                "date": "Wed, 22 Jul 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Los minerales críticos deben impulsar el desarrollo, no financiar guerras",
-                "link": "https://news.un.org/feed/view/es/story/2026/07/1541720",
-                "date": "Wed, 22 Jul 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "¿Será Irán la próxima \"guerra eterna\" de Estados Unidos?",
-                "link": "https://www.dw.com/es/¿será-irán-la-próxima-guerra-eterna-de-estados-unidos/a-78090466?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-07-23"
+                "title": "El canciller alemán Friedrich Merz remodela su Gabinete en medio del avance de la extrema derecha",
+                "link": "https://www.dw.com/es/el-canciller-alemán-friedrich-merz-remodela-su-gabinete-en-medio-del-avance-de-la-extrema-derecha/a-78095083?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-07-24"
             },
             {
-                "title": "Ataques de Estados Unidos al sur de Irán amplían la guerra",
-                "link": "https://www.dw.com/es/ataques-de-estados-unidos-al-sur-de-irán-amplían-la-guerra/a-78090484?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-07-23"
+                "title": "Irán reporta cuatro muertos tras ataques de EE. UU. en el suroeste del país",
+                "link": "https://www.dw.com/es/irán-reporta-cuatro-muertos-tras-ataques-de-ee-uu-en-el-suroeste-del-país/a-78094277?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-07-24"
             },
             {
-                "title": "Haaland, Messi o Mbappé: el Mundial bautiza a Latinoamérica",
-                "link": "https://www.dw.com/es/haaland-messi-o-mbappé-el-mundial-bautiza-a-latinoamérica/a-78090933?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-07-23"
+                "title": "EE.UU. encadena trece noches de ataques en Irán",
+                "link": "https://www.dw.com/es/ee-uu-encadena-trece-noches-de-ataques-en-irán/a-78093493?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-07-24"
             },
             {
-                "title": "Ucrania: Fedorov no aceptará otro cargo propuesto por Zelenski",
-                "link": "https://www.dw.com/es/ucrania-fedorov-no-aceptará-otro-cargo-propuesto-por-zelenski/a-78090985?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-07-23"
+                "title": "Panamá investiga posible reclutamiento de Rusia y Ucrania",
+                "link": "https://www.dw.com/es/panamá-investiga-posible-reclutamiento-de-rusia-y-ucrania/a-78093206?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-07-24"
             },
             {
-                "title": "Argentinos juntan firmas para repetir la final del Mundial",
-                "link": "https://www.dw.com/es/argentinos-juntan-firmas-para-repetir-la-final-del-mundial/a-78090762?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-07-23"
+                "title": "Trump reactiva su guerra comercial con batería de aranceles",
+                "link": "https://www.dw.com/es/trump-reactiva-su-guerra-comercial-con-batería-de-aranceles/a-78093048?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-07-24"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Trump se dispone a avivar la guerra comercial con nuevos aranceles a varias decenas de países",
-                "link": "https://elpais.com/internacional/2026-07-23/trump-se-dispone-a-avivar-la-guerra-comercial-con-nuevos-aranceles-a-varias-decenas-de-paises.html",
-                "date": "Thu, 23 Jul 2026 04:00:00 GMT"
+                "title": "Trump impone un sistema comercial caótico en su tercera ronda arancelaria",
+                "link": "https://elpais.com/internacional/2026-07-24/trump-impone-un-sistema-comercial-caotico-en-su-tercera-ronda-arancelaria.html",
+                "date": "Fri, 24 Jul 2026 04:00:00 GMT"
             },
             {
-                "title": "México acelera las revisiones técnicas del TMEC bajo la sombra de más aranceles de EE UU",
-                "link": "https://elpais.com/mexico/economia/2026-07-23/mexico-acelera-las-revisiones-tecnicas-del-tmec-bajo-la-sombra-de-mas-aranceles-de-ee-uu.html",
-                "date": "Thu, 23 Jul 2026 04:00:00 GMT"
+                "title": "La nueva escalada arancelaria de Trump eclipsa la revisión bilateral del TMEC",
+                "link": "https://elpais.com/mexico/economia/2026-07-24/la-nueva-escalada-arancelaria-de-trump-eclipsa-la-revision-bilateral-del-tmec.html",
+                "date": "Fri, 24 Jul 2026 04:00:00 GMT"
             },
             {
-                "title": "Asesinado por ser periodista: México muestra su lado más tenebroso contra la información libre",
-                "link": "https://elpais.com/mexico/2026-07-23/asesinado-por-ser-periodista-mexico-muestra-su-lado-mas-tenebroso-contra-la-informacion-libre.html",
-                "date": "Thu, 23 Jul 2026 04:00:00 GMT"
+                "title": "“Estamos sobreviviendo”: las redadas asestan un golpe fuerte y persistente a los negocios hispanos en Los Ángeles",
+                "link": "https://elpais.com/us/migracion/2026-07-24/estamos-sobreviviendo-las-redadas-asestan-un-golpe-fuerte-y-persistente-a-los-negocios-hispanos-en-los-angeles.html",
+                "date": "Fri, 24 Jul 2026 04:00:00 GMT"
             },
             {
-                "title": "Centroamérica reacciona a la decisión de Ortega de eliminar las elecciones en Nicaragua: “Es un fuerte agravio a los principios democráticos”",
-                "link": "https://elpais.com/america/2026-07-23/centroamerica-reacciona-a-la-decision-de-ortega-de-eliminar-las-elecciones-en-nicaragua-es-un-fuerte-agravio-a-los-principios-democraticos.html",
-                "date": "Thu, 23 Jul 2026 04:00:00 GMT"
+                "title": "Estados Unidos pone rostro al clan del R3, el nuevo jefe absoluto del Cartel Jalisco",
+                "link": "https://elpais.com/mexico/2026-07-24/estados-unidos-pone-rostro-al-clan-del-r3-el-nuevo-jefe-absoluto-del-cartel-jalisco.html",
+                "date": "Fri, 24 Jul 2026 04:00:00 GMT"
             },
             {
-                "title": "Granadas aturdidoras, químicos y estrangulamientos: los relatos de mexicanos de los abusos del ICE",
-                "link": "https://elpais.com/mexico/2026-07-23/granadas-aturdidoras-quimicos-y-estrangulamientos-los-relatos-de-mexicanos-de-los-abusos-del-ice.html",
-                "date": "Thu, 23 Jul 2026 04:00:00 GMT"
+                "title": "El asesinato de 14 alcaldes en lo que va del sexenio acentúa la presión por la seguridad a nivel local",
+                "link": "https://elpais.com/mexico/2026-07-24/el-asesinato-de-14-alcaldes-en-lo-que-va-del-sexenio-acentua-la-presion-por-la-seguridad-a-nivel-local.html",
+                "date": "Fri, 24 Jul 2026 04:00:00 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-07-23"
+                "date": "2026-07-24"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Malasia lanza un bono islámico de 1.500 millones de dólares",
-                "link": "https://es.investing.com/news/economy-news/malasia-lanza-un-bono-islamico-de-1500-millones-de-dolares-93CH-3757096",
-                "date": "2026-07-23 17:38:41"
+                "title": "Tensión en Oriente Próximo; más aranceles de EE.UU.: 5 claves en Wall Street",
+                "link": "https://es.investing.com/news/economy-news/hostilidades-en-oriente-proximo-y-nuevos-aranceles-de-eeuu-mueven-los-mercados-3757758",
+                "date": "2026-07-24 07:52:17"
             },
             {
-                "title": "Los rendimientos del Tesoro alcanzan máximos de 18 meses por el alza del petróleo",
-                "link": "https://es.investing.com/news/economy-news/los-rendimientos-del-tesoro-alcanzan-maximos-de-18-meses-por-el-alza-del-petroleo-93CH-3756972",
-                "date": "2026-07-23 15:32:02"
+                "title": "La bolsa hoy: IBEX 35, Euro Dólar, petróleo y geopolítica",
+                "link": "https://es.investing.com/news/economy-news/la-bolsa-hoy-ibex-35-euro-dolar-petroleo-y-geopolitica-3757676",
+                "date": "2026-07-24 06:47:33"
             },
             {
-                "title": "Canadá promete defender sus intereses ante las amenazas arancelarias de EE.UU.",
-                "link": "https://es.investing.com/news/economy-news/canada-promete-defender-sus-intereses-ante-las-amenazas-arancelarias-de-eeuu-93CH-3756878",
-                "date": "2026-07-23 14:39:03"
+                "title": "Irán rechaza la propuesta de alto el fuego respaldada por EE.UU.",
+                "link": "https://es.investing.com/news/economy-news/iran-rechaza-propuesta-de-alto-el-fuego-respaldada-por-eeuu-3757487",
+                "date": "2026-07-24 00:32:13"
             },
             {
-                "title": "Tanzania explora la venta de un eurobono para financiarse con 1.000 millones de dólares",
-                "link": "https://es.investing.com/news/economy-news/tanzania-explora-la-venta-de-un-eurobono-para-financiarse-con-1000-millones-de-dolares-93CH-3756865",
-                "date": "2026-07-23 14:35:34"
+                "title": "EE.UU. impone aranceles vinculados al trabajo forzado a sus 60 principales socios comerciales",
+                "link": "https://es.investing.com/news/economy-news/eeuu-impone-aranceles-vinculados-al-trabajo-forzado-a-sus-60-principales-socios-comerciales-3757414",
+                "date": "2026-07-23 21:52:32"
             },
             {
-                "title": "El BCE prepara una subida de tipos en septiembre ante los riesgos de inflación",
-                "link": "https://es.investing.com/news/economy-news/el-bce-prepara-una-subida-de-tipos-en-septiembre-ante-los-riesgos-de-inflacion-3756860",
-                "date": "2026-07-23 14:28:19"
+                "title": "Canadá evalúa opciones de represalia ante la amenaza arancelaria de EE.UU.",
+                "link": "https://es.investing.com/news/economy-news/canada-evalua-opciones-de-represalia-ante-la-amenaza-arancelaria-de-eeuu-93CH-3757160",
+                "date": "2026-07-23 19:21:11"
             }
         ],
         "💶 Economía Europea (BCE)": [
+            {
+                "title": "ECB to start implementing enhanced repo facility for central banks",
+                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_2~d7d475d2f0.en.html",
+                "date": "Fri, 24 Jul 2026 10:30:00 +0200"
+            },
+            {
+                "title": "Results of the ECB Survey of Professional Forecasters for the third quarter of 2026",
+                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724~a099353951.en.html",
+                "date": "Fri, 24 Jul 2026 10:00:00 +0200"
+            },
+            {
+                "title": "ECB Consumer Expectations Survey results – June 2026",
+                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_1~fa277eb6fe.en.html",
+                "date": "Fri, 24 Jul 2026 10:00:00 +0200"
+            },
             {
                 "title": "ECB reveals shortlisted designs for new banknotes and launches public survey",
                 "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260723~c2d43f9170.en.html",
                 "date": "Thu, 23 Jul 2026 16:15:00 +0200"
             },
             {
-                "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+                "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
                 "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
                 "date": "Thu, 23 Jul 2026 15:00:00 +0200"
-            },
-            {
-                "title": "Monetary policy decisions",
-                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
-                "date": "Thu, 23 Jul 2026 14:15:00 +0200"
-            },
-            {
-                "title": "ECB appoints Boris Kisselevsky as Director General Secretariat",
-                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721_1~8c6ba4c5fb.en.html",
-                "date": "Tue, 21 Jul 2026 16:00:00 +0200"
-            },
-            {
-                "title": "July 2026 euro area bank lending survey",
-                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
-                "date": "Tue, 21 Jul 2026 10:00:00 +0200"
             }
         ],
         "📈 Mercados (Yahoo Finance)": [
@@ -151,31 +151,31 @@
                 "date": "2026-07-23T02:03:00Z"
             },
             {
-                "title": "China's Oil Output Hits Record High",
-                "link": "https://finance.yahoo.com/energy/articles/chinas-oil-output-hits-record-083000811.html",
-                "date": "2026-07-22T08:30:00Z"
+                "title": "S&P 500 Stock Chugs Past Buy Point; CSX Rises Late On Earnings",
+                "link": "https://www.investors.com/news/sp-500-wabtec-earnings-q2-csx/?src=A00220&yptr=yahoo",
+                "date": "2026-07-22T21:09:18Z"
             },
             {
-                "title": "ADNOC Approves $6.2 Billion Umm Shaif Gas Project to Boost UAE Supply",
-                "link": "https://finance.yahoo.com/energy/articles/adnoc-approves-6-2-billion-074448607.html",
-                "date": "2026-07-22T07:44:48Z"
+                "title": "Here’s Why Retail Investors Are Buying Microsoft (MSFT) on the Dip",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-retail-investors-buying-microsoft-210328043.html",
+                "date": "2026-07-22T21:03:28Z"
             },
             {
-                "title": "Zcash Price Warning: Multiple ZEC Technical Setups Point to Selloff Under $500",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/zcash-price-warning-multiple-zec-085141835.html",
-                "date": "2026-07-22T08:51:41Z"
+                "title": "Teledyne Technologies Incorporated Q2 2026 Earnings Call Summary",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/teledyne-technologies-incorporated-q2-2026-205319925.html",
+                "date": "2026-07-22T20:53:19Z"
             },
             {
-                "title": "Jim Cramer vs. The AI Bears: Why Apple’s Consumer Ecosystem Remains Unbreakable",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-vs-ai-bears-072307994.html",
-                "date": "2026-07-22T07:23:07Z"
+                "title": "IBM Cuts Revenue Guidance After Preliminary Earnings Release Cratered Stock",
+                "link": "https://www.investors.com/news/technology/ibm-stock-q2-2026-earnings-results/?src=A00220&yptr=yahoo",
+                "date": "2026-07-22T20:50:21Z"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-07-23"
+                "date": "2026-07-24"
             }
         ]
     }
