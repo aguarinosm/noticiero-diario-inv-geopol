@@ -2,6 +2,21 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "Educación en América Latina, Cisjordania, ébola… Las noticias del miércoles",
+                "link": "https://news.un.org/feed/view/es/story/2026/07/1541753",
+                "date": "Wed, 29 Jul 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Cisjordania: la ONU alerta de que la violencia y la anexión no hacen sino empeorar",
+                "link": "https://news.un.org/feed/view/es/story/2026/07/1541751",
+                "date": "Wed, 29 Jul 2026 12:00:00 +0000"
+            },
+            {
+                "title": "América Latina tendrá 38 millones menos de personas en edad escolar para 2050",
+                "link": "https://news.un.org/feed/view/es/story/2026/07/1541752",
+                "date": "Wed, 29 Jul 2026 12:00:00 +0000"
+            },
+            {
                 "title": "La hepatitis causa 3500 muertes al día pese a que existen vacunas y tratamientos eficaces",
                 "link": "https://news.un.org/feed/view/es/story/2026/07/1541750",
                 "date": "Tue, 28 Jul 2026 12:00:00 +0000"
@@ -10,114 +25,104 @@
                 "title": "Palestina, crisis climática, VIH, estafas en línea y trata… Las noticias del martes",
                 "link": "https://news.un.org/feed/view/es/story/2026/07/1541747",
                 "date": "Tue, 28 Jul 2026 12:00:00 +0000"
-            },
-            {
-                "title": "De la destrucción a la esperanza: el camino de un sobreviviente de la trata de personas",
-                "link": "https://news.un.org/feed/view/es/story/2026/07/1541748",
-                "date": "Tue, 28 Jul 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Las alarmas del cambio climático suenan en España, Francia y el resto del mundo",
-                "link": "https://news.un.org/feed/view/es/story/2026/07/1541746",
-                "date": "Tue, 28 Jul 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Falsas ofertas de empleo en línea alimentan una de las formas de trata de personas que más crece en el mundo",
-                "link": "https://news.un.org/feed/view/es/story/2026/07/1541745",
-                "date": "Tue, 28 Jul 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Rusia da orden de búsqueda contra Pavel Durov, fundador de Telegram",
-                "link": "https://www.dw.com/es/rusia-da-orden-de-búsqueda-contra-pavel-durov-fundador-de-telegram/a-78153786?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-07-29"
+                "title": "Masivo ataque nocturno de Rusia contra Ucrania",
+                "link": "https://www.dw.com/es/masivo-ataque-nocturno-de-rusia-contra-ucrania/a-78169480?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-07-30"
             },
             {
-                "title": "EE.UU. y Arabia Saudita atacan en Irak a grupos alineados con Irán",
-                "link": "https://www.dw.com/es/ee-uu-y-arabia-saudita-atacan-en-irak-a-grupos-alineados-con-irán/a-78152432?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-07-29"
+                "title": "Sismo en Japón: el balance de víctimas mortales asciende a 30",
+                "link": "https://www.dw.com/es/sismo-en-japón-el-balance-de-víctimas-mortales-asciende-a-30/a-78168334?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-07-30"
             },
             {
-                "title": "EEUU intercepta misiles iraníes tras reunión Trump-Netanyahu",
-                "link": "https://www.dw.com/es/eeuu-intercepta-misiles-iraníes-tras-reunión-trump-netanyahu/a-78152365?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-07-29"
+                "title": "Republicanos aplazan nominación de Blanche como fiscal general EEUU",
+                "link": "https://www.dw.com/es/republicanos-aplazan-nominación-de-blanche-como-fiscal-general-eeuu/a-78167478?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-07-30"
             },
             {
-                "title": "Un exfiscal se convierte en jefe de Inteligencia de EE.UU.",
-                "link": "https://www.dw.com/es/un-exfiscal-se-convierte-en-jefe-de-inteligencia-de-ee-uu/a-78152267?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-07-29"
+                "title": "EE.UU. golpea objetivos de Guardia Revolucionaria iraní",
+                "link": "https://www.dw.com/es/ee-uu-golpea-objetivos-de-guardia-revolucionaria-iraní/a-78167486?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-07-30"
             },
             {
-                "title": "Reportan 13 muertos tras sismo de magnitud 7,1 en Japón",
-                "link": "https://www.dw.com/es/reportan-13-muertos-tras-sismo-de-magnitud-7-1-en-japón/a-78152260?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-07-29"
+                "title": "Continúa búsqueda de atrapados en Japón tras sismo",
+                "link": "https://www.dw.com/es/continúa-búsqueda-de-atrapados-en-japón-tras-sismo/a-78167467?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-07-30"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Keiko Fujimori inaugura su Gobierno con mano dura en seguridad, obras públicas y ayudas estatales contra la desigualdad",
-                "link": "https://elpais.com/america/2026-07-29/keiko-fujimori-inaugura-su-gobierno-con-mano-dura-en-seguridad-obras-publicas-y-ayudas-estatales-contra-la-desigualdad.html",
-                "date": "Wed, 29 Jul 2026 04:25:00 GMT"
+                "title": "EE UU responde a la agresión iraní contra sus bases en Jordania con una “intensa” oleada de ataques",
+                "link": "https://elpais.com/internacional/2026-07-30/ee-uu-cumple-la-amenaza-de-atacar-iran-en-respuesta-a-los-misiles-lanzados-contra-sus-bases-en-jordania.html",
+                "date": "Thu, 30 Jul 2026 06:39:47 GMT"
             },
             {
-                "title": "Los aspirantes piden certezas a la UNAM ante el uso de IA en el examen: “No tengo que probar otra vez que me merezco ese lugar”",
-                "link": "https://elpais.com/mexico/2026-07-29/los-aspirantes-piden-certezas-a-la-unam-ante-el-uso-de-ia-en-el-examen-no-tengo-que-probar-otra-vez-que-me-merezco-ese-lugar.html",
-                "date": "Wed, 29 Jul 2026 05:20:04 GMT"
+                "title": "Repetir o no el examen de acceso: la UNAM se enfrenta a un dilema sin precedentes con todos los focos sobre la decisión",
+                "link": "https://elpais.com/mexico/2026-07-30/repetir-o-no-el-examen-de-acceso-la-unam-se-enfrenta-a-un-dilema-sin-precedentes-con-todos-los-focos-sobre-la-decision.html",
+                "date": "Thu, 30 Jul 2026 04:00:00 GMT"
             },
             {
-                "title": "“No hay ninguna flexibilidad”: desalentados los estudiantes internacionales en EE UU por los nuevos límites a sus visas",
-                "link": "https://elpais.com/us/2026-07-29/no-hay-ninguna-flexibilidad-desalentados-los-estudiantes-internacionales-en-ee-uu-por-los-nuevos-limites-a-sus-visas.html",
-                "date": "Wed, 29 Jul 2026 04:00:00 GMT"
+                "title": "Miles de niños migrantes están en riesgo de quedarse sin abogados: “Quieren meterlos en la maquinaria de deportación”",
+                "link": "https://elpais.com/us/migracion/2026-07-30/miles-de-ninos-migrantes-estan-en-riesgo-de-quedarse-sin-abogados-quieren-meterlos-en-la-maquinaria-de-deportacion.html",
+                "date": "Thu, 30 Jul 2026 04:00:00 GMT"
             },
             {
-                "title": "El fantasma de la corrupción ensombrece la recta final del Gobierno de Petro",
-                "link": "https://elpais.com/america-colombia/2026-07-29/el-fantasma-de-la-corrupcion-ensombrece-la-recta-final-del-gobierno-de-petro.html",
-                "date": "Wed, 29 Jul 2026 04:00:00 GMT"
+                "title": "Una cárcel que desnuda a migrantes y otra con “frío extremo”: las nuevas apuestas del plan de deportaciones masivas de Trump",
+                "link": "https://elpais.com/us/migracion/2026-07-30/una-carcel-que-desnuda-a-migrantes-y-otra-con-frio-extremo-las-nuevas-apuestas-del-plan-de-deportaciones-masivas-de-trump.html",
+                "date": "Thu, 30 Jul 2026 04:00:00 GMT"
             },
             {
-                "title": "“Es un mojado”: los insultos racistas que una demanda atribuye a agentes migratorios en Los Ángeles",
-                "link": "https://elpais.com/us/migracion/2026-07-29/es-un-mojado-los-insultos-racistas-que-una-demanda-atribuye-a-agentes-migratorios-en-los-angeles.html",
-                "date": "Wed, 29 Jul 2026 04:00:00 GMT"
+                "title": "Carlo Díaz, fiscal general de Costa Rica: “El Gobierno busca generar caos para limitar los derechos de la gente”",
+                "link": "https://elpais.com/america/2026-07-30/carlo-diaz-fiscal-general-de-costa-rica-el-gobierno-busca-generar-caos-para-limitar-los-derechos-de-la-gente.html",
+                "date": "Thu, 30 Jul 2026 04:00:00 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-07-29"
+                "date": "2026-07-30"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "La Fed decide hoy: el 38% del mercado apuesta por una subida de tipos",
-                "link": "https://es.investing.com/news/economy-news/la-fed-decide-hoy-el-38-del-mercado-apuesta-por-una-subida-de-tipos-3764659",
-                "date": "2026-07-29 07:54:33"
+                "title": "Decisión de la Fed y resultados de las tecnológicas: 5 claves en Wall Street",
+                "link": "https://es.investing.com/news/economy-news/decision-de-la-fed-y-resultados-tecnologicos-centran-la-atencion-3767719",
+                "date": "2026-07-30 07:31:07"
             },
             {
-                "title": "Decisión de la Fed; resultados de Meta y Microsoft: 5 claves en Wall Street",
-                "link": "https://es.investing.com/news/economy-news/decision-de-la-fed-meta-y-microsoft-presentan-resultados-3764636",
-                "date": "2026-07-29 07:38:08"
+                "title": "La bolsa hoy: IBEX 35, Euro Dólar y BoE",
+                "link": "https://es.investing.com/news/economy-news/la-bolsa-hoy-ibex-35-euro-dolar-y-boe-3767590",
+                "date": "2026-07-30 06:44:34"
             },
             {
-                "title": "La bolsa hoy: IBEX 35, Euro Dólar, decisión de la Fed y oro",
-                "link": "https://es.investing.com/news/economy-news/la-bolsa-hoy-ibex-35-euro-dolar-decision-de-la-fed-y-oro-3764506",
-                "date": "2026-07-29 06:36:07"
+                "title": "EE.UU. ataca decenas de objetivos en Irán tras interceptar misiles",
+                "link": "https://es.investing.com/news/economy-news/eeuu-lanza-ataques-contra-iran-tras-las-amenazas-de-trump-3767368",
+                "date": "2026-07-30 01:02:24"
             },
             {
-                "title": "Irán lanza misiles contra fuerzas de EE.UU. en Oriente Próximo",
-                "link": "https://es.investing.com/news/economy-news/iran-lanza-misiles-contra-fuerzas-de-eeuu-en-oriente-proximo-3764339",
-                "date": "2026-07-28 23:28:08"
+                "title": "EN VIVO - Conferencia de prensa de Kevin Warsh tras decisión de la Fed",
+                "link": "https://es.investing.com/news/economy-news/en-vivo--conferencia-de-prensa-de-kevin-warsh-tras-decision-de-la-fed-3766713",
+                "date": "2026-07-29 18:34:07"
             },
             {
-                "title": "Arabia Saudí intercepta drones dirigidos a instalaciones petroleras en la Provincia Oriental",
-                "link": "https://es.investing.com/news/economy-news/arabia-saudi-intercepta-drones-dirigidos-a-instalaciones-petroleras-en-la-provincia-oriental-93CH-3764064",
-                "date": "2026-07-28 19:49:33"
+                "title": "Canadá busca relaciones comerciales más estables con EE.UU., dice Carney",
+                "link": "https://es.investing.com/news/economy-news/canada-busca-relaciones-comerciales-mas-estables-con-eeuu-dice-carney-93CH-3766665",
+                "date": "2026-07-29 18:01:25"
             }
         ],
         "💶 Economía Europea (BCE)": [
+            {
+                "title": "Digital euro app to incorporate highest accessibility standards",
+                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html",
+                "date": "Thu, 30 Jul 2026 10:00:00 +0200"
+            },
             {
                 "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
                 "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
@@ -137,45 +142,40 @@
                 "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
                 "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
                 "date": "Fri, 24 Jul 2026 12:00:00 +0200"
-            },
-            {
-                "title": "Results of the June 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
-                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_3~c0b45e246f.en.html",
-                "date": "Fri, 24 Jul 2026 11:00:00 +0200"
             }
         ],
         "📈 Mercados (Yahoo Finance)": [
             {
-                "title": "Toyota doubles down on EVs while rivals retreat",
-                "link": "https://finance.yahoo.com/technology/articles/toyota-doubles-down-evs-while-033300077.html",
-                "date": "2026-07-28T03:33:00Z"
+                "title": "National beer and wine distributor files Chapter 11 bankruptcy",
+                "link": "https://finance.yahoo.com/small-business/articles/giant-wine-spirits-brand-files-170700174.html",
+                "date": "2026-07-29T00:09:53Z"
             },
             {
-                "title": "Johnson & Johnson (JNJ) Raised Its Outlook. Is It the Better Healthcare Stock to Own After Earnings?",
-                "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-jnj-raised-outlook-205741396.html",
-                "date": "2026-07-27T20:57:41Z"
+                "title": "Is it safe to store money in apps like Venmo, PayPal, and Cash App?",
+                "link": "https://finance.yahoo.com/personal-finance/banking/article/can-you-hold-money-cash-app-paypal-venmo-182920026.html",
+                "date": "2024-04-25T18:29:20Z"
             },
             {
-                "title": "Amazon's Leo Starlink Challenger Plans For More Satellites, Mobile Connectivity",
-                "link": "https://www.investors.com/news/technology/amazon-stock-amzn-leo-starlink-spacex/?src=A00220&yptr=yahoo",
-                "date": "2026-07-27T20:56:04Z"
+                "title": "Ahead of Qualcomm Earnings, Here's What Barchart Data Says Comes Next for QCOM Stock",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ahead-qualcomm-earnings-heres-barchart-203438468.html",
+                "date": "2026-07-28T20:34:38Z"
             },
             {
-                "title": "TFI first look: truckload shines, LTL doesn’t keep up",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/tfi-first-look-truckload-shines-205601910.html",
-                "date": "2026-07-27T20:56:01Z"
+                "title": "The Degens are Winning in Oil ETFs",
+                "link": "https://finance.yahoo.com/markets/commodities/articles/degens-winning-oil-etfs-203241395.html",
+                "date": "2026-07-28T20:32:41Z"
             },
             {
-                "title": "Genius Sports (GENI) Jumps 12% on ‘Buy’ Call, Price Target Hike",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/genius-sports-geni-jumps-12-205015888.html",
-                "date": "2026-07-27T20:50:15Z"
+                "title": "Mamdani unveils simple fix for NYC’s cost-of-living crisis: sell groceries 30% cheaper at city-run stores. Will it work?",
+                "link": "https://finance.yahoo.com/economy/policy/articles/mamdani-unveils-simple-fix-nyc-203500634.html",
+                "date": "2026-07-28T20:35:00Z"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-07-29"
+                "date": "2026-07-30"
             }
         ]
     }
