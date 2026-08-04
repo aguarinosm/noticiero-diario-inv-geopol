@@ -2,99 +2,119 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
-                "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
-                "link": "#",
-                "date": "2026-08-03"
+                "title": "Frente a una epidemia de ébola que bate todos los récords, la respuesta en RD Congo cambia de escala",
+                "link": "https://news.un.org/feed/view/es/story/2026/08/1541771",
+                "date": "Mon, 03 Aug 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Puertos más limpios y eficientes para transformar el comercio marítimo",
+                "link": "https://news.un.org/feed/view/es/story/2026/08/1541770",
+                "date": "Mon, 03 Aug 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Dar a luz en medio de la guerra: las parteras que protegen a las mujeres en Sudán",
+                "link": "https://news.un.org/feed/view/es/story/2026/08/1541769",
+                "date": "Mon, 03 Aug 2026 12:00:00 +0000"
+            },
+            {
+                "title": "La lactancia materna aumenta, pero millones de madres aún carecen del apoyo necesario",
+                "link": "https://news.un.org/feed/view/es/story/2026/08/1541768",
+                "date": "Mon, 03 Aug 2026 12:00:00 +0000"
+            },
+            {
+                "title": "El Niño, Ceuta, lactancia materna… Las noticias del viernes",
+                "link": "https://news.un.org/feed/view/es/story/2026/07/1541766",
+                "date": "Fri, 31 Jul 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Irán niega negociaciones con EE.UU. pese al anuncio de Trump",
-                "link": "https://www.dw.com/es/irán-niega-negociaciones-con-ee-uu-pese-al-anuncio-de-trump/a-78212036?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-03"
+                "title": "Alerta máxima en Seúl: ola de calor causa 16 muertos en Corea del Sur",
+                "link": "https://www.dw.com/es/alerta-máxima-en-seúl-ola-de-calor-causa-16-muertos-en-corea-del-sur/a-78226363?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-04"
             },
             {
-                "title": "Irán ejecuta a dos hombres condenados por espiar para Israel",
-                "link": "https://www.dw.com/es/irán-ejecuta-a-dos-hombres-condenados-por-espiar-para-israel/a-78210994?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-03"
+                "title": "Incendio en Francia deja al descubierto obuses de la II GM",
+                "link": "https://www.dw.com/es/incendio-en-francia-deja-al-descubierto-obuses-de-la-ii-gm/a-78224880?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-04"
             },
             {
-                "title": "Miles evacuados por fuertes lluvias en el centro de China",
-                "link": "https://www.dw.com/es/miles-evacuados-por-fuertes-lluvias-en-el-centro-de-china/a-78210771?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-03"
+                "title": "Incendios se intensifican en el noroeste de Estados Unidos",
+                "link": "https://www.dw.com/es/incendios-se-intensifican-en-el-noroeste-de-estados-unidos/a-78224857?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-04"
             },
             {
-                "title": "Japón y EE.UU. intervienen para frenar caída del yen",
-                "link": "https://www.dw.com/es/japón-y-ee-uu-intervienen-para-frenar-caída-del-yen/a-78210373?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-03"
+                "title": "Redadas de inmigrantes no paran en los aeropuertos de EE.UU.",
+                "link": "https://www.dw.com/es/redadas-de-inmigrantes-no-paran-en-los-aeropuertos-de-ee-uu/a-78224851?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-04"
             },
             {
-                "title": "Voraces incendios forestales arrasan ciudad del noroeste de EE.UU.",
-                "link": "https://www.dw.com/es/voraces-incendios-forestales-arrasan-ciudad-del-noroeste-de-ee-uu/a-78210365?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-03"
+                "title": "Trump acusa a petroleras de ganar \"demasiado dinero\" por la guerra en Irán",
+                "link": "https://www.dw.com/es/trump-acusa-a-petroleras-de-ganar-demasiado-dinero-por-la-guerra-en-irán/a-78224784?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-04"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "América Latina deja la seguridad pública en manos de los militares",
-                "link": "https://elpais.com/america/2026-08-03/america-latina-deja-la-seguridad-publica-en-manos-de-los-militares.html",
-                "date": "Mon, 03 Aug 2026 04:00:00 GMT"
+                "title": "De la Espriella redobla la hostilidad diplomática con Cuba a 10 años del Acuerdo de Paz",
+                "link": "https://elpais.com/america-colombia/2026-08-04/de-la-espriella-redobla-la-hostilidad-diplomatica-con-cuba-a-10-anos-del-acuerdo-de-paz.html",
+                "date": "Tue, 04 Aug 2026 04:00:00 GMT"
             },
             {
-                "title": "“¡Mexicanos!”, gritó un agente del ICE tras revisar la identificación del hermano de Lorenzo Salgado Araujo",
-                "link": "https://elpais.com/us/migracion/2026-08-03/mexicanos-grito-un-agente-del-ice-tras-revisar-la-identificacion-del-hermano-de-lorenzo-salgado-araujo.html",
-                "date": "Mon, 03 Aug 2026 04:00:00 GMT"
+                "title": "Los codictadores en su laberinto",
+                "link": "https://elpais.com/america/2026-08-04/los-codictadores-en-su-laberinto.html",
+                "date": "Tue, 04 Aug 2026 04:00:00 GMT"
             },
             {
-                "title": "Los republicanos se lanzan a la caza del doctor Fauci, la cara de la lucha de EE UU contra la covid",
-                "link": "https://elpais.com/us/2026-08-03/los-republicanos-se-lanzan-a-la-caza-del-doctor-fauci-la-cara-de-la-lucha-de-ee-uu-contra-la-covid.html",
-                "date": "Mon, 03 Aug 2026 03:30:01 GMT"
+                "title": "“Tuve que viajar, mi vida corría peligro”: cada vez más mujeres salen de Florida para abortar debido a las prohibiciones",
+                "link": "https://elpais.com/us/2026-08-04/tuve-que-viajar-mi-vida-corria-peligro-cada-vez-mas-mujeres-salen-de-florida-para-abortar-debido-a-las-prohibiciones.html",
+                "date": "Tue, 04 Aug 2026 04:00:00 GMT"
             },
             {
-                "title": "Tímido deshielo en Venezuela",
-                "link": "https://elpais.com/opinion/2026-08-03/timido-deshielo-en-venezuela.html",
-                "date": "Mon, 03 Aug 2026 03:30:01 GMT"
+                "title": "España reprochará en Bruselas la reacción europea a la crisis de Ceuta",
+                "link": "https://elpais.com/espana/2026-08-04/espana-reprochara-en-bruselas-la-reaccion-europea-a-la-crisis-de-ceuta.html",
+                "date": "Tue, 04 Aug 2026 03:30:01 GMT"
             },
             {
-                "title": "Trump asegura que las conversaciones con Irán se reanudarán este lunes",
-                "link": "https://elpais.com/internacional/2026-08-03/trump-asegura-que-las-conversaciones-con-iran-se-reanudaran-este-lunes.html",
-                "date": "Mon, 03 Aug 2026 03:35:13 GMT"
+                "title": "Fotos de desaparecidos en Ceuta en las mismas redes sociales que alentaron su éxodo",
+                "link": "https://elpais.com/espana/2026-08-04/las-familias-marroquies-buscan-a-los-desaparecidos-en-ceuta-en-las-mismas-redes-sociales-que-alentaron-su-exodo.html",
+                "date": "Tue, 04 Aug 2026 03:30:01 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-08-03"
+                "date": "2026-08-04"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Cinco cosas a seguir en los mercados esta semana",
-                "link": "https://es.investing.com/news/economy-news/cinco-cosas-a-seguir-en-los-mercados-esta-semana-3773472",
-                "date": "2026-08-03 08:20:21"
+                "title": "Incertidumbre en negociaciones con Irán; Palantir y Snap publican resultados",
+                "link": "https://es.investing.com/news/economy-news/incertidumbre-en-las-negociaciones-con-iran-palantir-y-snap-publican-resultados-3776041",
+                "date": "2026-08-04 08:03:39"
             },
             {
-                "title": "Irán, conflicto en Oriente Próximo, informe de Palantir: 5 claves en Wall Street",
-                "link": "https://es.investing.com/news/economy-news/iran-y-el-conflicto-en-oriente-proximo-resultados-de-palantir-a-la-vista-3773425",
-                "date": "2026-08-03 06:14:15"
+                "title": "India planea recortes fiscales para atraer inversión extranjera",
+                "link": "https://es.investing.com/news/economy-news/india-planea-recortes-fiscales-para-atraer-inversion-extranjera-3775775",
+                "date": "2026-08-04 04:00:08"
             },
             {
-                "title": "El PMI manufacturero privado de China se modera en julio",
-                "link": "https://es.investing.com/news/economy-news/pmi-manufacturero-privado-de-china-cae-en-julio-y-suma-ocho-meses-de-expansion-3773208",
-                "date": "2026-08-03 02:01:50"
+                "title": "Italia registra un superávit presupuestario de 13.400 millones de euros en julio",
+                "link": "https://es.investing.com/news/economy-news/italia-registra-un-superavit-presupuestario-de-13400-millones-de-euros-en-julio-93CH-3775444",
+                "date": "2026-08-03 19:02:03"
             },
             {
-                "title": "Trump dice que las negociaciones con Irán comienzan el lunes y un acuerdo sobre Ormuz es \"inminente\"",
-                "link": "https://es.investing.com/news/economy-news/trump-dice-que-las-negociaciones-con-iran-comienzan-el-lunes-y-un-acuerdo-sobre-ormuz-es-inminente-3773193",
-                "date": "2026-08-03 00:04:49"
+                "title": "La política monetaria de Warsh genera incertidumbre entre inversores, según Citadel Securities",
+                "link": "https://es.investing.com/news/economy-news/la-politica-monetaria-de-warsh-genera-incertidumbre-entre-inversores-segun-citadel-securities-3775342",
+                "date": "2026-08-03 17:33:07"
             },
             {
-                "title": "¿Qué es el principio de Anna Karénina aplicado a la política monetaria?",
-                "link": "https://es.investing.com/news/economy-news/que-es-el-principio-de-anna-karenina-aplicado-a-la-politica-monetaria-3773173",
-                "date": "2026-08-02 15:21:33"
+                "title": "Analistas de México reducen previsión de inflación para 2026 y mejoran perspectivas de crecimiento",
+                "link": "https://es.investing.com/news/economy-news/analistas-de-mexico-reducen-prevision-de-inflacion-para-2026-y-mejoran-perspectivas-de-crecimiento-93CH-3775144",
+                "date": "2026-08-03 15:25:46"
             }
         ],
         "💶 Economía Europea (BCE)": [
@@ -126,36 +146,36 @@
         ],
         "📈 Mercados (Yahoo Finance)": [
             {
-                "title": "Warren Buffett keeps pointing at the same ETF for a reason",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-keeps-pointing-same-160300409.html",
-                "date": "2026-08-02T16:03:00Z"
+                "title": "Trader Joe's has one advantage over Walmart and Target",
+                "link": "https://finance.yahoo.com/small-business/articles/trader-joes-one-advantage-over-003700727.html",
+                "date": "2026-08-04T00:37:00Z"
             },
             {
-                "title": "BP Completes Sale of Gelsenkirchen Refinery to Klesch Group",
-                "link": "https://finance.yahoo.com/energy/articles/bp-completes-sale-gelsenkirchen-refinery-094556316.html",
-                "date": "2026-08-03T09:45:56Z"
+                "title": "Wall Street Is Rewarding AI Results, Not Just AI Spending",
+                "link": "https://finance.yahoo.com/technology/ai/articles/wall-street-rewarding-ai-results-211926642.html",
+                "date": "2026-08-02T21:19:26Z"
             },
             {
-                "title": "Gen Z is taking job interviews on their phones — hiring managers call it 'incredibly disrespectful.' What to do instead",
-                "link": "https://finance.yahoo.com/small-business/articles/gen-z-taking-job-interviews-093000418.html",
-                "date": "2026-08-03T09:30:00Z"
+                "title": "Bessent ready to repeat joint yen intervention, urges bigger Fed backstop",
+                "link": "https://finance.yahoo.com/markets/currencies/articles/bessent-ready-repeat-joint-yen-004023739.html",
+                "date": "2026-08-03T00:40:23Z"
             },
             {
-                "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Trump calls off Iran attack, oil and bond yields ease",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-092516872.html",
-                "date": "2026-08-03T09:25:16Z"
+                "title": "How Corgi Funds Plans to Chase Down Wall Street’s Top Dogs",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/corgi-funds-plans-chase-down-040100979.html",
+                "date": "2026-08-03T04:01:00Z"
             },
             {
-                "title": "Analysis-How a US-Japan pact to hit yen speculators came together",
-                "link": "https://finance.yahoo.com/news/analysis-us-japan-pact-hit-092328850.html",
-                "date": "2026-08-03T09:25:13Z"
+                "title": "Wall Street Looks to Zillow, Rocket Mortgage Earnings for Clues on K-Shaped Housing Market",
+                "link": "https://finance.yahoo.com/real-estate/articles/wall-street-looks-zillow-rocket-040100835.html",
+                "date": "2026-08-03T04:01:00Z"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-08-03"
+                "date": "2026-08-04"
             }
         ]
     }
