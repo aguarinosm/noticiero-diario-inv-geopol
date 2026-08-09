@@ -2,6 +2,16 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "Las Américas registran el mayor número de casos de sarampión en 22 años",
+                "link": "https://news.un.org/feed/view/es/story/2026/08/1541787",
+                "date": "Sat, 08 Aug 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Negar la realidad no la hace desaparecer: olas de calor, incendios y sequías en Europa irán en aumento",
+                "link": "https://news.un.org/feed/view/es/story/2026/08/1541784",
+                "date": "Sat, 08 Aug 2026 12:00:00 +0000"
+            },
+            {
                 "title": "Ébola: piden ampliar urgentemente las medidas para contener la transmisión",
                 "link": "https://news.un.org/feed/view/es/story/2026/08/1541786",
                 "date": "Fri, 07 Aug 2026 12:00:00 +0000"
@@ -15,106 +25,96 @@
                 "title": "Cuba: expertos alertan de que las nuevas sanciones de EE.UU. pueden convertir la isla en una “Gaza silenciosa”",
                 "link": "https://news.un.org/feed/view/es/story/2026/08/1541782",
                 "date": "Thu, 06 Aug 2026 12:00:00 +0000"
-            },
-            {
-                "title": "300 niños han muerto en Gaza por acciones de Israel en los 300 días desde el anuncio del alto el fuego",
-                "link": "https://news.un.org/feed/view/es/story/2026/08/1541781",
-                "date": "Thu, 06 Aug 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Ucrania: nuevos ataques dejan decenas de civiles muertos y heridos",
-                "link": "https://news.un.org/feed/view/es/story/2026/08/1541780",
-                "date": "Wed, 05 Aug 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Justicia de EE.UU. bloquea obras del salón de baile de Trump",
-                "link": "https://www.dw.com/es/justicia-de-ee-uu-bloquea-obras-del-salón-de-baile-de-trump/a-78286710?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-08"
+                "title": "Irán plantea condiciones para reabrir el estrecho de Ormuz",
+                "link": "https://www.dw.com/es/irán-plantea-condiciones-para-reabrir-el-estrecho-de-ormuz/a-78292673?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-09"
             },
             {
-                "title": "Una decena de explosiones en Kiev tras alerta por misiles balísticos",
-                "link": "https://www.dw.com/es/una-decena-de-explosiones-en-kiev-tras-alerta-por-misiles-balísticos/a-78286684?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-08"
+                "title": "EE.UU. presiona a su industria de defensa por más armamento",
+                "link": "https://www.dw.com/es/ee-uu-presiona-a-su-industria-de-defensa-por-más-armamento/a-78292070?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-09"
             },
             {
-                "title": "España impone controles fronterizos a Italia en medio de crisis",
-                "link": "https://www.dw.com/es/españa-impone-controles-fronterizos-a-italia-en-medio-de-crisis/a-78286653?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-08"
+                "title": "Cáncer de Joe Bien “se ha extendido”, según su hijo",
+                "link": "https://www.dw.com/es/cáncer-de-joe-bien-se-ha-extendido-según-su-hijo/a-78291840?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-09"
             },
             {
-                "title": "Al menos dos muertos y 16 heridos en ataques rusos a Ucrania",
-                "link": "https://www.dw.com/es/al-menos-dos-muertos-y-16-heridos-en-ataques-rusos-a-ucrania/a-78286626?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-08"
+                "title": "La FIFA denuncia \"un esfuerzo concertado\" contra Infantino",
+                "link": "https://www.dw.com/es/la-fifa-denuncia-un-esfuerzo-concertado-contra-infantino/a-78291735?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-09"
             },
             {
-                "title": "Propiedad privada en Argentina: hasta dónde pudo avanzar Milei",
-                "link": "https://www.dw.com/es/propiedad-privada-en-argentina-hasta-dónde-pudo-avanzar-milei/a-78285832?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-08"
+                "title": "Tropas israelíes retornan a zona bajo control de Líbano",
+                "link": "https://www.dw.com/es/tropas-israelíes-retornan-a-zona-bajo-control-de-líbano/a-78291560?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-09"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Abelardo de la Espriella jura ante los congresistas pero da su primer discurso a los militares",
-                "link": "https://elpais.com/america-colombia/2026-08-08/abelardo-de-la-espriella-jura-ante-los-congresistas-pero-da-su-primer-discurso-a-los-militares.html",
-                "date": "Sat, 08 Aug 2026 01:26:06 GMT"
+                "title": "Colombia inicia una nueva era marcada por Dios y los uniformes",
+                "link": "https://elpais.com/america-colombia/2026-08-09/colombia-inicia-una-nueva-era-marcada-por-dios-y-los-uniformes.html",
+                "date": "Sun, 09 Aug 2026 04:00:00 GMT"
             },
             {
-                "title": "Las claves del discurso de posesión de Abelardo de la Espriella",
-                "link": "https://elpais.com/america-colombia/2026-08-08/las-claves-del-discurso-de-posesion-de-abelardo-de-la-espriella.html",
-                "date": "Sat, 08 Aug 2026 03:00:09 GMT"
+                "title": "El ejército de la fe: la batalla cultural que varias iglesias quieren ganar en el Gobierno de Abelardo de la Espriella",
+                "link": "https://elpais.com/america-colombia/2026-08-09/el-ejercito-de-la-fe-la-batalla-cultural-que-varias-iglesias-quieren-ganar-en-el-gobierno-de-abelardo-de-la-espriella.html",
+                "date": "Sun, 09 Aug 2026 03:30:00 GMT"
             },
             {
-                "title": "Abelardo de la Espriella convierte su investidura en una cumbre de la derecha: “Colombia, desde ahora, deja de ser un paria”",
-                "link": "https://elpais.com/america-colombia/2026-08-08/abelardo-de-la-espriella-convierte-su-investidura-en-una-cumbre-de-la-derecha-colombia-desde-ahora-deja-de-ser-un-paria.html",
-                "date": "Sat, 08 Aug 2026 01:45:10 GMT"
+                "title": "De la Espriella exhibe mano dura en su primer día al enviar 117 reos a cárceles de máxima seguridad",
+                "link": "https://elpais.com/america-colombia/2026-08-08/de-la-espriella-exhibe-mano-dura-en-su-primer-dia-al-enviar-117-reos-a-carceles-de-maxima-seguridad.html",
+                "date": "Sat, 08 Aug 2026 23:16:13 GMT"
             },
             {
-                "title": "El giro de Colombia",
-                "link": "https://elpais.com/opinion/2026-08-08/el-giro-de-colombia.html",
-                "date": "Sat, 08 Aug 2026 03:30:01 GMT"
+                "title": "De la Espriella style",
+                "link": "https://elpais.com/america-colombia/2026-08-09/de-la-espriella-style.html",
+                "date": "Sun, 09 Aug 2026 03:30:00 GMT"
             },
             {
-                "title": "“Esto es África, aguántense”: la vida de los últimos migrantes deportados de Estados Unidos a Bangui",
-                "link": "https://elpais.com/us/2026-08-08/esto-es-africa-aguantense-la-vida-de-los-ultimos-migrantes-deportados-de-estados-unidos-a-bangui.html",
-                "date": "Sat, 08 Aug 2026 04:00:00 GMT"
+                "title": "Pramila Jayapal, congresista demócrata: “Nos tenemos que preparar por si Trump intenta robar las elecciones”",
+                "link": "https://elpais.com/us/2026-08-09/pramila-jayapal-congresista-democrata-nos-tenemos-que-preparar-por-si-trump-intenta-robar-las-elecciones.html",
+                "date": "Sun, 09 Aug 2026 03:30:01 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-08-08"
+                "date": "2026-08-09"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Funcionarios del Reino Unido temen que la flexibilidad fiscal de Burnham desestabilice los mercados de bonos",
-                "link": "https://es.investing.com/news/economy-news/funcionarios-del-reino-unido-temen-que-la-flexibilidad-fiscal-de-burnham-desestabilice-los-mercados-de-bonos-3786918",
-                "date": "2026-08-08 06:02:54"
+                "title": "Los robots humanoides son tanto una historia de computación como de robótica",
+                "link": "https://es.investing.com/news/economy-news/los-robots-humanoides-son-tanto-una-historia-de-computacion-como-de-robotica-3787011",
+                "date": "2026-08-09 06:00:38"
             },
             {
-                "title": "EE.UU. planea un paquete de ayuda de seguridad de 1.000 millones de dólares para Colombia",
-                "link": "https://es.investing.com/news/economy-news/eeuu-planea-un-paquete-de-ayuda-de-seguridad-de-1000-millones-de-dolares-para-colombia-3786900",
-                "date": "2026-08-08 03:22:09"
+                "title": "Incendio en la refinería Jazan de Saudi Aramco extinguido sin heridos",
+                "link": "https://es.investing.com/news/economy-news/incendio-en-la-refineria-jazan-de-saudi-aramco-extinguido-sin-heridos-3787005",
+                "date": "2026-08-09 04:03:50"
             },
             {
-                "title": "Ucrania acuerda no atacar ciertos petroleros y la infraestructura petrolera del Mar Negro",
-                "link": "https://es.investing.com/news/economy-news/ucrania-acuerda-no-atacar-ciertos-petroleros-y-la-infraestructura-petrolera-del-mar-negro-3786883",
-                "date": "2026-08-08 01:58:53"
+                "title": "La inflación en las fábricas de China se modera más de lo esperado en julio",
+                "link": "https://es.investing.com/news/economy-news/la-inflacion-en-las-fabricas-de-china-se-modera-mas-de-lo-esperado-en-julio-3787000",
+                "date": "2026-08-09 02:41:15"
             },
             {
-                "title": "EE.UU. espera pronto un acuerdo sobre el Estrecho de Ormuz mientras potencias suníes firman pacto de defensa",
-                "link": "https://es.investing.com/news/economy-news/eeuu-espera-pronto-un-acuerdo-sobre-el-estrecho-de-ormuz-mientras-potencias-sunies-firman-pacto-de-defensa-3786874",
-                "date": "2026-08-08 01:25:50"
+                "title": "El Pentágono pide a las empresas de defensa acelerar la producción",
+                "link": "https://es.investing.com/news/economy-news/el-pentagono-pide-a-las-empresas-de-defensa-acelerar-la-produccion-3786992",
+                "date": "2026-08-09 00:38:48"
             },
             {
-                "title": "Brett Matsumoto confirmado como comisionado del BLS tras el despido de su predecesora",
-                "link": "https://es.investing.com/news/economy-news/brett-matsumoto-confirmado-como-comisionado-del-bls-tras-el-despido-de-su-predecesora-93CH-3786723",
-                "date": "2026-08-07 19:30:46"
+                "title": "Alemania advierte de amenazas híbridas constantes tras incidente con dron",
+                "link": "https://es.investing.com/news/economy-news/alemania-advierte-de-amenazas-hibridas-constantes-tras-incidente-con-dron-3786990",
+                "date": "2026-08-08 23:56:26"
             }
         ],
         "💶 Economía Europea (BCE)": [
@@ -146,36 +146,36 @@
         ],
         "📈 Mercados (Yahoo Finance)": [
             {
-                "title": "Palantir CEO drops 11-word bombshell for stock market investors",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-ceo-drops-11-word-160300224.html",
-                "date": "2026-08-07T16:03:00Z"
+                "title": "Ondo Perps hits $7 billion in volume weeks after launch",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/ondo-perps-hits-7-billion-215819332.html",
+                "date": "2026-08-07T21:58:19Z"
             },
             {
-                "title": "Goldman Sachs sees 168% upside in this controversial power stock",
-                "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-sees-168-upside-213300285.html",
-                "date": "2026-08-06T21:33:00Z"
+                "title": "Tech stocks today: Shares climb after rocky week",
+                "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-shares-climb-after-rocky-week-140419479.html",
+                "date": "2026-08-03T14:04:19Z"
             },
             {
-                "title": "Lower Oil Prices Lend Support For The Gold Rally",
-                "link": "https://finance.yahoo.com/markets/commodities/articles/lower-oil-prices-lend-support-000000831.html",
-                "date": "2026-08-07T00:00:00Z"
+                "title": "Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/intel-quashed-dividend-2024-now-230002940.html",
+                "date": "2026-08-07T23:00:02Z"
             },
             {
-                "title": "When will mortgage rates go down from a more than one-year high?",
-                "link": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-from-a-more-than-one-year-high-190610094.html",
-                "date": "2025-04-22T19:06:10Z"
+                "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
+                "link": "https://finance.yahoo.com/energy/articles/oil-traders-stay-bearish-despite-230000144.html",
+                "date": "2026-08-07T23:00:00Z"
             },
             {
-                "title": "Fed's Musalem says central bank should have hiked rates at last meeting",
-                "link": "https://finance.yahoo.com/economy/policy/articles/feds-musalem-argues-against-easy-213146908.html",
-                "date": "2026-08-06T23:14:05Z"
+                "title": "Stock market today: Dow, S&P 500, Nasdaq jump to cap winning week as Fed rate hike fears fade",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-7-nasdaq-dow-sp-500-july-jobs-report-surprises-100009572.html",
+                "date": "2026-08-07T10:00:09Z"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-08-08"
+                "date": "2026-08-09"
             }
         ]
     }
