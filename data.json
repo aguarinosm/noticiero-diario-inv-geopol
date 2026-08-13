@@ -2,99 +2,119 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
-                "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
-                "link": "#",
-                "date": "2026-08-12"
+                "title": "El terremoto en Colombia deja 224 muertos y afecta a 13 departamentos",
+                "link": "https://news.un.org/feed/view/es/story/2026/08/1541802",
+                "date": "Wed, 12 Aug 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Ataque mortal a un barco en el Mar Rojo aumenta la incertidumbre en las cadenas de suministro globales",
+                "link": "https://news.un.org/feed/view/es/story/2026/08/1541801",
+                "date": "Wed, 12 Aug 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Las rutas migratorias se vuelven más mortales en 2026 pese al desplome de llegadas a Europa",
+                "link": "https://news.un.org/feed/view/es/story/2026/08/1541800",
+                "date": "Wed, 12 Aug 2026 12:00:00 +0000"
+            },
+            {
+                "title": "ONU Derechos Humanos denuncia el maltrato sistemático de Israel a los palestinos que regresan a Gaza",
+                "link": "https://news.un.org/feed/view/es/story/2026/08/1541799",
+                "date": "Wed, 12 Aug 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Documentan ataques deliberados contra civiles, escuelas y hospitales en Myanmar",
+                "link": "https://news.un.org/feed/view/es/story/2026/08/1541798",
+                "date": "Tue, 11 Aug 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Ucrania lanza ataque masivo contra la ciudad rusa de Novorosíisk, a orillas del mar Negro",
-                "link": "https://www.dw.com/es/ucrania-lanza-ataque-masivo-contra-la-ciudad-rusa-de-novorosíisk-a-orillas-del-mar-negro/a-78330292?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-12"
+                "title": "Putin visita las disputadas islas Kuriles por primera vez, según prensa estatal",
+                "link": "https://www.dw.com/es/putin-visita-las-disputadas-islas-kuriles-por-primera-vez-según-prensa-estatal/a-78345570?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-13"
             },
             {
-                "title": "Cristiano Ronaldo se casa en total discreción en Portugal",
-                "link": "https://www.dw.com/es/cristiano-ronaldo-se-casa-en-total-discreción-en-portugal/a-78329387?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-12"
+                "title": "Preparan juicio contra Meta por presunta adicción de menores",
+                "link": "https://www.dw.com/es/preparan-juicio-contra-meta-por-presunta-adicción-de-menores/a-78344760?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-13"
             },
             {
-                "title": "Demócratas votan en estados clave de EEUU en medio de pugnas",
-                "link": "https://www.dw.com/es/demócratas-votan-en-estados-clave-de-eeuu-en-medio-de-pugnas/a-78329376?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-12"
+                "title": "Trump anuncia la salida del cargo de su principal portavoz",
+                "link": "https://www.dw.com/es/trump-anuncia-la-salida-del-cargo-de-su-principal-portavoz/a-78344545?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-13"
             },
             {
-                "title": "Un ferri sobrecargado vuelca en un lago en Zimbabue",
-                "link": "https://www.dw.com/es/un-ferri-sobrecargado-vuelca-en-un-lago-en-zimbabue/a-78329369?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-12"
+                "title": "Eritrea gana peso en la disputa geopolítica por el Cuerno de África",
+                "link": "https://www.dw.com/es/eritrea-gana-peso-en-la-disputa-geopolítica-por-el-cuerno-de-áfrica/a-78343076?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-13"
             },
             {
-                "title": "Corea del Norte lanza un misil balístico en el mar de Japón",
-                "link": "https://www.dw.com/es/corea-del-norte-lanza-un-misil-balístico-en-el-mar-de-japón/a-78329136?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-12"
+                "title": "Estados del Golfo buscan alternativa al estrecho de Ormuz",
+                "link": "https://www.dw.com/es/estados-del-golfo-buscan-alternativa-al-estrecho-de-ormuz/a-78342246?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-13"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Colombia en las 72 horas tras el terremoto: despliegue desigual y titubeos ante el auxilio internacional",
-                "link": "https://elpais.com/america-colombia/2026-08-12/colombia-en-las-72-horas-tras-el-terremoto-despliegue-desigual-y-titubeos-ante-el-auxilio-internacional.html",
-                "date": "Wed, 12 Aug 2026 03:45:00 GMT"
+                "title": "La lluvia amenaza los albergues improvisados de Cali: “No tenemos a dónde ir”",
+                "link": "https://elpais.com/america-colombia/2026-08-13/la-lluvia-amenaza-los-albergues-improvisados-de-cali-no-tenemos-a-donde-ir.html",
+                "date": "Thu, 13 Aug 2026 04:00:00 GMT"
             },
             {
-                "title": "Dos terremotos, dos respuestas: las reacciones de Venezuela y Colombia a la tragedia",
-                "link": "https://elpais.com/america-colombia/2026-08-12/dos-terremotos-dos-respuestas-las-reacciones-de-venezuela-y-colombia-a-la-tragedia.html",
-                "date": "Wed, 12 Aug 2026 03:30:00 GMT"
+                "title": "La incertidumbre y el temor se apoderan de Quibdó tras el terremoto: “¿Es verdad que la casita se va a caer?”",
+                "link": "https://elpais.com/america-colombia/2026-08-13/la-incertidumbre-y-el-temor-se-apoderan-de-quibdo-tras-el-terremoto-es-verdad-que-la-casita-se-va-a-caer.html",
+                "date": "Thu, 13 Aug 2026 04:00:00 GMT"
             },
             {
-                "title": "La reconstrucción tras el terremoto pone en aprietos la promesa de recorte de De La Espriella",
-                "link": "https://elpais.com/america-colombia/2026-08-12/la-reconstruccion-tras-el-terremoto-pone-en-aprietos-la-promesa-de-recorte-de-de-la-espriella.html",
-                "date": "Wed, 12 Aug 2026 03:30:00 GMT"
+                "title": "Abelardo de la Espriella anuncia una emergencia económica para enfrentar la reconstrucción tras el terremoto",
+                "link": "https://elpais.com/america-colombia/2026-08-12/abelardo-de-la-espriella-anuncia-una-emergencia-economica-para-enfrentar-la-reconstruccion-tras-el-terremoto.html",
+                "date": "Wed, 12 Aug 2026 22:48:32 GMT"
             },
             {
-                "title": "De la Espriella asume el costo de la falta de empalme: enfrenta el terremoto sin director propio en la gestión de desastres",
-                "link": "https://elpais.com/america-colombia/2026-08-11/de-la-espriella-asume-el-costo-de-la-falta-de-empalme-enfrenta-el-terremoto-sin-director-propio-en-la-gestion-de-desastres.html",
-                "date": "Tue, 11 Aug 2026 21:40:42 GMT"
+                "title": "El Senado autoriza al expresidente Petro a salir de Colombia",
+                "link": "https://elpais.com/america-colombia/2026-08-13/el-senado-autoriza-al-expresidente-petro-a-salir-de-colombia.html",
+                "date": "Thu, 13 Aug 2026 00:16:29 GMT"
             },
             {
-                "title": "Colombia, unida por la tragedia",
-                "link": "https://elpais.com/opinion/2026-08-12/colombia-unida-por-la-tragedia.html",
-                "date": "Wed, 12 Aug 2026 03:30:01 GMT"
+                "title": "Reconocer cuerpos por videollamada: el duelo a distancia de la migración venezolana",
+                "link": "https://elpais.com/america/2026-08-13/reconocer-cuerpos-por-videollamada-el-duelo-a-distancia-de-la-migracion-venezolana.html",
+                "date": "Thu, 13 Aug 2026 04:00:00 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-08-12"
+                "date": "2026-08-13"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "El IPC de EE.UU. de julio, a prueba: qué espera el mercado hoy",
-                "link": "https://es.investing.com/news/economy-news/el-ipc-de-eeuu-de-julio-a-prueba-que-espera-el-mercado-hoy-3791840",
-                "date": "2026-08-12 06:23:21"
+                "title": "El PIB del Reino Unido crece un 0,4% en el segundo trimestre",
+                "link": "https://es.investing.com/news/economy-news/el-pib-del-reino-unido-crece-un-04-en-el-segundo-trimestre-3794148",
+                "date": "2026-08-13 06:21:08"
             },
             {
-                "title": "Trump estudia recortes al impuesto sobre las ganancias de capital",
-                "link": "https://es.investing.com/news/economy-news/trump-estudia-recortes-al-impuesto-sobre-las-ganancias-de-capital-3791690",
-                "date": "2026-08-12 00:36:05"
+                "title": "El gobierno japonés apoya una subida anticipada de tipos del Banco de Japón",
+                "link": "https://es.investing.com/news/economy-news/el-gobierno-japones-apoya-una-subida-anticipada-de-tipos-del-banco-de-japon-3794112",
+                "date": "2026-08-13 05:26:16"
             },
             {
-                "title": "Los hutíes afirman haber atacado un buque saudí en Bab el-Mandeb",
-                "link": "https://es.investing.com/news/economy-news/los-huties-afirman-haber-atacado-un-buque-saudi-en-bab-elmandeb-93CH-3790779",
-                "date": "2026-08-11 18:13:48"
+                "title": "Los rendimientos de los bonos de Canadá caen tras datos de inflación de EE.UU.",
+                "link": "https://es.investing.com/news/economy-news/los-rendimientos-de-los-bonos-de-canada-caen-tras-datos-de-inflacion-de-eeuu-93CH-3793635",
+                "date": "2026-08-12 18:58:53"
             },
             {
-                "title": "Irán vincula la apertura del Estrecho de Ormuz a cambios en la política monetaria de EE.UU.",
-                "link": "https://es.investing.com/news/economy-news/iran-vincula-la-apertura-del-estrecho-de-ormuz-a-cambios-en-la-politica-monetaria-de-eeuu-93CH-3790758",
-                "date": "2026-08-11 17:44:44"
+                "title": "El déficit presupuestario de EE.UU. alcanza 1,799 billones de dólares hasta julio",
+                "link": "https://es.investing.com/news/economy-news/el-deficit-presupuestario-de-eeuu-alcanza-1799-billones-de-dolares-hasta-julio-3793620",
+                "date": "2026-08-12 18:40:09"
             },
             {
-                "title": "Venezuela e Israel acuerdan restablecer servicios consulares",
-                "link": "https://es.investing.com/news/economy-news/venezuela-e-israel-acuerdan-restablecer-servicios-consulares-93CH-3790757",
-                "date": "2026-08-11 17:42:23"
+                "title": "El sector servicios de Brasil se mantiene estable en junio y supera las previsiones",
+                "link": "https://es.investing.com/news/economy-news/el-sector-servicios-de-brasil-se-mantiene-estable-en-junio-y-supera-las-previsiones-93CH-3793580",
+                "date": "2026-08-12 17:46:45"
             }
         ],
         "💶 Economía Europea (BCE)": [
@@ -126,36 +146,36 @@
         ],
         "📈 Mercados (Yahoo Finance)": [
             {
-                "title": "Billionaire sues ex-employee over alleged theft",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/billionaire-sues-ex-employee-over-005000617.html",
-                "date": "2026-08-11T00:50:00Z"
+                "title": "Bank of America sends blunt message to Nvidia stock investors",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html",
+                "date": "2026-08-12T17:47:00Z"
             },
             {
-                "title": "CareDx Stock Is Up 300% Over the Past Year. Here’s How Much Upside Is Left.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/caredx-stock-300-over-past-202003202.html",
-                "date": "2026-08-10T20:20:03Z"
+                "title": "How are mortgage rates determined? The Fed, your credit score, and more.",
+                "link": "https://finance.yahoo.com/personal-finance/mortgages/article/what-determines-mortgage-rates-182515831.html",
+                "date": "2024-07-30T18:25:15Z"
             },
             {
-                "title": "The ETFs Most Exposed to the 2026 Chip Supply Chain Crisis — Winners and Losers",
-                "link": "https://finance.yahoo.com/technology/articles/etfs-most-exposed-2026-chip-201522189.html",
-                "date": "2026-08-10T20:15:22Z"
+                "title": "What is compound interest, and how is it calculated?",
+                "link": "https://finance.yahoo.com/personal-finance/banking/article/what-is-compound-interest-121302430.html",
+                "date": "2023-12-15T22:26:33Z"
             },
             {
-                "title": "Hims & Hers raises annual forecast revenue on strong subscriber growth",
-                "link": "https://finance.yahoo.com/healthcare/articles/hims-hers-raises-annual-forecast-201531948.html",
-                "date": "2026-08-10T20:15:31Z"
+                "title": "Dear SK Hynix Stock Fans, Here's What to Make of the AI Giant's Recent Results",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/dear-sk-hynix-stock-fans-193250643.html",
+                "date": "2026-08-11T19:32:50Z"
             },
             {
-                "title": "Why Vertex Pharma Popped, As A Key Rival Plummeted 92%",
-                "link": "https://www.investors.com/news/technology/vertex-stock-sionna-therapeutics-cystic-fibrosis-treatment/?src=A00220&yptr=yahoo",
-                "date": "2026-08-10T20:04:20Z"
+                "title": "Dollar Slightly Higher as Crude Oil Rallies and Stocks Fall",
+                "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-slightly-higher-crude-oil-193335507.html",
+                "date": "2026-08-11T19:33:35Z"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-08-12"
+                "date": "2026-08-13"
             }
         ]
     }
