@@ -2,6 +2,21 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "Ucrania: tras cuatro años y medio, la guerra alcanza un nuevo umbral tecnológico",
+                "link": "https://news.un.org/feed/view/es/story/2026/08/1541833",
+                "date": "Mon, 24 Aug 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Las rutas comerciales, bajo presión: la ONU propone un mecanismo para aliviar el cerco en Ormuz",
+                "link": "https://news.un.org/feed/view/es/story/2026/08/1541831",
+                "date": "Mon, 24 Aug 2026 12:00:00 +0000"
+            },
+            {
+                "title": "El negocio de devolverle vida a la tierra",
+                "link": "https://news.un.org/feed/view/es/story/2026/08/1541830",
+                "date": "Mon, 24 Aug 2026 12:00:00 +0000"
+            },
+            {
                 "title": "Cien días de ébola en RD Congo: más de 2500 muertos y un brote que ya supera en extensión a Francia",
                 "link": "https://news.un.org/feed/view/es/story/2026/08/1541829",
                 "date": "Fri, 21 Aug 2026 12:00:00 +0000"
@@ -10,111 +25,96 @@
                 "title": "Terremoto en Colombia: 1,2 millones de personas necesitan ayuda humanitaria",
                 "link": "https://news.un.org/feed/view/es/story/2026/08/1541828",
                 "date": "Thu, 20 Aug 2026 12:00:00 +0000"
-            },
-            {
-                "title": "América Latina busca convertir su potencial agroalimentario en inversiones para el campo",
-                "link": "https://news.un.org/feed/view/es/story/2026/08/1541827",
-                "date": "Thu, 20 Aug 2026 12:00:00 +0000"
-            },
-            {
-                "title": "El primer brote de mpox en Guinea-Bissau sorprende por su elevada incidencia entre niños",
-                "link": "https://news.un.org/feed/view/es/story/2026/08/1541825",
-                "date": "Thu, 20 Aug 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Corte Penal Internacional: las nuevas sanciones de Estados Unidos son un ataque flagrante contra su independencia",
-                "link": "https://news.un.org/feed/view/es/story/2026/08/1541823",
-                "date": "Wed, 19 Aug 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Tifón Narra deja 16.000 evacuados en región del sur de China",
-                "link": "https://www.dw.com/es/tifón-narra-deja-16-000-evacuados-en-región-del-sur-de-china/a-78480386?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-24"
+                "title": "Tifón Saudel avanza en Japón y obliga a evacuaciones",
+                "link": "https://www.dw.com/es/tifón-saudel-avanza-en-japón-y-obliga-a-evacuaciones/a-78491557?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-25"
             },
             {
-                "title": "Siria confirma conversaciones con Israel para reducir tensiones",
-                "link": "https://www.dw.com/es/siria-confirma-conversaciones-con-israel-para-reducir-tensiones/a-78479612?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-24"
+                "title": "Aliados europeos reafirman su apoyo a Ucrania",
+                "link": "https://www.dw.com/es/aliados-europeos-reafirman-su-apoyo-a-ucrania/a-78491341?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-25"
             },
             {
-                "title": "Más de 40.000 evacuados por incendio forestal en  EE.UU.",
-                "link": "https://www.dw.com/es/más-de-40-000-evacuados-por-incendio-forestal-en-ee-uu/a-78479903?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-24"
+                "title": "\"Proyectil desconocido\" impacta petrolero frente a costas de Omán",
+                "link": "https://www.dw.com/es/proyectil-desconocido-impacta-petrolero-frente-a-costas-de-omán/a-78491115?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-25"
             },
             {
-                "title": "Hamás asegura que cometas llegadas a Israel son juguetes",
-                "link": "https://www.dw.com/es/hamás-asegura-que-cometas-llegadas-a-israel-son-juguetes/a-78479530?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-24"
+                "title": "Grecia afronta ola de calor con sensación térmica de 48 grados",
+                "link": "https://www.dw.com/es/grecia-afronta-ola-de-calor-con-sensación-térmica-de-48-grados/a-78490833?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-25"
             },
             {
-                "title": "El primer ministro británico viaja a Ucrania",
-                "link": "https://www.dw.com/es/el-primer-ministro-británico-viaja-a-ucrania/a-78479579?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-08-24"
+                "title": "EE.UU. retira a Siria de lista de países que promueven el terrorismo",
+                "link": "https://www.dw.com/es/ee-uu-retira-a-siria-de-lista-de-países-que-promueven-el-terrorismo/a-78490814?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-08-25"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Una redada, 46 historias truncadas: “Me falta la vida sin mi hija”",
-                "link": "https://elpais.com/us/migracion/2026-08-24/una-redada-46-historias-truncadas-me-falta-la-vida-sin-mi-hija.html",
-                "date": "Mon, 24 Aug 2026 03:30:01 GMT"
+                "title": "A dos meses de los terremotos en Venezuela, La Guaira regresa al trabajo sin turismo y entre los escombros",
+                "link": "https://elpais.com/america/2026-08-25/a-dos-meses-de-los-terremotos-en-venezuela-la-guaira-regresa-al-trabajo-sin-turismo-y-entre-los-escombros.html",
+                "date": "Tue, 25 Aug 2026 04:00:00 GMT"
             },
             {
-                "title": "Washington no se acostumbra a la Guardia Nacional un año después de que Trump enviara las tropas",
-                "link": "https://elpais.com/internacional/2026-08-24/washington-no-se-acostumbra-a-la-guardia-nacional-un-ano-despues-de-que-trump-enviara-las-tropas.html",
-                "date": "Mon, 24 Aug 2026 03:45:01 GMT"
+                "title": "El Gobierno suspende las emisoras de paz, el único punto del Acuerdo con las FARC que se ha cumplido totalmente",
+                "link": "https://elpais.com/america-colombia/2026-08-25/el-gobierno-suspende-las-emisoras-de-paz-el-unico-punto-del-acuerdo-con-las-farc-que-ha-cumplido-totalmente.html",
+                "date": "Tue, 25 Aug 2026 04:00:00 GMT"
             },
             {
-                "title": "El ‘lobby’ petrolero proTrump se hace de oro con la guerra contra Irán",
-                "link": "https://elpais.com/internacional/2026-08-24/el-lobby-petrolero-pro-trump-se-hace-de-oro-con-la-guerra-contra-iran.html",
-                "date": "Mon, 24 Aug 2026 03:45:01 GMT"
+                "title": "Trump insiste con imponer una tarifa altísima a las visas H-1B, ahora busca que sea de 103.265 dólares",
+                "link": "https://elpais.com/us/migracion/2026-08-25/trump-insiste-con-imponer-una-tarifa-altisima-a-las-visas-h-1b-ahora-busca-que-sea-de-103265-dolares.html",
+                "date": "Tue, 25 Aug 2026 04:00:00 GMT"
             },
             {
-                "title": "Los partidos del gran centro oportunista de Brasil se declaran neutrales en la elección presidencial",
-                "link": "https://elpais.com/america/2026-08-24/los-partidos-del-gran-centro-oportunista-de-brasil-se-declaran-neutrales-en-la-eleccion-presidencial.html",
-                "date": "Mon, 24 Aug 2026 04:00:00 GMT"
+                "title": "La Administración de Trump encara en el mercado de deuda su gran batalla financiera",
+                "link": "https://cincodias.elpais.com/mercados-financieros/2026-08-25/la-administracion-de-trump-encara-en-el-mercado-de-deuda-su-gran-batalla-financiera.html",
+                "date": "Tue, 25 Aug 2026 03:30:01 GMT"
             },
             {
-                "title": "El Congreso Panamericano pide un diálogo más igualitario entre el norte y el sur de las Américas",
-                "link": "https://elpais.com/america/2026-08-24/el-congreso-panamericano-pide-un-dialogo-mas-igualitario-entre-el-norte-y-el-sur-de-las-americas.html",
-                "date": "Mon, 24 Aug 2026 00:52:26 GMT"
+                "title": "México mira con incertidumbre la tensión comercial entre Estados Unidos y Canadá",
+                "link": "https://elpais.com/mexico/economia/2026-08-25/mexico-mira-con-incertidumbre-la-tension-comercial-entre-estados-unidos-y-canada.html",
+                "date": "Tue, 25 Aug 2026 04:00:00 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-08-24"
+                "date": "2026-08-25"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Bessent anuncia un \"Día D económico\" contra Irán mientras Teherán advierte sobre el petróleo",
-                "link": "https://es.investing.com/news/economy-news/bessent-anuncia-un-dia-d-economico-contra-iran-mientras-teheran-advierte-sobre-el-petroleo-3807195",
-                "date": "2026-08-24 00:52:10"
+                "title": "Jackson Hole: ¿El ’funeral’ de la forward guidance?",
+                "link": "https://es.investing.com/news/economy-news/jackson-hole-el-funeral-de-la-forward-guidance-3808969",
+                "date": "2026-08-25 05:40:39"
             },
             {
-                "title": "El banco central de Turquía reanudará las subastas repo a una semana",
-                "link": "https://es.investing.com/news/economy-news/el-banco-central-de-turquia-reanudara-las-subastas-repo-a-una-semana-93CH-3807171",
-                "date": "2026-08-23 18:03:30"
+                "title": "Juez desestima demanda contra decreto de perforación offshore de Trump",
+                "link": "https://es.investing.com/news/economy-news/juez-desestima-demanda-contra-decreto-de-perforacion-offshore-de-trump-93CH-3808813",
+                "date": "2026-08-24 20:57:22"
             },
             {
-                "title": "Kashkari (Fed) afirma que la subida de los bonos del Tesoro no es un problema",
-                "link": "https://es.investing.com/news/economy-news/kashkari-fed-afirma-que-la-subida-de-los-bonos-del-tesoro-no-es-un-problema-3807169",
-                "date": "2026-08-23 16:37:12"
+                "title": "El Tesoro de EE.UU. crea un grupo de trabajo para preparar al sector financiero ante los riesgos de la computación cuántica",
+                "link": "https://es.investing.com/news/economy-news/el-tesoro-de-eeuu-crea-un-grupo-de-trabajo-para-preparar-al-sector-financiero-ante-los-riesgos-de-la-computacion-cuantica-93CH-3808694",
+                "date": "2026-08-24 19:08:35"
             },
             {
-                "title": "¿Puede Canadá abastecer completamente de aluminio a EE.UU.?",
-                "link": "https://es.investing.com/news/economy-news/puede-canada-abastecer-completamente-de-aluminio-a-eeuu-3807118",
-                "date": "2026-08-23 08:51:28"
+                "title": "Canadá invertirá 11.000 millones de dólares canadienses en seis nuevos rompehielos",
+                "link": "https://es.investing.com/news/economy-news/canada-invertira-11000-millones-de-dolares-canadienses-en-seis-nuevos-rompehielos-3808640",
+                "date": "2026-08-24 17:44:38"
             },
             {
-                "title": "Irán advierte a sus vecinos contra unirse a las sanciones de EE.UU.",
-                "link": "https://es.investing.com/news/economy-news/iran-advierte-a-sus-vecinos-contra-unirse-a-las-sanciones-de-eeuu-3807112",
-                "date": "2026-08-23 08:09:55"
+                "title": "EE.UU. retira a Siria de su lista de patrocinadores del terrorismo",
+                "link": "https://es.investing.com/news/economy-news/eeuu-retira-a-siria-de-su-lista-de-patrocinadores-del-terrorismo-93CH-3808633",
+                "date": "2026-08-24 17:34:12"
             }
         ],
         "💶 Economía Europea (BCE)": [
@@ -146,36 +146,36 @@
         ],
         "📈 Mercados (Yahoo Finance)": [
             {
-                "title": "91-year-old supermarket chain closes stores, lays off employees",
-                "link": "https://finance.yahoo.com/economy/articles/91-old-supermarket-chain-closes-231700441.html",
-                "date": "2026-08-22T23:17:00Z"
+                "title": "This Chinese Tech Giant Quietly Cut Its Buyback 80% to Fund AI",
+                "link": "https://finance.yahoo.com/technology/ai/articles/chinese-tech-giant-quietly-cut-191745460.html",
+                "date": "2026-08-23T19:17:45Z"
             },
             {
-                "title": "Snowflake (SNOW) Stock: AI Growth Is Real, But Is the Valuation Already Priced In?",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-snow-stock-ai-growth-194107701.html",
-                "date": "2026-08-22T19:41:07Z"
+                "title": "As Cerebras Launches a New, Record-Setting AI Accelerator, Here’s How You Should Play CBRS Stock",
+                "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-launches-record-setting-ai-193002886.html",
+                "date": "2026-08-23T19:30:02Z"
             },
             {
-                "title": "Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis",
-                "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-search-risk-really-priced-195602365.html",
-                "date": "2026-08-22T19:56:02Z"
+                "title": "AstraZeneca Made a $1.5 Billion Lung Cancer Bet, but Can Zegfrovy Strengthen its Oncology Growth?",
+                "link": "https://finance.yahoo.com/healthcare/articles/astrazeneca-made-1-5-billion-193855181.html",
+                "date": "2026-08-23T19:38:55Z"
             },
             {
-                "title": "David Einhorn Just Bet $61.5 Million on PayPal. Why PYPL Looks Cheap Again.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/david-einhorn-just-bet-61-201730899.html",
-                "date": "2026-08-22T20:17:30Z"
+                "title": "Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?",
+                "link": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-tenet-healthcare-healthcare-194303713.html",
+                "date": "2026-08-23T19:43:03Z"
             },
             {
-                "title": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/third-point-starts-raise-alarm-193002621.html",
-                "date": "2026-08-22T19:30:02Z"
+                "title": "Zoetis Earnings Reveal a Divided Business, But Can its Pipeline Restore Growth?",
+                "link": "https://finance.yahoo.com/healthcare/articles/zoetis-earnings-reveal-divided-business-194924344.html",
+                "date": "2026-08-23T19:49:24Z"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-08-24"
+                "date": "2026-08-25"
             }
         ]
     }
