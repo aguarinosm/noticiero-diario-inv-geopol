@@ -2,102 +2,132 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
-                "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
-                "link": "#",
-                "date": "2026-09-14"
+                "title": "Piden detener las hostilidades tras ataques estadounidenses contra civiles en Irán",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541904",
+                "date": "Mon, 14 Sep 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Chile se convierte en el primer país de América del Sur en eliminar la rabia transmitida por perros",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541903",
+                "date": "Mon, 14 Sep 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Las remesas hacia América Latina se duplicaron en una década y sostienen buena parte de varias economías",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541901",
+                "date": "Mon, 14 Sep 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Inteligencia artificial, remesas, Irán, expertos de la ONU… Las noticias del lunes",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541900",
+                "date": "Mon, 14 Sep 2026 12:00:00 +0000"
+            },
+            {
+                "title": "IA: regular una tecnología sin salvaguardas ni inhibiciones",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541899",
+                "date": "Mon, 14 Sep 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Irán niega su implicación en la guerra de los hutíes de Yemen",
-                "link": "https://www.dw.com/es/irán-niega-su-implicación-en-la-guerra-de-los-hutíes-de-yemen/a-79259286?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-14"
+                "title": "EE. UU. reconoce por primera vez que tiene armas de control espacial en órbita",
+                "link": "https://www.dw.com/es/ee-uu-reconoce-por-primera-vez-que-tiene-armas-de-control-espacial-en-órbita/a-79270980?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-15"
             },
             {
-                "title": "Instructor de baile cubano dirigió ataques de sabotaje ruso en la UE",
-                "link": "https://www.dw.com/es/instructor-de-baile-cubano-dirigió-ataques-de-sabotaje-ruso-en-la-ue/a-79237212?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-14"
+                "title": "Dinamarca acusa a fragata rusa de lanzar bengalas a helicóptero en aguas internacionales",
+                "link": "https://www.dw.com/es/dinamarca-acusa-a-fragata-rusa-de-lanzar-bengalas-a-helicóptero-en-aguas-internacionales/a-79269345?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-15"
             },
             {
-                "title": "Medio oficial chino acusa a EE. UU. de usar un \"manual de Guerra Fría\" contra su IA",
-                "link": "https://www.dw.com/es/medio-oficial-chino-acusa-a-ee-uu-de-usar-un-manual-de-guerra-fría-contra-su-ia/a-79256467?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-14"
+                "title": "Japón reporta récord de más de 100.000 personas centenarias",
+                "link": "https://www.dw.com/es/japón-reporta-récord-de-más-de-100-000-personas-centenarias/a-79268455?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-15"
             },
             {
-                "title": "Corea del Norte anuncia \"ejercicio de ataque con potencia de fuego\"",
-                "link": "https://www.dw.com/es/corea-del-norte-anuncia-ejercicio-de-ataque-con-potencia-de-fuego/a-79254381?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-14"
+                "title": "EE.UU. reconoce escasez de municiones por guerra con Irán",
+                "link": "https://www.dw.com/es/ee-uu-reconoce-escasez-de-municiones-por-guerra-con-irán/a-79268297?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-15"
             },
             {
-                "title": "Omán anuncia que se pospone reunión de Irán y países del Golfo",
-                "link": "https://www.dw.com/es/omán-anuncia-que-se-pospone-reunión-de-irán-y-países-del-golfo/a-79254188?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-14"
+                "title": "Aviones de la OTAN derriban un dron sobre Lituania",
+                "link": "https://www.dw.com/es/aviones-de-la-otan-derriban-un-dron-sobre-lituania/a-79267972?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-15"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Estados Unidos frena la investigación en España de Alejandro Betancourt, su nuevo ‘zar’ del petróleo en Venezuela",
-                "link": "https://elpais.com/america/2026-09-14/estados-unidos-frena-la-investigacion-en-espana-de-alejandro-betancourt-su-nuevo-zar-del-petroleo-en-venezuela.html",
-                "date": "Mon, 14 Sep 2026 03:30:01 GMT"
+                "title": "¿Vamos a morir todos o es solo teatro? Argumentos contra el apocalipsis de la IA",
+                "link": "https://elpais.com/tecnologia/2026-09-15/vamos-a-morir-todos-o-es-solo-teatro-argumentos-contra-el-apocalipsis-de-la-ia.html",
+                "date": "Tue, 15 Sep 2026 03:30:01 GMT"
             },
             {
-                "title": "Alejandro Betancourt, un empresario impopular convertido en rey del petróleo venezolano",
-                "link": "https://elpais.com/espana/2026-09-14/un-empresario-impopular-convertido-en-rey-del-petroleo-venezolano.html",
-                "date": "Mon, 14 Sep 2026 03:30:01 GMT"
+                "title": "EE UU y China se enseñan los dientes por la IA: del miedo al apocalipsis a la guerra fría tecnológica",
+                "link": "https://elpais.com/tecnologia/2026-09-15/ee-uu-y-china-se-ensenan-los-dientes-por-la-ia-del-miedo-al-apocalipsis-a-la-guerra-fria-tecnologica.html",
+                "date": "Tue, 15 Sep 2026 03:30:01 GMT"
             },
             {
-                "title": "Diez estilos de los nuevos demócratas",
-                "link": "https://elpais.com/us/2026-09-14/diez-estilos-de-los-nuevos-democratas.html",
-                "date": "Mon, 14 Sep 2026 04:00:00 GMT"
+                "title": "La IA como salvavidas donde faltan médicos, profesores y asesores agrícolas",
+                "link": "https://elpais.com/planeta-futuro/2026-09-15/la-ia-como-salvavidas-donde-faltan-medicos-profesores-y-asesores-agricolas.html",
+                "date": "Tue, 15 Sep 2026 04:01:00 GMT"
             },
             {
-                "title": "Milei designa más de 160 nuevos magistrados y los tribunales responden con fallos favorables al Gobierno ultra",
-                "link": "https://elpais.com/argentina/2026-09-14/milei-designa-mas-de-160-nuevos-magistrados-y-los-tribunales-responden-con-fallos-favorables-al-gobierno-ultra.html",
-                "date": "Mon, 14 Sep 2026 04:00:00 GMT"
+                "title": "No nos matará la IA, quizá sus dueños",
+                "link": "https://elpais.com/opinion/2026-09-15/no-nos-matara-la-ia-quiza-sus-duenos.html",
+                "date": "Tue, 15 Sep 2026 03:30:01 GMT"
             },
             {
-                "title": "Retenidos en hoteles, indocumentados o un año presos tras ser deportados a África: “Esto se llama tráfico humano”",
-                "link": "https://elpais.com/us/2026-09-14/retenidos-en-hoteles-indocumentados-o-un-ano-presos-tras-ser-deportados-a-africa-esto-se-llama-trafico-humano.html",
-                "date": "Mon, 14 Sep 2026 04:00:00 GMT"
+                "title": "De blanco y con mochila negra: en busca del presunto asesino de Claudia Tacoronte en México",
+                "link": "https://elpais.com/mexico/2026-09-15/de-blanco-y-con-mochila-negra-en-busca-del-presunto-asesino-de-claudia-tacoronte-en-morelos.html",
+                "date": "Tue, 15 Sep 2026 06:52:57 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-09-14"
+                "date": "2026-09-15"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Los hutíes de Yemen toman más islas en el sur del mar Rojo",
-                "link": "https://es.investing.com/news/economy-news/los-huties-de-yemen-toman-mas-islas-en-el-sur-del-mar-rojo-3832978",
-                "date": "2026-09-14 09:53:32"
+                "title": "Los tipos de interés en Polonia seguirán estables durante dos trimestres",
+                "link": "https://es.investing.com/news/economy-news/los-tipos-de-interes-en-polonia-seguiran-estables-durante-dos-trimestres-93CH-3835019",
+                "date": "2026-09-15 10:43:42"
             },
             {
-                "title": "Cinco cosas a seguir en los mercados esta semana",
-                "link": "https://es.investing.com/news/economy-news/cinco-cosas-a-seguir-en-los-mercados-esta-semana-3832901",
-                "date": "2026-09-14 09:01:13"
+                "title": "La tasa de desempleo de India cae al 5% en agosto",
+                "link": "https://es.investing.com/news/economy-news/la-tasa-de-desempleo-de-india-cae-al-5-en-agosto-93CH-3835012",
+                "date": "2026-09-15 10:42:11"
             },
             {
-                "title": "Goldman Sachs prevé una subida de tipos del Banco de Inglaterra en noviembre",
-                "link": "https://es.investing.com/news/economy-news/goldman-sachs-preve-una-subida-de-tipos-del-banco-de-inglaterra-en-noviembre-93CH-3832895",
-                "date": "2026-09-14 08:59:36"
+                "title": "¿Está el ciclo de recortes del Banco de Inglaterra dando paso a subidas?",
+                "link": "https://es.investing.com/news/economy-news/esta-el-ciclo-de-recortes-del-banco-de-inglaterra-dando-paso-a-subidas-3834890",
+                "date": "2026-09-15 09:39:30"
             },
             {
-                "title": "Resultados electorales en Suecia: el bloque centroizquierdista lidera por escaso margen",
-                "link": "https://es.investing.com/news/economy-news/resultados-electorales-en-suecia-el-bloque-centroizquierdista-lidera-por-escaso-margen-93CH-3832860",
-                "date": "2026-09-14 08:37:23"
+                "title": "Los hutíes atacan instalaciones saudíes y refuerzan posiciones en Yemen",
+                "link": "https://es.investing.com/news/economy-news/los-huties-atacan-instalaciones-saudies-y-refuerzan-posiciones-en-yemen-3834869",
+                "date": "2026-09-15 09:28:52"
             },
             {
-                "title": "Líderes IA alertan sobre seguridad; retrasan Ormuz: 5 claves en Wall Street",
-                "link": "https://es.investing.com/news/economy-news/lideres-de-la-ia-expresan-preocupaciones-de-seguridad-se-retrasan-conversaciones-sobre-el-estrecho-de-ormuz-3832817",
-                "date": "2026-09-14 07:56:29"
+                "title": "El Banco de Inglaterra suspenderá la venta de gilts a largo plazo",
+                "link": "https://es.investing.com/news/economy-news/el-banco-de-inglaterra-suspendera-la-venta-de-gilts-a-largo-plazo-3834806",
+                "date": "2026-09-15 09:15:46"
             }
         ],
         "💶 Economía Europea (BCE)": [
+            {
+                "title": "Christine Lagarde: A new age of capital: growth, sovereignty and AI",
+                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html",
+                "date": "Mon, 14 Sep 2026 17:15:00 +0200"
+            },
+            {
+                "title": "Piero Cipollone: The future of euro cash: trusted today, designed for tomorrow",
+                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_1~91d3436449.en.html",
+                "date": "Mon, 14 Sep 2026 15:00:00 +0200"
+            },
             {
                 "title": "Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world",
                 "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf",
@@ -112,16 +142,6 @@
                 "title": "Christine Lagarde: Europe seen from Normandy",
                 "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
                 "date": "Sat, 12 Sep 2026 12:15:00 +0200"
-            },
-            {
-                "title": "Philip R. Lane: Outlook for the euro area economy",
-                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260911~a4d6526f00.en.pdf",
-                "date": "Fri, 11 Sep 2026 19:00:00 +0200"
-            },
-            {
-                "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
-                "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
-                "date": "Thu, 10 Sep 2026 15:00:00 +0200"
             }
         ],
         "📈 Mercados (Yahoo Finance)": [
@@ -131,31 +151,31 @@
                 "date": "2026-09-14T03:35:45Z"
             },
             {
-                "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Anthropic's AI warning spooks tech traders, oil prices jump",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
-                "date": "2026-09-14T08:05:59Z"
+                "title": "Costco rations Kirkland motor oil, raises price to $57.99",
+                "link": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html",
+                "date": "2026-09-14T13:33:08Z"
             },
             {
-                "title": "AI warnings by Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman could hammer this momentum stock",
-                "link": "https://finance.yahoo.com/markets/stocks/article/ai-warnings-by-anthropic-ceo-dario-amodei-and-openai-ceo-sam-altman-could-hammer-this-momentum-stock-101518585.html",
-                "date": "2026-09-14T10:15:18Z"
+                "title": "AI agents to start spending your money with Visa, Mastercard",
+                "link": "https://finance.yahoo.com/technology/ai/articles/ai-agents-start-spending-money-010300686.html",
+                "date": "2026-09-14T01:03:00Z"
             },
             {
-                "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
-                "link": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
-                "date": "2026-09-14T09:36:37Z"
+                "title": "38-year-old beloved steakhouse chain closing over 40 locations",
+                "link": "https://finance.yahoo.com/small-business/articles/38-old-beloved-steakhouse-chain-020300119.html",
+                "date": "2026-09-14T02:03:00Z"
             },
             {
-                "title": "Dow Jones Futures Fall, Techs Tumble As Oil Prices Rise, Anthropic Leads AI Slowdown Call",
-                "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-                "date": "2026-09-14T12:10:05Z"
+                "title": "Silver prices today, Tuesday, September 15, 2026: Silver prices drop below $64 as Fed-decision day approaches",
+                "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-september-15-2026-silver-prices-drop-below-64-as-fed-decision-day-approaches-112326237.html",
+                "date": "2026-09-15T11:23:26Z"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-09-14"
+                "date": "2026-09-15"
             }
         ]
     }
