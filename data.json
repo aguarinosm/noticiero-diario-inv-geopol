@@ -2,119 +2,99 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
-                "title": "El Alto Comisionado pide investigar posibles crímenes de guerra tras hallar cientos de cuerpos en Gaza",
-                "link": "https://news.un.org/feed/view/es/story/2026/09/1541907",
-                "date": "Tue, 15 Sep 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Gaza, VIH en América Latina, bosques, tecnología… Las noticias del martes",
-                "link": "https://news.un.org/feed/view/es/story/2026/09/1541906",
-                "date": "Tue, 15 Sep 2026 12:00:00 +0000"
-            },
-            {
-                "title": "La guerra a gran escala pasa de ser una amenaza lejana a un riesgo inmediato",
-                "link": "https://news.un.org/feed/view/es/story/2026/09/1541905",
-                "date": "Tue, 15 Sep 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Piden detener las hostilidades tras ataques estadounidenses contra civiles en Irán",
-                "link": "https://news.un.org/feed/view/es/story/2026/09/1541904",
-                "date": "Mon, 14 Sep 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Chile se convierte en el primer país de América del Sur en eliminar la rabia transmitida por perros",
-                "link": "https://news.un.org/feed/view/es/story/2026/09/1541903",
-                "date": "Mon, 14 Sep 2026 12:00:00 +0000"
+                "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
+                "link": "#",
+                "date": "2026-09-17"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "25 años de prisión para Hashim Thaci, expresidente de Kosovo, por crímenes de guerra",
-                "link": "https://www.dw.com/es/25-años-de-prisión-para-hashim-thaci-expresidente-de-kosovo-por-crímenes-de-guerra/a-79289520?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-16"
+                "title": "La ONU ve posibles crímenes de guerra de EE. UU. en Irán",
+                "link": "https://www.dw.com/es/la-onu-ve-posibles-crímenes-de-guerra-de-ee-uu-en-irán/a-79308170?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-17"
             },
             {
-                "title": "Von der Leyen ofrece a Canadá ser el primer \"miembro asociado\" de la Unión Europea",
-                "link": "https://www.dw.com/es/von-der-leyen-ofrece-a-canadá-ser-el-primer-miembro-asociado-de-la-unión-europea/a-79289505?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-16"
+                "title": "La UE propone limitar el uso infantil de Internet",
+                "link": "https://www.dw.com/es/la-ue-propone-limitar-el-uso-infantil-de-internet/a-79306190?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-17"
             },
             {
-                "title": "Zuckerberg desafía a Altman, Musk y Amodei: el mercado, no más regulación, debe controlar la IA",
-                "link": "https://www.dw.com/es/zuckerberg-desafía-a-altman-musk-y-amodei-el-mercado-no-más-regulación-debe-controlar-la-ia/a-79286141?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-16"
+                "title": "Ataques rusos dejan 18 heridos en Kiev",
+                "link": "https://www.dw.com/es/ataques-rusos-dejan-18-heridos-en-kiev/a-79303912?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-17"
             },
             {
-                "title": "Seúl cobra USD 32,5 millones a Pyongyang por demoler oficina",
-                "link": "https://www.dw.com/es/seúl-cobra-usd-32-5-millones-a-pyongyang-por-demoler-oficina/a-79284944?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-16"
+                "title": "UE: asociación con Canadá \"no va en contra de nadie\"",
+                "link": "https://www.dw.com/es/ue-asociación-con-canadá-no-va-en-contra-de-nadie/a-79301941?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-17"
             },
             {
-                "title": "Sube a siete la cifra de muertos por ataques de Israel en Gaza",
-                "link": "https://www.dw.com/es/sube-a-siete-la-cifra-de-muertos-por-ataques-de-israel-en-gaza/a-79284732?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-16"
+                "title": "Huawei presenta su plan para competir con Nvidia en IA",
+                "link": "https://www.dw.com/es/huawei-presenta-su-plan-para-competir-con-nvidia-en-ia/a-79300565?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-17"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Trump pierde en el Supremo la batalla del voto por correo, pero sigue su guerra para subvertir las ‘midterms’",
-                "link": "https://elpais.com/us/2026-09-16/trump-pierde-en-el-supremo-la-batalla-del-voto-por-correo-pero-sigue-su-guerra-para-subvertir-las-midterms.html",
-                "date": "Wed, 16 Sep 2026 04:00:00 GMT"
+                "title": "El coste de la guerra contra Irán complica las perspectivas de Trump antes de las elecciones de medio mandato",
+                "link": "https://elpais.com/internacional/2026-09-17/el-coste-de-la-guerra-contra-iran-complica-las-perspectivas-de-trump-antes-de-las-elecciones.html",
+                "date": "Thu, 17 Sep 2026 03:30:01 GMT"
             },
             {
-                "title": "Decepcionar al mercado o enfurecer a Trump: el dilema de Warsh en su primera gran decisión al frente de la Fed",
-                "link": "https://elpais.com/economia/2026-09-16/decepcionar-al-mercado-o-enfurecer-a-trump-el-dilema-de-warsh-en-su-primera-gran-decision-al-frente-de-la-fed.html",
-                "date": "Wed, 16 Sep 2026 03:45:01 GMT"
+                "title": "El diálogo en Venezuela se reanuda en busca de pactos para la reforma judicial y la restauración de derechos políticos",
+                "link": "https://elpais.com/america/2026-09-17/el-dialogo-en-venezuela-se-reanuda-en-busca-de-pactos-para-la-reforma-judicial-y-la-restauracion-de-derechos-politicos.html",
+                "date": "Thu, 17 Sep 2026 09:30:00 GMT"
             },
             {
-                "title": "Los analistas calibran un “crac” de la IA: desplome de Wall Street y recesión en EE UU",
-                "link": "https://cincodias.elpais.com/mercados-financieros/2026-09-16/los-analistas-ponen-cifras-a-un-crac-de-la-ia-desplome-de-wall-street-y-recesion-en-ee-uu.html",
-                "date": "Wed, 16 Sep 2026 05:27:00 GMT"
+                "title": "Trump redobla su persecución a las instituciones culturales de Washington",
+                "link": "https://elpais.com/us/2026-09-17/trump-redobla-su-persecucion-a-las-instituciones-culturales-de-washington.html",
+                "date": "Thu, 17 Sep 2026 09:30:00 GMT"
             },
             {
-                "title": "Un petróleo en 150 dólares, el nuevo escenario extremo tras el cierre del oleoducto saudí",
-                "link": "https://cincodias.elpais.com/mercados-financieros/2026-09-16/un-petroleo-en-150-dolares-el-nuevo-escenario-extremo-tras-el-cierre-del-oleoducto-saudi.html",
-                "date": "Wed, 16 Sep 2026 03:30:01 GMT"
+                "title": "“Temo por su seguridad”: un periodista nicaragüense perseguido por Ortega enfrenta la deportación de EE UU",
+                "link": "https://elpais.com/us/migracion/2026-09-16/temo-por-su-seguridad-un-periodista-nicaraguense-perseguido-por-ortega-enfrenta-la-deportacion-de-ee-uu.html",
+                "date": "Wed, 16 Sep 2026 20:10:15 GMT"
             },
             {
-                "title": "El acta de nacimiento del ‘R3’, el nuevo jefe del Cartel Jalisco, revela datos inéditos sobre sus orígenes en California",
-                "link": "https://elpais.com/us/2026-09-16/el-acta-de-nacimiento-del-r3-el-nuevo-jefe-del-cartel-jalisco-revela-datos-ineditos-sobre-sus-origenes-en-california.html",
-                "date": "Wed, 16 Sep 2026 04:00:00 GMT"
+                "title": "Fernando Cerimedo: el estratega digital de la derecha latinoamericana caído en desgracia",
+                "link": "https://elpais.com/america/2026-09-17/fernando-cerimedo-el-estratega-digital-de-la-derecha-latinoamericana-caido-en-desgracia.html",
+                "date": "Thu, 17 Sep 2026 09:30:00 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-09-16"
+                "date": "2026-09-17"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Wang Yi insta a Irán y EE.UU. a mostrar moderación ante las tensiones",
-                "link": "https://es.investing.com/news/economy-news/wang-yi-insta-a-iran-y-eeuu-a-mostrar-moderacion-ante-las-tensiones-93CH-3836947",
-                "date": "2026-09-16 10:22:40"
+                "title": "Lula y Bolsonaro siguen empatados en las encuestas electorales de Brasil",
+                "link": "https://es.investing.com/news/economy-news/lula-y-bolsonaro-siguen-empatados-en-las-encuestas-electorales-de-brasil-93CH-3838790",
+                "date": "2026-09-17 10:29:26"
             },
             {
-                "title": "Los precios de la vivienda en Irlanda suben un 0,8% en julio",
-                "link": "https://es.investing.com/news/economy-news/los-precios-de-la-vivienda-en-irlanda-suben-un-08-en-julio-93CH-3836936",
-                "date": "2026-09-16 10:16:18"
+                "title": "El presidente de Huawei dice que la IA china aún no enfrenta riesgos de seguridad",
+                "link": "https://es.investing.com/news/economy-news/el-presidente-de-huawei-dice-que-la-ia-china-aun-no-enfrenta-riesgos-de-seguridad-3838778",
+                "date": "2026-09-17 10:22:03"
             },
             {
-                "title": "La UE invita a Canadá a convertirse en su primer ’miembro asociado’",
-                "link": "https://es.investing.com/news/economy-news/la-ue-invita-a-canada-a-convertirse-en-su-primer-miembro-asociado-3836794",
-                "date": "2026-09-16 09:01:22"
+                "title": "Alemania pide aranceles de la UE sobre los coches híbridos chinos",
+                "link": "https://es.investing.com/news/economy-news/alemania-pide-aranceles-de-la-ue-sobre-los-coches-hibridos-chinos-93CH-3838776",
+                "date": "2026-09-17 10:18:35"
             },
             {
-                "title": "La Fed de Warsh prevé subir los tipos 25 pb con el dot plot en el centro",
-                "link": "https://es.investing.com/news/economy-news/la-fed-de-warsh-preve-subir-los-tipos-25-pb-con-el-dot-plot-en-el-centro-3836747",
-                "date": "2026-09-16 08:55:44"
+                "title": "El desempleo juvenil en China sube al 18,9% en agosto",
+                "link": "https://es.investing.com/news/economy-news/el-desempleo-juvenil-en-china-sube-al-189-en-agosto-93CH-3838773",
+                "date": "2026-09-17 10:17:12"
             },
             {
-                "title": "¿Están los gilts señalando un nuevo ciclo de subidas del Banco de Inglaterra?",
-                "link": "https://es.investing.com/news/economy-news/estan-los-gilts-senalando-un-nuevo-ciclo-de-subidas-del-banco-de-inglaterra-3836740",
-                "date": "2026-09-16 08:52:08"
+                "title": "Expertos: la ’letra pequeña’ de la subida de tipos de la Fed; qué vigilar ahora",
+                "link": "https://es.investing.com/news/economy-news/expertos-la-letra-pequena-de-la-subida-de-tipos-de-la-fed-que-vigilar-ahora-3838515",
+                "date": "2026-09-17 07:56:35"
             }
         ],
         "💶 Economía Europea (BCE)": [
@@ -146,36 +126,36 @@
         ],
         "📈 Mercados (Yahoo Finance)": [
             {
-                "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
-                "date": "2026-09-15T13:33:00Z"
+                "title": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
+                "date": "2026-09-16T16:47:40Z"
             },
             {
-                "title": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; Will Market Bid Bond Voyage After Fed Rate Hike?",
-                "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo",
-                "date": "2026-09-16T11:08:31Z"
+                "title": "This High-Yield Construction Stock Just Raised Its Dividend by 40%",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/high-yield-construction-stock-just-233002433.html",
+                "date": "2026-09-15T23:30:02Z"
             },
             {
-                "title": "Majority of US Gen Z healthcare workers eye new jobs within the year, survey shows",
-                "link": "https://finance.yahoo.com/healthcare/articles/majority-us-gen-z-healthcare-110356580.html",
-                "date": "2026-09-16T11:03:56Z"
+                "title": "The AI gold rush has a dress code: steel-toe boots",
+                "link": "https://finance.yahoo.com/economy/articles/ai-gold-rush-dress-code-233725771.html",
+                "date": "2026-09-15T23:37:25Z"
             },
             {
-                "title": "Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years",
-                "link": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html",
-                "date": "2026-09-15T14:34:52Z"
+                "title": "Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers",
+                "link": "https://finance.yahoo.com/energy/articles/saudi-pipeline-outage-hits-oil-000000565.html",
+                "date": "2026-09-16T00:00:00Z"
             },
             {
-                "title": "Silver price today, Wednesday, September 16, 2026:  Silver prices rise in anticipation of the Fed",
-                "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-september-16-2026-silver-prices-rise-in-anticipation-of-the-fed-105134969.html",
-                "date": "2026-09-16T10:51:34Z"
+                "title": "Caturus Plans Major Expansion of Louisiana LNG Export Project",
+                "link": "https://finance.yahoo.com/energy/articles/caturus-plans-major-expansion-louisiana-015747836.html",
+                "date": "2026-09-16T01:57:47Z"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-09-16"
+                "date": "2026-09-17"
             }
         ]
     }
