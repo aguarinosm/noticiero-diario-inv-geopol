@@ -2,122 +2,127 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "El Niño pone a prueba la capacidad del mundo para adaptarse al cambio climático",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541945",
+                "date": "Tue, 22 Sep 2026 12:00:00 +0000"
+            },
+            {
+                "title": "IA: los niños deben ser escuchados antes de que se tomen decisiones",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541944",
+                "date": "Tue, 22 Sep 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Guterres alerta de un mundo en plena reconfiguración del poder: entre Estados, corporaciones y máquinas",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541943",
+                "date": "Tue, 22 Sep 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Minuto a minuto de la Asamblea General UNGA81",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541929",
+                "date": "Tue, 22 Sep 2026 12:00:00 +0000"
+            },
+            {
                 "title": "La paz no ocurre por sí sola: Guterres pide invertir más en diálogo, diplomacia y prevención",
                 "link": "https://news.un.org/feed/view/es/story/2026/09/1541942",
-                "date": "Mon, 21 Sep 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Inteligencia artificial, Nicaragua, Ucrania, Sudán… Las noticias del lunes",
-                "link": "https://news.un.org/feed/view/es/story/2026/09/1541937",
-                "date": "Mon, 21 Sep 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Científicos alertan de que los controles actuales no bastan para frenar a los agentes de IA",
-                "link": "https://news.un.org/feed/view/es/story/2026/09/1541936",
-                "date": "Mon, 21 Sep 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Un escudo verde en el desierto: cómo los manglares son una defensa natural en la era del cambio climático",
-                "link": "https://news.un.org/feed/view/es/story/2026/09/1541935",
-                "date": "Mon, 21 Sep 2026 12:00:00 +0000"
-            },
-            {
-                "title": "¿Quién debe fijar las reglas de la IA? La ONU presiona por un futuro digital más seguro",
-                "link": "https://news.un.org/feed/view/es/story/2026/09/1541917",
                 "date": "Mon, 21 Sep 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Encuentro en Nueva York: Macron promete a Zelenski apoyo para el invierno",
-                "link": "https://www.dw.com/es/encuentro-en-nueva-york-macron-promete-a-zelenski-apoyo-para-el-invierno/a-79370476?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-22"
+                "title": "Justicia de EE. UU. avala veto de Trump a medios a la Casa Blanca",
+                "link": "https://www.dw.com/es/justicia-de-ee-uu-avala-veto-de-trump-a-medios-a-la-casa-blanca/a-79386036?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-23"
             },
             {
-                "title": "Tiroteo frente a una escuela de Turquía deja cinco heridos",
-                "link": "https://www.dw.com/es/tiroteo-frente-a-una-escuela-de-turquía-deja-cinco-heridos/a-79368853?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-22"
+                "title": "Irán informó a EE.UU. sus condiciones para acabar con la guerra",
+                "link": "https://www.dw.com/es/irán-informó-a-ee-uu-sus-condiciones-para-acabar-con-la-guerra/a-79382504?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-23"
             },
             {
-                "title": "Nuevos ataques rusos matan a cuatro personas en Ucrania",
-                "link": "https://www.dw.com/es/nuevos-ataques-rusos-matan-a-cuatro-personas-en-ucrania/a-79366999?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-22"
+                "title": "China advierte a EEUU sus líneas rojas antes de visita de Xi Jinping",
+                "link": "https://www.dw.com/es/china-advierte-a-eeuu-sus-líneas-rojas-antes-de-visita-de-xi-jinping/a-79382332?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-23"
             },
             {
-                "title": "Ministros G7: hutíes deben cesar \"inmediatamente\" ataques",
-                "link": "https://www.dw.com/es/ministros-g7-hutíes-deben-cesar-inmediatamente-ataques/a-79364990?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-22"
+                "title": "Macron llama al mundo a mantenerse \"firme junto a la ONU\"",
+                "link": "https://www.dw.com/es/macron-llama-al-mundo-a-mantenerse-firme-junto-a-la-onu/a-79382284?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-23"
             },
             {
-                "title": "Tifón Dujuan deja 5 muertos y a miles sin energía en Japón",
-                "link": "https://www.dw.com/es/tifón-dujuan-deja-5-muertos-y-a-miles-sin-energía-en-japón/a-79364808?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-22"
+                "title": "Zelenski dispuesto a cesar ataques a objetivos energéticos de Rusia",
+                "link": "https://www.dw.com/es/zelenski-dispuesto-a-cesar-ataques-a-objetivos-energéticos-de-rusia/a-79381731?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-23"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Trump lleva sus batallas a la Asamblea General de Naciones Unidas",
-                "link": "https://elpais.com/internacional/2026-09-22/trump-lleva-sus-batallas-a-la-asamblea-general-de-naciones-unidas.html",
-                "date": "Tue, 22 Sep 2026 03:30:01 GMT"
+                "title": "Trump y Delcy Rodríguez sellan el deshielo entre Caracas y Washington con un encuentro a puerta cerrada en Nueva York",
+                "link": "https://elpais.com/america/2026-09-23/trump-y-delcy-rodriguez-sellan-el-deshielo-entre-caracas-y-washington-con-un-encuentro-en-nueva-york.html",
+                "date": "Wed, 23 Sep 2026 04:41:23 GMT"
             },
             {
-                "title": "De la Espriella delega en su vicepresidente la representación de Colombia en la Asamblea General de la ONU",
-                "link": "https://elpais.com/america-colombia/2026-09-22/de-la-espriella-delega-en-su-vicepresidente-la-representacion-de-colombia-en-la-asamblea-general-de-la-onu.html",
-                "date": "Tue, 22 Sep 2026 09:30:00 GMT"
+                "title": "La apertura diplomática exprés de Delcy Rodríguez llega a la ONU",
+                "link": "https://elpais.com/america/2026-09-23/la-apertura-diplomatica-expres-de-delcy-rodriguez-llega-a-la-onu.html",
+                "date": "Wed, 23 Sep 2026 09:30:00 GMT"
             },
             {
-                "title": "Salvar a la ONU",
-                "link": "https://elpais.com/opinion/2026-09-22/salvar-a-la-onu.html",
-                "date": "Tue, 22 Sep 2026 03:30:01 GMT"
+                "title": "María Corina Machado intenta entrar tres veces en Venezuela mientras Delcy Rodríguez está en la ONU",
+                "link": "https://elpais.com/america/2026-09-23/maria-corina-machado-intenta-entrar-tres-veces-en-venezuela-mientras-delcy-rodriguez-esta-en-la-onu.html",
+                "date": "Wed, 23 Sep 2026 01:44:57 GMT"
             },
             {
-                "title": "Ni intervención de EE UU ni inmovilismo comunista: el plan que propone Harvard para Cuba",
-                "link": "https://elpais.com/us/2026-09-22/ni-intervencion-de-ee-uu-ni-inmovilismo-comunista-el-plan-que-propone-harvard-para-cuba.html",
-                "date": "Tue, 22 Sep 2026 09:30:00 GMT"
+                "title": "El voto latino, aún impredecible, será clave para decidir el control del Congreso en las ‘midterms’",
+                "link": "https://elpais.com/us/migracion/2026-09-23/el-voto-latino-aun-impredecible-sera-clave-para-decidir-el-control-del-congreso-en-las-midterms.html",
+                "date": "Wed, 23 Sep 2026 09:30:00 GMT"
             },
             {
-                "title": "Cinco antiguos internos denuncian abusos sexuales de un cura español en un albergue de niños en Bolivia",
-                "link": "https://elpais.com/america/2026-09-22/cinco-antiguos-internos-denuncian-abusos-sexuales-de-un-cura-espanol-en-un-albergue-de-ninos-en-bolivia.html",
-                "date": "Tue, 22 Sep 2026 09:30:00 GMT"
+                "title": "Seis economistas premios Nobel apoyan la propuesta sin precedentes de un impuesto especial a los milmillonarios en California",
+                "link": "https://elpais.com/us/2026-09-23/seis-economistas-premios-nobel-apoyan-la-propuesta-sin-precedentes-de-un-impuesto-especial-a-los-milmillonarios-en-california.html",
+                "date": "Wed, 23 Sep 2026 09:30:00 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-09-22"
+                "date": "2026-09-23"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "No esperes un gran acuerdo en la cumbre Trump-Xi, según Yardeni",
-                "link": "https://es.investing.com/news/economy-news/no-esperes-un-gran-acuerdo-en-la-cumbre-trumpxi-segun-yardeni-3843846",
-                "date": "2026-09-22 10:49:43"
+                "title": "Portugal prevé un presupuesto equilibrado para 2026 pese al superávit",
+                "link": "https://es.investing.com/news/economy-news/portugal-preve-un-presupuesto-equilibrado-para-2026-pese-al-superavit-93CH-3845482",
+                "date": "2026-09-23 10:28:46"
             },
             {
-                "title": "Ministro de Taiwán dice que no fue \"menospreciado\" en su visita a China",
-                "link": "https://es.investing.com/news/economy-news/ministro-de-taiwan-dice-que-no-fue-menospreciado-en-su-visita-a-china-93CH-3843790",
-                "date": "2026-09-22 10:30:52"
+                "title": "La OCDE eleva previsión de crecimiento del Reino Unido para 2026",
+                "link": "https://es.investing.com/news/economy-news/la-ocde-eleva-prevision-de-crecimiento-del-reino-unido-para-2026-3845292",
+                "date": "2026-09-23 09:00:56"
             },
             {
-                "title": "China apoya las inversiones de sus fabricantes de autos en Europa",
-                "link": "https://es.investing.com/news/economy-news/china-apoya-las-inversiones-de-sus-fabricantes-de-autos-en-europa-93CH-3843776",
-                "date": "2026-09-22 10:27:23"
+                "title": "La economía mundial desafía los altos precios del petróleo, según la OCDE",
+                "link": "https://es.investing.com/news/economy-news/la-economia-mundial-desafia-los-altos-precios-del-petroleo-segun-la-ocde-3845272",
+                "date": "2026-09-23 08:58:44"
             },
             {
-                "title": "El Kremlin celebra el interés del AfD en dialogar con Moscú",
-                "link": "https://es.investing.com/news/economy-news/el-kremlin-celebra-el-interes-del-afd-en-dialogar-con-moscu-93CH-3843774",
-                "date": "2026-09-22 10:26:09"
+                "title": "Bank Indonesia mantiene su tasa de política monetaria en 5,75% por tercera reunión consecutiva",
+                "link": "https://es.investing.com/news/economy-news/bank-indonesia-mantiene-su-tasa-de-politica-monetaria-en-575-por-tercera-reunion-consecutiva-93CH-3845211",
+                "date": "2026-09-23 08:30:34"
             },
             {
-                "title": "El superávit comercial de Suiza casi se duplica en el segundo trimestre",
-                "link": "https://es.investing.com/news/economy-news/el-superavit-comercial-de-suiza-casi-se-duplica-en-el-segundo-trimestre-93CH-3843767",
-                "date": "2026-09-22 10:23:24"
+                "title": "Zuckerberg habla en medio del boom de Muse; el petróleo cae",
+                "link": "https://es.investing.com/news/economy-news/zuckerberg-habla-en-medio-del-boom-de-muse-el-petroleo-cae-3845169",
+                "date": "2026-09-23 07:54:36"
             }
         ],
         "💶 Economía Europea (BCE)": [
+            {
+                "title": "Almost ten million people took part in ECB survey on new euro banknotes",
+                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260923~6ebddaf01e.en.html",
+                "date": "Wed, 23 Sep 2026 11:00:00 +0200"
+            },
             {
                 "title": "Philip R. Lane: Interview with Le Temps",
                 "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
@@ -137,45 +142,40 @@
                 "title": "ECB Consumer Expectations Survey results – August 2026",
                 "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
                 "date": "Fri, 18 Sep 2026 10:00:00 +0200"
-            },
-            {
-                "title": "Boris Vujčić: Interview with Reuters",
-                "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html",
-                "date": "Fri, 18 Sep 2026 08:00:00 +0200"
             }
         ],
         "📈 Mercados (Yahoo Finance)": [
             {
-                "title": "Bank of America says buy tumbling shares of aviation giant",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
-                "date": "2026-09-21T14:37:00Z"
+                "title": "Kalshi asks CFTC to allow margin trading on prediction markets",
+                "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
+                "date": "2026-09-22T12:39:18Z"
             },
             {
-                "title": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
-                "date": "2026-09-22T08:06:25Z"
+                "title": "Is PENN Entertainment (PENN) Stock a Buy After Its Latest Multi-Million Dollar Bet?",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/penn-entertainment-penn-stock-buy-110230549.html",
+                "date": "2026-09-23T11:02:30Z"
             },
             {
-                "title": "92% of grandparents give financial help to grandkids — and it's draining their retirement savings",
-                "link": "https://finance.yahoo.com/small-business/articles/92-grandparents-financial-help-grandkids-110000432.html",
-                "date": "2026-09-22T11:00:00Z"
+                "title": "Stock market today: Dow, S&P 500, Nasdaq futures muted as oil falls, markets eye looming Trump-Xi meeting",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
+                "date": "2026-09-23T08:05:56Z"
             },
             {
-                "title": "Home Depot CFO issues chilling alarm over ‘frozen’ US housing market — crucial metric plunges to historic low",
-                "link": "https://finance.yahoo.com/real-estate/articles/home-depot-cfo-issues-chilling-104500209.html",
-                "date": "2026-09-22T10:45:00Z"
+                "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+                "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
+                "date": "2026-09-23T10:58:08Z"
             },
             {
-                "title": "BWX Technologies (BWXT) Wins $4 Million Y-12 Design Contract. Could Construction Follow?",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-bwxt-wins-4-104356882.html",
-                "date": "2026-09-22T10:43:56Z"
+                "title": "Is Peloton (PTON) Stock a Buy After Its Massive Hardware Overhaul?",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/peloton-pton-stock-buy-massive-105528498.html",
+                "date": "2026-09-23T10:55:28Z"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-09-22"
+                "date": "2026-09-23"
             }
         ]
     }
