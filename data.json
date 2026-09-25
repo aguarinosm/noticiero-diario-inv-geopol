@@ -2,102 +2,127 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
-                "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
-                "link": "#",
-                "date": "2026-09-24"
+                "title": "Israel: “Vamos a ganar. No tenemos otra alternativa”",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541970",
+                "date": "Thu, 24 Sep 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Guinea Ecuatorial: Un África más productiva e industrializada beneficia a todos",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541968",
+                "date": "Thu, 24 Sep 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Colombia pide una definición internacional común de terrorismo y una ONU más enfocada en resultados",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541969",
+                "date": "Thu, 24 Sep 2026 12:00:00 +0000"
+            },
+            {
+                "title": "La ONU adopta una declaración histórica sobre el aumento del nivel del mar: ¿por qué importa?",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541967",
+                "date": "Thu, 24 Sep 2026 12:00:00 +0000"
+            },
+            {
+                "title": "La carrera por construir un mundo a prueba de pandemias",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541923",
+                "date": "Thu, 24 Sep 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Tras falta de apoyos, Berlín se retira de la carrera para acoger los Juegos Olímpicos",
-                "link": "https://www.dw.com/es/tras-falta-de-apoyos-berlín-se-retira-de-la-carrera-para-acoger-los-juegos-olímpicos/a-79411152?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-24"
+                "title": "León XIV en Francia: \"La de Ceuta es una verdadera crisis humanitaria\"",
+                "link": "https://www.dw.com/es/león-xiv-en-francia-la-de-ceuta-es-una-verdadera-crisis-humanitaria/a-79427461?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-25"
             },
             {
-                "title": "Juez de EE.UU. ordena a la Casa Blanca restablecer el acceso a medios vetados por Trump",
-                "link": "https://www.dw.com/es/juez-de-ee-uu-ordena-a-la-casa-blanca-restablecer-el-acceso-a-medios-vetados-por-trump/a-79408151?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-24"
+                "title": "Tifón Dujuan deja al menos 12 muertos y graves daños en el oriente de Japón",
+                "link": "https://www.dw.com/es/tifón-dujuan-deja-al-menos-12-muertos-y-graves-daños-en-el-oriente-de-japón/a-79422154?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-25"
             },
             {
-                "title": "La IA de OpenAI se infiltró en la web de salud pública de Australia tras denegársele el acceso a los datos que buscaba",
-                "link": "https://www.dw.com/es/la-ia-de-openai-se-infiltró-en-la-web-de-salud-pública-de-australia-tras-denegársele-el-acceso-a-los-datos-que-buscaba/a-79406779?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-24"
+                "title": "Carney admite que Canadá ha examinado el riesgo de una acción militar de EE.UU.",
+                "link": "https://www.dw.com/es/carney-admite-que-canadá-ha-examinado-el-riesgo-de-una-acción-militar-de-ee-uu/a-79420857?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-25"
             },
             {
-                "title": "El desahucio de una anciana en Madrid suscita una oleada de indignación en un país con los precios de la vivienda disparados",
-                "link": "https://www.dw.com/es/el-desahucio-de-una-anciana-en-madrid-suscita-una-oleada-de-indignación-en-un-país-con-los-precios-de-la-vivienda-disparados/a-79406135?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-24"
+                "title": "Xi pide a Trump no apoyar independencia de Taiwán",
+                "link": "https://www.dw.com/es/xi-pide-a-trump-no-apoyar-independencia-de-taiwán/a-79420751?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-25"
             },
             {
-                "title": "Zuckerberg aboga por \"empoderar a las personas\" con la IA frente a llamados a regularla",
-                "link": "https://www.dw.com/es/zuckerberg-aboga-por-empoderar-a-las-personas-con-la-ia-frente-a-llamados-a-regularla/a-79405457?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-24"
+                "title": "Klopp debuta en la selección alemana con un empate 1-1 ante Países Bajos",
+                "link": "https://www.dw.com/es/klopp-debuta-en-la-selección-alemana-con-un-empate-1-1-ante-países-bajos/a-79420220?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-25"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Delcy Rodríguez agradece a Trump su papel en Venezuela y asegura que habrá elecciones sin concretar la fecha",
-                "link": "https://elpais.com/america/2026-09-23/delcy-rodriguez-agradece-a-trump-su-cooperacion-con-venezuela-y-anuncia-que-habra-elecciones-sin-concretar-la-fecha.html",
-                "date": "Wed, 23 Sep 2026 23:57:37 GMT"
+                "title": "La cena de gala (y un águila calva) de Trump para agasajar a Xi Jinping",
+                "link": "https://elpais.com/internacional/2026-09-25/la-cena-de-gala-y-un-aguila-calva-de-trump-para-agasajar-a-xi-jinping.html",
+                "date": "Fri, 25 Sep 2026 04:00:00 GMT"
             },
             {
-                "title": "“Pusimos la esperanza en Trump”: los exiliados venezolanos ante el viraje de Washington con el chavismo",
-                "link": "https://elpais.com/us/migracion/2026-09-24/pusimos-la-esperanza-en-trump-los-exiliados-venezolanos-ante-el-viraje-de-washington-con-el-chavismo.html",
-                "date": "Thu, 24 Sep 2026 04:00:00 GMT"
+                "title": "Xi concede audiencia a Trump",
+                "link": "https://elpais.com/opinion/2026-09-25/xi-concede-audiencia-a-trump.html",
+                "date": "Fri, 25 Sep 2026 03:30:01 GMT"
             },
             {
-                "title": "Una foto para la historia universal de la infamia",
-                "link": "https://elpais.com/us/2026-09-23/una-foto-para-la-historia-universal-de-la-infamia.html",
-                "date": "Wed, 23 Sep 2026 23:35:01 GMT"
+                "title": "Los 140 minutos de horror del crimen de Camilo Séptimo en Atizapán",
+                "link": "https://elpais.com/mexico/2026-09-25/los-140-minutos-de-horror-del-crimen-de-camilo-septimo-en-atizapan.html",
+                "date": "Fri, 25 Sep 2026 09:30:00 GMT"
             },
             {
-                "title": "Venezuela no tiene quien le escriba",
-                "link": "https://elpais.com/america/2026-09-24/venezuela-no-tiene-quien-le-escriba.html",
-                "date": "Thu, 24 Sep 2026 04:00:00 GMT"
+                "title": "Santa Marta, de centro turístico a prueba del poder paramilitar: “Esto es como tener casa por cárcel”",
+                "link": "https://elpais.com/america-colombia/2026-09-25/santa-marta-de-centro-turistico-a-prueba-del-poder-ilegal-esto-es-como-tener-casa-por-carcel.html",
+                "date": "Fri, 25 Sep 2026 09:30:00 GMT"
             },
             {
-                "title": "Netanyahu interviene ante la ONU en medio de protestas y su pulso con Mamdani",
-                "link": "https://elpais.com/us/2026-09-24/netanyahu-interviene-ante-la-onu-en-medio-de-protestas-y-su-pulso-con-mamdani.html",
-                "date": "Thu, 24 Sep 2026 04:00:00 GMT"
+                "title": "La vida de Wilber Garcés antes de recibir un disparo del ICE: un apasionado del deporte y padre de un niño con discapacidad",
+                "link": "https://elpais.com/us/migracion/2026-09-25/la-vida-de-wilber-garces-antes-de-recibir-un-disparo-del-ice-un-apasionado-del-deporte-y-padre-de-un-nino-con-discapacidad.html",
+                "date": "Fri, 25 Sep 2026 09:30:00 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-09-24"
+                "date": "2026-09-25"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Barclays señala las elecciones francesas como un riesgo para el euro",
-                "link": "https://es.investing.com/news/economy-news/barclays-senala-las-elecciones-francesas-como-un-riesgo-para-el-euro-3847474",
-                "date": "2026-09-24 10:40:29"
+                "title": "El Banco de Inglaterra podría tener dificultades para mantener los tipos de interés",
+                "link": "https://es.investing.com/news/economy-news/el-banco-de-inglaterra-podria-tener-dificultades-para-mantener-los-tipos-de-interes-93CH-3849223",
+                "date": "2026-09-25 10:17:35"
             },
             {
-                "title": "La UE expresa preocupación por los planes de EEUU de prohibir exportaciones de diésel",
-                "link": "https://es.investing.com/news/economy-news/la-ue-expresa-preocupacion-por-los-planes-de-eeuu-de-prohibir-exportaciones-de-diesel-93CH-3847440",
-                "date": "2026-09-24 10:31:59"
+                "title": "El Kremlin dice que podría celebrarse pronto una reunión entre EE.UU., Rusia y Ucrania",
+                "link": "https://es.investing.com/news/economy-news/el-kremlin-dice-que-podria-celebrarse-pronto-una-reunion-entre-eeuu-rusia-y-ucrania-93CH-3849215",
+                "date": "2026-09-25 10:15:54"
             },
             {
-                "title": "El jefe de la VDA dice que la UE tiene herramientas de la OMC para abordar distorsiones comerciales",
-                "link": "https://es.investing.com/news/economy-news/el-jefe-de-la-vda-dice-que-la-ue-tiene-herramientas-de-la-omc-para-abordar-distorsiones-comerciales-93CH-3847425",
-                "date": "2026-09-24 10:27:14"
+                "title": "Morgan Stanley prevé dos subidas trimestrales del BoE ante un difícil contexto fiscal",
+                "link": "https://es.investing.com/news/economy-news/morgan-stanley-preve-dos-subidas-trimestrales-del-boe-ante-un-dificil-contexto-fiscal-3849225",
+                "date": "2026-09-25 10:14:47"
             },
             {
-                "title": "El Kremlin dice que aún no hay decisión sobre una posible cumbre Putin-Trump",
-                "link": "https://es.investing.com/news/economy-news/el-kremlin-dice-que-aun-no-hay-decision-sobre-una-posible-cumbre-putintrump-93CH-3847408",
-                "date": "2026-09-24 10:23:02"
+                "title": "Venta masiva en bonos y resultados de Costco: qué mueve los mercados",
+                "link": "https://es.investing.com/news/economy-news/venta-masiva-en-bonos-y-resultados-de-costco-que-mueve-los-mercados-3848935",
+                "date": "2026-09-25 07:55:01"
             },
             {
-                "title": "Tailandia apunta a 80.000 millones en inversión en chips para 2050",
-                "link": "https://es.investing.com/news/economy-news/tailandia-apunta-a-80000-millones-en-inversion-en-chips-para-2050-93CH-3847404",
-                "date": "2026-09-24 10:22:04"
+                "title": "Xi pide cooperación con EE.UU. en inteligencia artificial",
+                "link": "https://es.investing.com/news/economy-news/xi-pide-cooperacion-con-eeuu-en-inteligencia-artificial-3848763",
+                "date": "2026-09-25 05:10:31"
             }
         ],
         "💶 Economía Europea (BCE)": [
+            {
+                "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
+                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
+                "date": "Thu, 24 Sep 2026 14:00:00 +0200"
+            },
             {
                 "title": "Philip R. Lane: The outlook for the euro area economy",
                 "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
@@ -117,45 +142,40 @@
                 "title": "Almost ten million people took part in ECB survey on new euro banknotes",
                 "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260923~6ebddaf01e.en.html",
                 "date": "Wed, 23 Sep 2026 11:00:00 +0200"
-            },
-            {
-                "title": "Philip R. Lane: Interview with Le Temps",
-                "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
-                "date": "Tue, 22 Sep 2026 07:00:00 +0200"
             }
         ],
         "📈 Mercados (Yahoo Finance)": [
             {
-                "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-                "link": "https://finance.yahoo.com/small-business/articles/techcrunch-founder-summit-agenda-revealed-232149079.html",
-                "date": "2026-09-22T23:21:49Z"
+                "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html",
+                "date": "2026-09-23T01:52:26Z"
             },
             {
-                "title": "Crypto ETFs Are Surging, but Bitcoin  Ether Aren’t the Big Winners",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-etfs-surging-bitcoin-ether-232240681.html",
-                "date": "2026-09-22T23:22:40Z"
+                "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
+                "date": "2026-09-23T01:51:00Z"
             },
             {
-                "title": "This Bonkers ETF Market: The Zine Edition",
-                "link": "https://finance.yahoo.com/markets/options/articles/bonkers-etf-market-zine-edition-232536088.html",
-                "date": "2026-09-22T23:25:36Z"
+                "title": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html",
+                "date": "2026-09-23T01:43:50Z"
             },
             {
-                "title": "Chemed (CHE) Buys a $60.6M Roto-Rooter Franchise. Can Ownership Lift Returns?",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/chemed-che-buys-60-6m-233037814.html",
-                "date": "2026-09-22T23:30:37Z"
+                "title": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
+                "link": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
+                "date": "2026-09-23T01:42:06Z"
             },
             {
-                "title": "This High-Yield Tobacco Stock Just Raised Its Dividend by 8.8%",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/high-yield-tobacco-stock-just-233002517.html",
-                "date": "2026-09-22T23:30:02Z"
+                "title": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
+                "link": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html",
+                "date": "2026-09-23T04:29:16Z"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-09-24"
+                "date": "2026-09-25"
             }
         ]
     }
