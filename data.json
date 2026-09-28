@@ -2,102 +2,127 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
-                "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
-                "link": "#",
-                "date": "2026-09-27"
+                "title": "Nicaragua: el narcotráfico y el crimen organizado son \"formas de terrorismo\" \"formas de terrorismo\"",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541982",
+                "date": "Sat, 26 Sep 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Rusia: Lavrov propone una nueva arquitectura de seguridad en Eurasia",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541981",
+                "date": "Sat, 26 Sep 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Cuba denuncia el \"bloqueo energético\" como \"un acto de guerra\"",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541980",
+                "date": "Sat, 26 Sep 2026 12:00:00 +0000"
+            },
+            {
+                "title": "China apuesta por la prosperidad común y el multilateralismo ante la Asamblea General",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541979",
+                "date": "Sat, 26 Sep 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Adoptan un plan global para hacer frente al crimen digital",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541978",
+                "date": "Sat, 26 Sep 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Dominio etíope en el maratón de Berlín: Guye Adola y Tigst Assefa se hacen con la victoria, aunque se les escapa el récord mundial",
-                "link": "https://www.dw.com/es/dominio-etíope-en-el-maratón-de-berlín-guye-adola-y-tigst-assefa-se-hacen-con-la-victoria-aunque-se-les-escapa-el-récord-mundial/a-79448600?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-27"
+                "title": "Policía británica investiga posible vínculo de Irán con plan de ataque a base militar usada por EE. UU.",
+                "link": "https://www.dw.com/es/policía-británica-investiga-posible-vínculo-de-irán-con-plan-de-ataque-a-base-militar-usada-por-ee-uu/a-79456886?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-28"
             },
             {
-                "title": "\"Incidente grave\" en torno a una base británica utilizada por la Fuerza Aérea de Estados Unidos para determinadas operaciones",
-                "link": "https://www.dw.com/es/incidente-grave-en-torno-a-una-base-británica-utilizada-por-la-fuerza-aérea-de-estados-unidos-para-determinadas-operaciones/a-79448378?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-27"
+                "title": "Hungría levanta la inmunidad parlamentaria del primer ministro Péter Magyar para aclarar la \"farsa\" en torno a un móvil lanzado al Danubio",
+                "link": "https://www.dw.com/es/hungría-levanta-la-inmunidad-parlamentaria-del-primer-ministro-péter-magyar-para-aclarar-la-farsa-en-torno-a-un-móvil-lanzado-al-danubio/a-79456791?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-28"
             },
             {
-                "title": "Israel decreta un \"cierre general\" en Cisjordania durante una semana por la celebración de la Fiesta de los Tabernáculos",
-                "link": "https://www.dw.com/es/israel-decreta-un-cierre-general-en-cisjordania-durante-una-semana-por-la-celebración-de-la-fiesta-de-los-tabernáculos/a-79447993?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-27"
+                "title": "Trump ofreció a Xi comprar armas estadounidenses, según embajador de EE. UU. en China",
+                "link": "https://www.dw.com/es/trump-ofreció-a-xi-comprar-armas-estadounidenses-según-embajador-de-ee-uu-en-china/a-79454688?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-28"
             },
             {
-                "title": "Veintisiete muertos y al menos veinticinco heridos en dos tiroteos este fin de semana en las dos principales ciudades de Sudáfrica",
-                "link": "https://www.dw.com/es/veintisiete-muertos-y-al-menos-veinticinco-heridos-en-dos-tiroteos-este-fin-de-semana-en-las-dos-principales-ciudades-de-sudáfrica/a-79447442?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-27"
+                "title": "Octogenaria desalojada en España llama a seguir la \"lucha\" por la vivienda",
+                "link": "https://www.dw.com/es/octogenaria-desalojada-en-españa-llama-a-seguir-la-lucha-por-la-vivienda/a-79454677?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-28"
             },
             {
-                "title": "China envía dos osos panda gigantes a Estados Unidos como \"enviados de amistad entre chinos y estadounidenses\"",
-                "link": "https://www.dw.com/es/china-envía-dos-osos-panda-gigantes-a-estados-unidos-como-enviados-de-amistad-entre-chinos-y-estadounidenses/a-79447301?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-27"
+                "title": "Trump rechaza la tregua de Irán y el precio del petróleo se dispara 3 %",
+                "link": "https://www.dw.com/es/trump-rechaza-la-tregua-de-irán-y-el-precio-del-petróleo-se-dispara-3/a-79454385?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-28"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Pánico moral, furor evangélico y guerra cultural: la fórmula bolsonarista que amenaza a Lula",
-                "link": "https://elpais.com/ideas/2026-09-27/panico-moral-furor-evangelico-y-guerra-cultural-el-bolsonarismo-conquista-medio-brasil.html",
-                "date": "Sun, 27 Sep 2026 03:30:00 GMT"
+                "title": "La Flaca sigue buscando a su padre bajo los escombros de La Guaira",
+                "link": "https://elpais.com/america/2026-09-24/la-flaca-sigue-buscando-a-su-padre-bajo-los-escombros-en-venezuela-tres-meses-despues.html",
+                "date": "Mon, 28 Sep 2026 03:30:01 GMT"
             },
             {
-                "title": "El año que México ‘conoció’ a su presidenta",
-                "link": "https://elpais.com/mexico/2026-09-27/el-ano-que-mexico-conocio-a-su-presidenta.html",
-                "date": "Sun, 27 Sep 2026 09:30:00 GMT"
+                "title": "Videoanálisis | La Guaira, entre el desastre y la reconstrucción",
+                "link": "https://elpais.com/america/2026-09-28/videoanalisis-la-guaira-entre-el-desastre-y-la-reconstruccion.html",
+                "date": "Mon, 28 Sep 2026 09:30:00 GMT"
             },
             {
-                "title": "Claudia Sheinbaum o el discurso del método",
-                "link": "https://elpais.com/mexico/opinion/2026-09-27/claudia-sheinbaum-o-el-discurso-del-metodo.html",
-                "date": "Sun, 27 Sep 2026 09:30:00 GMT"
+                "title": "Tras los intentos frustrados de retorno a Venezuela de María Corina Machado, vuelve su jefa de comunicaciones",
+                "link": "https://elpais.com/america/2026-09-28/tras-los-intentos-frustrados-de-retorno-a-venezuela-de-maria-corina-machado-vuelve-su-jefa-de-comunicaciones.html",
+                "date": "Mon, 28 Sep 2026 02:21:15 GMT"
             },
             {
-                "title": "Las obsesiones de Trump hunden a los republicanos en las encuestas de noviembre",
-                "link": "https://elpais.com/us/2026-09-27/las-obsesiones-de-trump-hunden-a-los-republicanos-en-las-encuestas-de-noviembre.html",
-                "date": "Sun, 27 Sep 2026 03:30:01 GMT"
+                "title": "Los venezolanos sin papeles en Colombia buscan rumbo ante las amenazas de De la Espriella: “Tenemos las manos atadas”",
+                "link": "https://elpais.com/america-colombia/2026-09-28/los-venezolanos-sin-papeles-en-colombia-buscan-rumbo-ante-las-amenazas-de-de-la-espriella-tenemos-las-manos-atadas.html",
+                "date": "Mon, 28 Sep 2026 09:30:00 GMT"
             },
             {
-                "title": "La encrucijada de María Corina Machado: atrapada entre Washington y Caracas",
-                "link": "https://elpais.com/america/2026-09-27/la-encrucijada-de-maria-corina-machado-atrapada-entre-washington-y-caracas.html",
-                "date": "Sun, 27 Sep 2026 03:30:01 GMT"
+                "title": "La promesa rota de Trump con las criptos: una mina de oro para su imperio, pérdidas millonarias para los inversores",
+                "link": "https://elpais.com/us/2026-09-28/la-promesa-rota-de-trump-con-las-criptos-una-mina-de-oro-para-su-imperio-perdidas-millonarias-para-los-inversores.html",
+                "date": "Mon, 28 Sep 2026 09:30:00 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-09-27"
+                "date": "2026-09-28"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "¿Podría el auge de los centros de datos en Europa impulsar la energía nuclear?",
-                "link": "https://es.investing.com/news/economy-news/podria-el-auge-de-los-centros-de-datos-en-europa-impulsar-la-energia-nuclear-3850415",
-                "date": "2026-09-27 09:59:58"
+                "title": "SpaceX lanza el cohete Starship en su primera misión satelital",
+                "link": "https://es.investing.com/news/economy-news/spacex-lanza-el-cohete-starship-en-su-primera-mision-satelital-93CH-3851717",
+                "date": "2026-09-28 12:56:03"
             },
             {
-                "title": "Burnham insinúa nuevos impuestos en el Reino Unido para la atención social y cuestiona la expansión de Heathrow",
-                "link": "https://es.investing.com/news/economy-news/burnham-insinua-nuevos-impuestos-en-el-reino-unido-para-la-atencion-social-y-cuestiona-la-expansion-de-heathrow-3850412",
-                "date": "2026-09-27 09:30:40"
+                "title": "Hungría eleva su plan de emisión de deuda neta para 2026 a 27.000 millones de dólares",
+                "link": "https://es.investing.com/news/economy-news/hungria-eleva-su-plan-de-emision-de-deuda-neta-para-2026-a-27000-millones-de-dolares-93CH-3851712",
+                "date": "2026-09-28 12:54:00"
             },
             {
-                "title": "Irán no suavizará sus condiciones sobre Ormuz tras el rechazo de Trump",
-                "link": "https://es.investing.com/news/economy-news/iran-no-suavizara-sus-condiciones-sobre-ormuz-tras-el-rechazo-de-trump-3850407",
-                "date": "2026-09-27 08:49:01"
+                "title": "El déficit por cuenta corriente de Brasil alcanza los 5.100 millones de dólares en agosto",
+                "link": "https://es.investing.com/news/economy-news/el-deficit-por-cuenta-corriente-de-brasil-alcanza-los-5100-millones-de-dolares-en-agosto-93CH-3851389",
+                "date": "2026-09-28 11:51:38"
             },
             {
-                "title": "Corea del Norte prueba ataques en enjambre con drones y misiles",
-                "link": "https://es.investing.com/news/economy-news/corea-del-norte-prueba-ataques-en-enjambre-con-drones-y-misiles-3850396",
-                "date": "2026-09-27 07:58:44"
+                "title": "El gabinete de China promete reforzar el apoyo de política monetaria ante las preocupaciones por el crecimiento",
+                "link": "https://es.investing.com/news/economy-news/el-gabinete-de-china-promete-reforzar-el-apoyo-de-politica-monetaria-ante-las-preocupaciones-por-el-crecimiento-93CH-3851345",
+                "date": "2026-09-28 11:39:03"
             },
             {
-                "title": "Cómo los agentes de IA podrían transformar el comercio minorista",
-                "link": "https://es.investing.com/news/economy-news/como-los-agentes-de-ia-podrian-transformar-el-comercio-minorista-3850376",
-                "date": "2026-09-27 06:40:24"
+                "title": "La UE aprueba cinco proyectos de defensa paneuropeos para financiación",
+                "link": "https://es.investing.com/news/economy-news/la-ue-aprueba-cinco-proyectos-de-defensa-paneuropeos-para-financiacion-93CH-3851333",
+                "date": "2026-09-28 11:36:53"
             }
         ],
         "💶 Economía Europea (BCE)": [
+            {
+                "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
+                "date": "Mon, 28 Sep 2026 15:30:00 +0200"
+            },
             {
                 "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
                 "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
@@ -117,11 +142,6 @@
                 "title": "The digitalisation of money, payments and finance",
                 "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf",
                 "date": "Wed, 23 Sep 2026 18:00:00 +0200"
-            },
-            {
-                "title": "Almost ten million people took part in ECB survey on new euro banknotes",
-                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260923~6ebddaf01e.en.html",
-                "date": "Wed, 23 Sep 2026 11:00:00 +0200"
             }
         ],
         "📈 Mercados (Yahoo Finance)": [
@@ -155,7 +175,7 @@
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-09-27"
+                "date": "2026-09-28"
             }
         ]
     }
