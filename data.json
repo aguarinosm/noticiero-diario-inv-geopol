@@ -2,6 +2,21 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "Armas nucleares, salud, desperdicio de alimentos, refugiados… Las noticias del martes",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541993",
+                "date": "Tue, 29 Sep 2026 12:00:00 +0000"
+            },
+            {
+                "title": "La misoginia no es normal, el patriarcado no es un valor y el sexismo no es una broma",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541992",
+                "date": "Tue, 29 Sep 2026 12:00:00 +0000"
+            },
+            {
+                "title": "El arsenal nuclear mundial podría volver a crecer por primera vez desde el fin de la Guerra Fría",
+                "link": "https://news.un.org/feed/view/es/story/2026/09/1541991",
+                "date": "Tue, 29 Sep 2026 12:00:00 +0000"
+            },
+            {
                 "title": "Costa Rica: ningún Estado puede enfrentar solo los desafíos globales",
                 "link": "https://news.un.org/feed/view/es/story/2026/09/1541989",
                 "date": "Mon, 28 Sep 2026 12:00:00 +0000"
@@ -10,114 +25,104 @@
                 "title": "Colombia: La justicia transicional bajo el Acuerdo De Paz debe seguir contando con financiación y apoyo",
                 "link": "https://news.un.org/feed/view/es/story/2026/09/1541987",
                 "date": "Mon, 28 Sep 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Racismo, Colombia, Palestina, Estados Unidos… Las noticias del lunes",
-                "link": "https://news.un.org/feed/view/es/story/2026/09/1541986",
-                "date": "Mon, 28 Sep 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Guterres pide renovar la acción mundial para combatir el “veneno” del racismo",
-                "link": "https://news.un.org/feed/view/es/story/2026/09/1541985",
-                "date": "Mon, 28 Sep 2026 12:00:00 +0000"
-            },
-            {
-                "title": "El Salvador: El futuro no pertenece a quienes tienen más poder, sino a quienes se atreven a transformar con determinación",
-                "link": "https://news.un.org/feed/view/es/story/2026/09/1541984",
-                "date": "Mon, 28 Sep 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Estonia atribuye a Rusia incendio en una empresa que fabrica drones para Ucrania",
-                "link": "https://www.dw.com/es/estonia-atribuye-a-rusia-incendio-en-una-empresa-que-fabrica-drones-para-ucrania/a-79472985?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-29"
+                "title": "Trump asegura que las empresas de IA aceptan \"autorregularse\"",
+                "link": "https://www.dw.com/es/trump-asegura-que-las-empresas-de-ia-aceptan-autorregularse/a-79487526?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-30"
             },
             {
-                "title": "FIFA acusa a UEFA de \"campaña de desinformación\" y \"acoso\" sobre su proyecto frustrado de abrirse a capital privado",
-                "link": "https://www.dw.com/es/fifa-acusa-a-uefa-de-campaña-de-desinformación-y-acoso-sobre-su-proyecto-frustrado-de-abrirse-a-capital-privado/a-79468789?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-29"
+                "title": "Tropas de EE. UU. abandonan Irak tras más de una década de misión antiyihadista",
+                "link": "https://www.dw.com/es/tropas-de-ee-uu-abandonan-irak-tras-más-de-una-década-de-misión-antiyihadista/a-79481954?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-30"
             },
             {
-                "title": "Jubilada de 87 años desalojada en Madrid podrá volver a casa tras protestas y acuerdo",
-                "link": "https://www.dw.com/es/jubilada-de-87-años-desalojada-en-madrid-podrá-volver-a-casa-tras-protestas-y-acuerdo/a-79470462?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-29"
+                "title": "Vuelo de FlyDubai a Israel fue desviado a Arabia Saudita por \"altercado\" entre pilotos e Israel movilizó aviones de combate",
+                "link": "https://www.dw.com/es/vuelo-de-flydubai-a-israel-fue-desviado-a-arabia-saudita-por-altercado-entre-pilotos-e-israel-movilizó-aviones-de-combate/a-79482811?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-30"
             },
             {
-                "title": "Corea del Sur denuncia \"violación del armisticio\" en zona desmilitarizada con Corea del Norte",
-                "link": "https://www.dw.com/es/corea-del-sur-denuncia-violación-del-armisticio-en-zona-desmilitarizada-con-corea-del-norte/a-79468774?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-29"
+                "title": "Irán ejecuta a otros dos hombres que participaron en las protestas de enero",
+                "link": "https://www.dw.com/es/irán-ejecuta-a-otros-dos-hombres-que-participaron-en-las-protestas-de-enero/a-79481801?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-30"
             },
             {
-                "title": "Entra en vigor veto de EE.UU. a importaciones de Canadá",
-                "link": "https://www.dw.com/es/entra-en-vigor-veto-de-ee-uu-a-importaciones-de-canadá/a-79468061?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-09-29"
+                "title": "Copernicus: 40 % de población mundial sufrió niveles nocivos de ozono en 2026",
+                "link": "https://www.dw.com/es/copernicus-40-de-población-mundial-sufrió-niveles-nocivos-de-ozono-en-2026/a-79481151?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-09-30"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Una noticia falsa sobre la virgen de Aparecida, patrona de Brasil, marca el final de la campaña presidencial",
-                "link": "https://elpais.com/america/2026-09-29/una-noticia-falsa-sobre-la-virgen-de-aparecida-patrona-de-brasil-marca-el-final-de-la-campana-presidencial.html",
-                "date": "Tue, 29 Sep 2026 09:30:00 GMT"
+                "title": "Las deudas asfixian a las familias brasileñas pese a una leve mejora económica",
+                "link": "https://elpais.com/america/2026-09-30/las-deudas-asfixian-a-las-familias-brasilenas-pese-a-una-leve-mejora-economica.html",
+                "date": "Wed, 30 Sep 2026 09:30:00 GMT"
             },
             {
-                "title": "Los apagones, la crisis económica y el bloqueo a María Corina Machado reactivan la protesta social en Venezuela",
-                "link": "https://elpais.com/america/2026-09-29/los-apagones-la-crisis-economica-y-el-bloqueo-a-maria-corina-machado-reactivan-la-protesta-social-en-venezuela.html",
-                "date": "Tue, 29 Sep 2026 09:30:00 GMT"
+                "title": "Los demócratas recuperan terreno entre el electorado latino de cara a las midterms",
+                "link": "https://elpais.com/us/2026-09-30/los-democratas-recuperan-terreno-entre-el-electorado-latino-de-cara-a-las-midterms.html",
+                "date": "Wed, 30 Sep 2026 09:30:00 GMT"
             },
             {
-                "title": "Kast enfrenta una dura resistencia interna por haber sumado a Chile al Escudo de las Américas de Trump",
-                "link": "https://elpais.com/chile/2026-09-29/kast-enfrenta-una-dura-resistencia-interna-por-haber-sumado-a-chile-al-escudo-de-las-americas-de-trump.html",
-                "date": "Tue, 29 Sep 2026 09:30:00 GMT"
+                "title": "El caso de Christa Pike, la primera mujer que será ejecutada en Tennessee en más de dos siglos",
+                "link": "https://elpais.com/us/2026-09-30/el-caso-de-christa-pike-la-primera-mujer-que-sera-ejecutada-en-tennessee-en-mas-de-dos-siglos.html",
+                "date": "Wed, 30 Sep 2026 09:30:00 GMT"
             },
             {
-                "title": "El periodista de EE UU encarcelado por Putin: “La prisión en Rusia no consiguió romperme. Uno acaba por acostumbrarse a todo”",
-                "link": "https://elpais.com/internacional/2026-09-29/el-periodista-de-ee-uu-encarcelado-por-putin-la-prision-en-rusia-no-consiguio-romperme-uno-acaba-por-acostumbrarse-a-todo.html",
-                "date": "Tue, 29 Sep 2026 03:40:00 GMT"
+                "title": "La rentabilidad del bono a 10 años del Tesoro de EE UU registró su mayor nivel en dos décadas. ¿Por qué debería preocuparle?",
+                "link": "https://elpais.com/us/2026-09-30/la-rentabilidad-del-bono-a-10-anos-del-tesoro-de-ee-uu-registro-su-mayor-nivel-en-dos-decadas-por-que-deberia-preocuparle.html",
+                "date": "Wed, 30 Sep 2026 09:30:00 GMT"
             },
             {
-                "title": "Las nuevas imágenes de Google Maps muestran una Gaza en ruinas: los mapas antes y después",
-                "link": "https://elpais.com/internacional/2026-09-29/google-maps-ya-muestra-la-destruccion-mas-reciente-de-gaza-los-mapas-del-antes-y-el-despues.html",
-                "date": "Tue, 29 Sep 2026 03:30:01 GMT"
+                "title": "Tres colombianos deportados por Trump a África buscan protección en España: “No siento rabia contra Congo, sino contra Estados Unidos”",
+                "link": "https://elpais.com/planeta-futuro/2026-09-30/tres-colombianos-deportados-por-trump-a-africa-buscan-proteccion-en-espana-no-siento-rabia-contra-congo-sino-contra-estados-unidos.html",
+                "date": "Wed, 30 Sep 2026 03:30:01 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-09-29"
+                "date": "2026-09-30"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Los impagos de préstamos en Brasil alcanzan un récord histórico en agosto",
-                "link": "https://es.investing.com/news/economy-news/los-impagos-de-prestamos-en-brasil-alcanzan-un-record-historico-en-agosto-93CH-3853574",
-                "date": "2026-09-29 12:21:13"
+                "title": "Xi reitera objetivos económicos y se opone a la independencia de Taiwán",
+                "link": "https://es.investing.com/news/economy-news/xi-reitera-objetivos-economicos-y-se-opone-a-la-independencia-de-taiwan-3855394",
+                "date": "2026-09-30 11:26:42"
             },
             {
-                "title": "La moneda de Irán cae a un nuevo mínimo histórico",
-                "link": "https://es.investing.com/news/economy-news/la-moneda-de-iran-cae-a-un-nuevo-minimo-historico-3853564",
-                "date": "2026-09-29 12:16:46"
+                "title": "Irlanda registra un crecimiento de las ventas minoristas en agosto",
+                "link": "https://es.investing.com/news/economy-news/irlanda-registra-un-crecimiento-de-las-ventas-minoristas-en-agosto-93CH-3855150",
+                "date": "2026-09-30 10:19:47"
             },
             {
-                "title": "Escrivá (BCE) alerta sobre el alza de los rendimientos y la energía",
-                "link": "https://es.investing.com/news/economy-news/escriva-bce-alerta-sobre-el-alza-de-los-rendimientos-y-la-energia-93CH-3853559",
-                "date": "2026-09-29 12:15:49"
+                "title": "Rusia advierte a la OTAN sobre amenaza nuclear en Kaliningrado",
+                "link": "https://es.investing.com/news/economy-news/rusia-advierte-a-la-otan-sobre-amenaza-nuclear-en-kaliningrado-93CH-3855136",
+                "date": "2026-09-30 10:18:47"
             },
             {
-                "title": "Rosatom de Rusia desconecta la planta nuclear de Bushehr en Irán",
-                "link": "https://es.investing.com/news/economy-news/rosatom-de-rusia-desconecta-la-planta-nuclear-de-bushehr-en-iran-93CH-3853384",
-                "date": "2026-09-29 11:26:11"
+                "title": "Los precios al consumidor de Portugal suben un 3,6% en septiembre por los costes de combustible",
+                "link": "https://es.investing.com/news/economy-news/los-precios-al-consumidor-de-portugal-suben-un-36-en-septiembre-por-los-costes-de-combustible-93CH-3855135",
+                "date": "2026-09-30 10:17:38"
             },
             {
-                "title": "Italia preguntará al secretario de Energía de EE.UU. sobre el veto al diésel",
-                "link": "https://es.investing.com/news/economy-news/italia-preguntara-al-secretario-de-energia-de-eeuu-sobre-el-veto-al-diesel-93CH-3853351",
-                "date": "2026-09-29 11:16:45"
+                "title": "Se prevé que el tope de energía doméstica del Reino Unido suba un 16% en enero",
+                "link": "https://es.investing.com/news/economy-news/se-preve-que-el-tope-de-energia-domestica-del-reino-unido-suba-un-16-en-enero-93CH-3855112",
+                "date": "2026-09-30 10:09:47"
             }
         ],
         "💶 Economía Europea (BCE)": [
+            {
+                "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
+                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
+                "date": "Wed, 30 Sep 2026 04:20:00 +0200"
+            },
             {
                 "title": "ECB amends monetary policy implementation guidelines as part of regular review",
                 "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
@@ -137,11 +142,6 @@
                 "title": "Philip R. Lane: The outlook for the euro area economy",
                 "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
                 "date": "Thu, 24 Sep 2026 11:00:00 +0200"
-            },
-            {
-                "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
-                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf",
-                "date": "Wed, 23 Sep 2026 18:30:00 +0200"
             }
         ],
         "📈 Mercados (Yahoo Finance)": [
@@ -175,7 +175,7 @@
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-09-29"
+                "date": "2026-09-30"
             }
         ]
     }
