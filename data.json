@@ -2,6 +2,21 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "Los palestinos de Gaza quieren recuperar una \"vida normal\"",
+                "link": "https://news.un.org/feed/view/es/story/2026/10/1542002",
+                "date": "Thu, 01 Oct 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Nicaragua, Christa Pike, prevención de conflictos… Las noticias del jueves",
+                "link": "https://news.un.org/feed/view/es/story/2026/10/1542001",
+                "date": "Thu, 01 Oct 2026 12:00:00 +0000"
+            },
+            {
+                "title": "La respuesta al ébola sufre un revés tras incendiarse un centro de tránsito en un campamento",
+                "link": "https://news.un.org/feed/view/es/story/2026/10/1542000",
+                "date": "Thu, 01 Oct 2026 12:00:00 +0000"
+            },
+            {
                 "title": "La inteligencia artificial facilita la expansión del crimen organizado y el ciberdelito",
                 "link": "https://news.un.org/feed/view/es/story/2026/09/1541999",
                 "date": "Wed, 30 Sep 2026 12:00:00 +0000"
@@ -10,114 +25,114 @@
                 "title": "El Líbano, calor extremo, México, racismo… Las noticias del miércoles",
                 "link": "https://news.un.org/feed/view/es/story/2026/09/1541996",
                 "date": "Wed, 30 Sep 2026 12:00:00 +0000"
-            },
-            {
-                "title": "México: Las mujeres que buscan a personas desaparecidas enfrentan violencia extrema",
-                "link": "https://news.un.org/feed/view/es/story/2026/09/1541997",
-                "date": "Wed, 30 Sep 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Haití: las puertas de la atención sanitaria siguen abiertas a las afueras de Puerto Príncipe",
-                "link": "https://news.un.org/feed/view/es/story/2026/09/1541995",
-                "date": "Wed, 30 Sep 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Armas nucleares, salud, desperdicio de alimentos, refugiados… Las noticias del martes",
-                "link": "https://news.un.org/feed/view/es/story/2026/09/1541993",
-                "date": "Tue, 29 Sep 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Qué hay tras el afán de Trump por rebautizar la IA como superinteligencia",
-                "link": "https://www.dw.com/es/qué-hay-tras-el-afán-de-trump-por-rebautizar-la-ia-como-superinteligencia/a-79494825?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-01"
+                "title": "La inflación en la zona euro escala al 3,8% en septiembre, un máximo en tres años",
+                "link": "https://www.dw.com/es/la-inflación-en-la-zona-euro-escala-al-3-8-en-septiembre-un-máximo-en-tres-años/a-79517637?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-02"
             },
             {
-                "title": "Piloto indio, \"héroe\" mundial tras apuñalamiento en vuelo de Flydubai",
-                "link": "https://www.dw.com/es/piloto-indio-héroe-mundial-tras-apuñalamiento-en-vuelo-de-flydubai/a-79497744?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-01"
+                "title": "Gobierno de España afronta votación clave sobre vivienda y descarta elecciones anticipadas: \"Hoy no toca\"",
+                "link": "https://www.dw.com/es/gobierno-de-españa-afronta-votación-clave-sobre-vivienda-y-descarta-elecciones-anticipadas-hoy-no-toca/a-79517816?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-02"
             },
             {
-                "title": "Ejecución fallida en Tennessee deja con vida a Christa Pike, que recibió dos inyecciones letales y sobrevivió a ambas",
-                "link": "https://www.dw.com/es/ejecución-fallida-en-tennessee-deja-con-vida-a-christa-pike-que-recibió-dos-inyecciones-letales-y-sobrevivió-a-ambas/a-79500866?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-01"
+                "title": "Herido en pleno vuelo: el piloto de flydubai cuenta cómo luchó por salvar a sus pasajeros",
+                "link": "https://www.dw.com/es/herido-en-pleno-vuelo-el-piloto-de-flydubai-cuenta-cómo-luchó-por-salvar-a-sus-pasajeros/a-79517439?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-02"
             },
             {
-                "title": "Emiratos investiga \"tentativa terrorista\" en vuelo de Flydubai a Israel",
-                "link": "https://www.dw.com/es/emiratos-investiga-tentativa-terrorista-en-vuelo-de-flydubai-a-israel/a-79497718?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-01"
+                "title": "Protestas estudiantiles en Francia: \"Tú rompes, tus padres pagan\", reclama el Gobierno",
+                "link": "https://www.dw.com/es/protestas-estudiantiles-en-francia-tú-rompes-tus-padres-pagan-reclama-el-gobierno/a-79512770?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-02"
             },
             {
-                "title": "Protestas y bloqueos en institutos y universidades de Francia derivan en violencia",
-                "link": "https://www.dw.com/es/protestas-y-bloqueos-en-institutos-y-universidades-de-francia-derivan-en-violencia/a-79497683?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-01"
+                "title": "Seúl exige disculpas a Ucrania por romper acuerdo de confidencialidad",
+                "link": "https://www.dw.com/es/seúl-exige-disculpas-a-ucrania-por-romper-acuerdo-de-confidencialidad/a-79509701?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-02"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Pánico a bordo del vuelo FZ1073 con destino a Tel Aviv: “Acabamos de neutralizar al terrorista. Necesitamos ayuda”",
-                "link": "https://elpais.com/internacional/2026-10-01/panico-a-bordo-del-vuelo-fz1073-con-destino-a-tel-aviv-acabamos-de-neutralizar-al-terrorista-necesitamos-ayuda.html",
-                "date": "Thu, 01 Oct 2026 03:30:00 GMT"
+                "title": "La fiscal que llevó a juicio a Trump investigará la violación grupal en la Universidad Cornell",
+                "link": "https://elpais.com/us/2026-10-02/la-fiscal-que-llevo-a-juicio-a-trump-investigara-la-violacion-grupal-en-la-universidad-de-cornell.html",
+                "date": "Fri, 02 Oct 2026 07:03:22 GMT"
             },
             {
-                "title": "Cronología visual del intento de secuestro del vuelo de Flydubai con destino a Tel Aviv",
-                "link": "https://elpais.com/videos/2026-10-01/cronologia-visual-del-intento-de-secuestro-del-vuelo-de-flydubai-con-destino-a-tel-aviv.html",
-                "date": "Thu, 01 Oct 2026 03:15:00 GMT"
+                "title": "El voto del odio marca las elecciones presidenciales en Brasil",
+                "link": "https://elpais.com/america/2026-10-02/el-voto-del-odio-marca-las-elecciones-presidenciales-en-brasil.html",
+                "date": "Fri, 02 Oct 2026 04:00:00 GMT"
             },
             {
-                "title": "Laura y Cristina, pareja, madres y actrices brasileñas: “Si Bolsonaro gana seremos un búnker de la resistencia”",
-                "link": "https://elpais.com/america/2026-10-01/laura-y-cristina-pareja-madres-y-actrices-brasilenas-si-bolsonaro-gana-seremos-un-bunker-de-la-resistencia.html",
-                "date": "Thu, 01 Oct 2026 09:30:00 GMT"
+                "title": "Un porcentaje ínfimo de brasileños indecisos decantará la balanza para Lula o Bolsonaro hijo",
+                "link": "https://elpais.com/america/2026-10-02/un-porcentaje-infimo-de-brasilenos-indecisos-decantara-la-balanza-para-lula-o-bolsonaro-hijo.html",
+                "date": "Fri, 02 Oct 2026 09:30:00 GMT"
             },
             {
-                "title": "En las elecciones de Brasil también se disputa la supervivencia de la Amazonia",
-                "link": "https://elpais.com/america-futura/2026-10-01/en-las-elecciones-de-brasil-tambien-se-disputa-la-supervivencia-de-la-amazonia.html",
-                "date": "Thu, 01 Oct 2026 09:30:00 GMT"
+                "title": "“La verdad es que Cuba ya ha caído”: la estrategia de Estados Unidos para someter a la isla",
+                "link": "https://elpais.com/us/2026-10-02/la-verdad-es-que-cuba-ya-ha-caido-la-estrategia-de-estados-unidos-para-someter-a-la-isla.html",
+                "date": "Fri, 02 Oct 2026 09:30:00 GMT"
             },
             {
-                "title": "Compare las propuestas de los candidatos para las elecciones de Brasil 2026",
-                "link": "https://elpais.com/america/2026-10-01/compare-las-propuestas-de-los-candidatos-para-las-elecciones-de-brasil-2026.html",
-                "date": "Thu, 01 Oct 2026 12:00:00 GMT"
+                "title": "Zelenski a EL PAÍS, ante la nueva ofensiva rusa contra Kiev: “Putin no teme a los europeos”",
+                "link": "https://elpais.com/internacional/2026-10-02/zelenski-a-el-pais-ante-la-nueva-ofensiva-rusa-contra-kiev-putin-no-teme-a-los-europeos.html",
+                "date": "Fri, 02 Oct 2026 03:30:01 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-10-01"
+                "date": "2026-10-02"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Francia presenta el presupuesto de 2027 con un plan para reducir el déficit",
-                "link": "https://es.investing.com/news/economy-news/francia-presenta-el-presupuesto-de-2027-con-un-plan-para-reducir-el-deficit-93CH-3856964",
-                "date": "2026-10-01 10:30:49"
+                "title": "La UE estudia liberar reservas de diésel ante la presión de EE.UU.",
+                "link": "https://es.investing.com/news/economy-news/la-ue-estudia-liberar-reservas-de-diesel-ante-la-presion-de-eeuu-3859009",
+                "date": "2026-10-02 11:56:52"
             },
             {
-                "title": "Las perspectivas de IA de Micron y los resultados de Nike mueven los mercados",
-                "link": "https://es.investing.com/news/economy-news/perspectivas-de-ia-de-micron-y-resultados-de-nike-que-mueve-los-mercados-3856589",
-                "date": "2026-10-01 07:50:34"
+                "title": "Alemania considera a EE.UU. un proveedor de combustible fiable",
+                "link": "https://es.investing.com/news/economy-news/alemania-considera-a-eeuu-un-proveedor-de-combustible-fiable-93CH-3858811",
+                "date": "2026-10-02 10:35:36"
             },
             {
-                "title": "La manufactura de Rusia cae por segundo mes en septiembre",
-                "link": "https://es.investing.com/news/economy-news/la-manufactura-de-rusia-cae-por-segundo-mes-en-septiembre-93CH-3856473",
-                "date": "2026-10-01 06:36:51"
+                "title": "Alemania elevará inesperadamente su previsión de crecimiento para 2026 al 1,3%",
+                "link": "https://es.investing.com/news/economy-news/alemania-elevara-inesperadamente-su-prevision-de-crecimiento-para-2026-al-13-93CH-3858752",
+                "date": "2026-10-02 10:04:38"
             },
             {
-                "title": "Trump exige la dimisión de Powell tras informe sobre costes excesivos",
-                "link": "https://es.investing.com/news/economy-news/trump-exige-la-dimision-de-powell-tras-informe-sobre-costes-excesivos-3856150",
-                "date": "2026-09-30 19:58:33"
+                "title": "Los riesgos de inflación en la eurozona aumentan por los costes energéticos",
+                "link": "https://es.investing.com/news/economy-news/los-riesgos-de-inflacion-en-la-eurozona-aumentan-por-los-costes-energeticos-93CH-3858576",
+                "date": "2026-10-02 08:51:48"
             },
             {
-                "title": "Banco central de Colombia sube los tipos de interés al 12,25%",
-                "link": "https://es.investing.com/news/economy-news/banco-central-de-colombia-sube-los-tipos-de-interes-al-1225-93CH-3856140",
-                "date": "2026-09-30 19:44:57"
+                "title": "Italia elevará previsión de crecimiento para 2026 y recortará defensa",
+                "link": "https://es.investing.com/news/economy-news/italia-elevara-prevision-de-crecimiento-para-2026-y-recortara-defensa-93CH-3858537",
+                "date": "2026-10-02 08:33:47"
             }
         ],
         "💶 Economía Europea (BCE)": [
+            {
+                "title": "Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking",
+                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
+                "date": "Fri, 02 Oct 2026 13:30:00 +0200"
+            },
+            {
+                "title": "Isabel Schnabel: Central banks on-chain",
+                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
+                "date": "Thu, 01 Oct 2026 17:30:00 +0200"
+            },
+            {
+                "title": "Christine Lagarde: Where AI risks meet",
+                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
+                "date": "Thu, 01 Oct 2026 15:30:00 +0200"
+            },
             {
                 "title": "Christine Lagarde: Interview with La Croix",
                 "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
@@ -127,21 +142,6 @@
                 "title": "Isabel Schnabel: Monetary policy in a world of overlapping shocks",
                 "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930_1~7c6c120482.en.html",
                 "date": "Wed, 30 Sep 2026 17:45:00 +0200"
-            },
-            {
-                "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
-                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
-                "date": "Wed, 30 Sep 2026 04:20:00 +0200"
-            },
-            {
-                "title": "ECB amends monetary policy implementation guidelines as part of regular review",
-                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
-                "date": "Tue, 29 Sep 2026 10:00:00 +0200"
-            },
-            {
-                "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
-                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
-                "date": "Mon, 28 Sep 2026 15:30:00 +0200"
             }
         ],
         "📈 Mercados (Yahoo Finance)": [
@@ -175,7 +175,7 @@
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-10-01"
+                "date": "2026-10-02"
             }
         ]
     }
