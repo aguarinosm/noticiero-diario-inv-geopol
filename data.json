@@ -2,6 +2,16 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "El laboratorio de Nueva York que rescata sonidos e imágenes antes de que sea demasiado tarde",
+                "link": "https://news.un.org/feed/view/es/story/2026/10/1542055",
+                "date": "Sun, 18 Oct 2026 12:00:00 +0000"
+            },
+            {
+                "title": "¿Por qué tu avión da vueltas antes de aterrizar? El plan de la ONU para reducir las esperas en el aire",
+                "link": "https://news.un.org/feed/view/es/story/2026/10/1542074",
+                "date": "Sun, 18 Oct 2026 12:00:00 +0000"
+            },
+            {
                 "title": "La naturaleza, en peligro: Guterres reclama un impulso mundial para protegerla",
                 "link": "https://news.un.org/feed/view/es/story/2026/10/1542073",
                 "date": "Fri, 16 Oct 2026 12:00:00 +0000"
@@ -15,109 +25,104 @@
                 "title": "Biodiversidad, Día de la Alimentación, niños de Gaza, empresas tecnológicas… Las noticias del viernes",
                 "link": "https://news.un.org/feed/view/es/story/2026/10/1542069",
                 "date": "Fri, 16 Oct 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Ante el aumento de los desastres climáticos, la próxima cumbre del clima COP31 afronta una prueba de confianza",
-                "link": "https://news.un.org/feed/view/es/story/2026/10/1542070",
-                "date": "Fri, 16 Oct 2026 12:00:00 +0000"
-            },
-            {
-                "title": "El mundo está lejos de cumplir sus metas para frenar la destrucción de la naturaleza",
-                "link": "https://news.un.org/feed/view/es/story/2026/10/1542068",
-                "date": "Thu, 15 Oct 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Las protestas en París dejan un récord de 855 detenidos",
-                "link": "https://www.dw.com/es/las-protestas-en-parís-dejan-un-récord-de-855-detenidos/a-79691697?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-18"
+                "title": "Los Tigres del Norte actúan en Tiny Desk en medio de la polémica por un discurso recortado en defensa de la comunidad latina",
+                "link": "https://www.dw.com/es/los-tigres-del-norte-actúan-en-tiny-desk-en-medio-de-la-polémica-por-un-discurso-recortado-en-defensa-de-la-comunidad-latina/a-79699544?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-19"
             },
             {
-                "title": "Un camión sin control mata a 13 personas tras arrollarlas durante un festival hindú en India",
-                "link": "https://www.dw.com/es/un-camión-sin-control-mata-a-13-personas-tras-arrollarlas-durante-un-festival-hindú-en-india/a-79691333?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-18"
+                "title": "Ucrania no recibió \"ningún aviso\" de sus socios antes de bombardeos rusos",
+                "link": "https://www.dw.com/es/ucrania-no-recibió-ningún-aviso-de-sus-socios-antes-de-bombardeos-rusos/a-79697111?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-19"
             },
             {
-                "title": "Ucrania lanza contra San Petersburgo uno de los mayores ataques con drones desde que empezó la guerra",
-                "link": "https://www.dw.com/es/ucrania-lanza-contra-san-petersburgo-uno-de-los-mayores-ataques-con-drones-desde-que-empezó-la-guerra/a-79691287?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-18"
+                "title": "Israel detiene a 10 colonos por ataques a fotoperiodista del Washington Post y a diplomáticos europeos en Cisjordania",
+                "link": "https://www.dw.com/es/israel-detiene-a-10-colonos-por-ataques-a-fotoperiodista-del-washington-post-y-a-diplomáticos-europeos-en-cisjordania/a-79696522?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-19"
             },
             {
-                "title": "Dos muertos al estrellarse helicóptero militar saudí en Yemen mientras los hutíes se atribuyen haberlo derribado",
-                "link": "https://www.dw.com/es/dos-muertos-al-estrellarse-helicóptero-militar-saudí-en-yemen-mientras-los-hutíes-se-atribuyen-haberlo-derribado/a-79691037?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-18"
+                "title": "ONU dejará de ayudar a medio millón de personas en Gaza por falta de fondos: \"No es el momento de mirar hacia otro lado\"",
+                "link": "https://www.dw.com/es/onu-dejará-de-ayudar-a-medio-millón-de-personas-en-gaza-por-falta-de-fondos-no-es-el-momento-de-mirar-hacia-otro-lado/a-79696552?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-19"
             },
             {
-                "title": "Protestas contra la prohibición del hiyab en Azerbaiyán: ¿por qué hay niños involucrados?",
-                "link": "https://www.dw.com/es/protestas-contra-la-prohibición-del-hiyab-en-azerbaiyán-¿por-qué-hay-niños-involucrados/a-79690267?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-18"
+                "title": "Protestas en Francia: \"pérdida de control\" de la policía en algunas ciudades",
+                "link": "https://www.dw.com/es/protestas-en-francia-pérdida-de-control-de-la-policía-en-algunas-ciudades/a-79695664?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-19"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Francia prende fuego al macronismo",
-                "link": "https://elpais.com/internacional/2026-10-18/francia-prende-fuego-al-macronismo.html",
-                "date": "Sun, 18 Oct 2026 03:30:01 GMT"
+                "title": "Bolsonaro se lanza contra Lula en un primer debate muy bronco",
+                "link": "https://elpais.com/america/2026-10-19/bolsonaro-se-lanza-contra-lula-en-un-primer-debate-muy-bronco.html",
+                "date": "Mon, 19 Oct 2026 02:51:05 GMT"
             },
             {
-                "title": "El Ayuntamiento de Limoges, devorado por las llamas en la jornada de protestas en Francia",
-                "link": "https://elpais.com/internacional/2026-10-17/el-ayuntamiento-de-limoges-destruido-por-las-llamas-en-la-jornada-de-protestas-en-francia.html",
-                "date": "Sat, 17 Oct 2026 22:12:09 GMT"
+                "title": "Las claves del primer debate en Brasil: un Lula tecnócrata ante un Bolsonaro provocador",
+                "link": "https://elpais.com/america/2026-10-19/las-claves-del-primer-debate-en-brasil-un-lula-tecnocrata-ante-un-bolsonaro-provocador.html",
+                "date": "Mon, 19 Oct 2026 03:12:17 GMT"
             },
             {
-                "title": "Convivir con 230 centros de datos en la puerta de casa: “Nadie nos avisó de lo que iba a pasar”",
-                "link": "https://elpais.com/us/2026-10-17/convivir-con-230-centros-de-datos-en-la-puerta-de-casa-nadie-nos-aviso-de-lo-que-iba-a-pasar.html",
-                "date": "Sat, 17 Oct 2026 09:58:57 GMT"
+                "title": "Culpabilizados y engañados: los latinos que votaron por Trump se rebelan contra el Partido Republicano",
+                "link": "https://elpais.com/us/2026-10-19/culpabilizados-y-enganados-los-latinos-que-votaron-por-trump-se-rebelan-contra-el-partido-republicano.html",
+                "date": "Mon, 19 Oct 2026 09:30:00 GMT"
             },
             {
-                "title": "El despido de la portavoz de Trump desliza a la Casa Blanca hacia el caos  a dos semanas de las ‘midterms’",
-                "link": "https://elpais.com/us/2026-10-18/el-despido-de-la-portavoz-de-trump-desliza-a-la-casa-blanca-hacia-el-caos-a-dos-semanas-de-las-midterms.html",
-                "date": "Sun, 18 Oct 2026 03:30:01 GMT"
+                "title": "Mismos votantes, distintos resultados: la anatomía del ‘gerrymandering’ en EE UU",
+                "link": "https://elpais.com/us/2026-10-19/mismos-votantes-distintos-resultados-la-anatomia-del-gerrymandering-en-ee-uu.html",
+                "date": "Mon, 19 Oct 2026 09:30:00 GMT"
             },
             {
-                "title": "Los anuncios políticos hechos con IA irrumpen en las campañas para las ‘midterms’",
-                "link": "https://elpais.com/us/2026-10-18/los-anuncios-politicos-hechos-con-ia-irrumpen-en-las-campanas-para-las-midterms.html",
-                "date": "Sun, 18 Oct 2026 09:30:00 GMT"
+                "title": "Cinco estrategias de los demócratas contra Trump",
+                "link": "https://elpais.com/us/2026-10-19/cinco-estrategias-de-los-democratas-contra-trump.html",
+                "date": "Mon, 19 Oct 2026 09:30:00 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-10-18"
+                "date": "2026-10-19"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Irán nombra nuevo ministro de Defensa en medio de tensiones con EE.UU.",
-                "link": "https://es.investing.com/news/economy-news/iran-nombra-nuevo-ministro-de-defensa-en-medio-de-tensiones-con-eeuu-3878204",
-                "date": "2026-10-18 09:59:50"
+                "title": "Por qué BofA sigue esperando una subida de tipos en octubre",
+                "link": "https://es.investing.com/news/economy-news/por-que-bofa-sigue-esperando-una-subida-de-tipos-en-octubre-3879219",
+                "date": "2026-10-19 12:28:06"
             },
             {
-                "title": "Microsoft se retira de un acuerdo de centro de datos en el Reino Unido con Nscale",
-                "link": "https://es.investing.com/news/economy-news/microsoft-se-retira-de-un-acuerdo-de-centro-de-datos-en-el-reino-unido-con-nscale-3878202",
-                "date": "2026-10-18 09:22:53"
+                "title": "Italia solo alcanza el 15% de sus objetivos de transición energética para 2030",
+                "link": "https://es.investing.com/news/economy-news/italia-solo-alcanza-el-15-de-sus-objetivos-de-transicion-energetica-para-2030-93CH-3879042",
+                "date": "2026-10-19 11:33:48"
             },
             {
-                "title": "Rusia ataca la infraestructura energética de Ucrania 76 veces en una semana",
-                "link": "https://es.investing.com/news/economy-news/rusia-ataca-la-infraestructura-energetica-de-ucrania-76-veces-en-una-semana-3878201",
-                "date": "2026-10-18 08:44:37"
+                "title": "La economía de EE.UU. está en auge, según Jamie Dimon de JPMorgan",
+                "link": "https://es.investing.com/news/economy-news/la-economia-de-eeuu-esta-en-auge-segun-jamie-dimon-de-jpmorgan-3878868",
+                "date": "2026-10-19 10:49:44"
             },
             {
-                "title": "China propone restricciones a la exportación de 12 tecnologías clave de fabricación solar",
-                "link": "https://es.investing.com/news/economy-news/china-propone-restricciones-a-la-exportacion-de-12-tecnologias-clave-de-fabricacion-solar-3878198",
-                "date": "2026-10-18 08:06:30"
+                "title": "El EUR/USD podría recuperarse según UBS, que ve exceso de pesimismo sobre Europa",
+                "link": "https://es.investing.com/news/economy-news/el-eurusd-podria-recuperarse-segun-ubs-que-ve-exceso-de-pesimismo-sobre-europa-3878860",
+                "date": "2026-10-19 10:45:13"
             },
             {
-                "title": "Guerra de Irán: helicóptero saudí se estrella y ataques a petroleros amenazan el Estrecho de Ormuz",
-                "link": "https://es.investing.com/news/economy-news/guerra-en-iran-petroleros-atacados-cerca-de-ormuz-mientras-teheran-propone-plan-diplomatico-3878183",
-                "date": "2026-10-18 03:33:56"
+                "title": "Reino Unido introduce sanciones contra asentamientos ilegales ante el plazo E1",
+                "link": "https://es.investing.com/news/economy-news/reino-unido-introduce-sanciones-contra-asentamientos-ilegales-ante-el-plazo-e1-3878809",
+                "date": "2026-10-19 10:14:10"
             }
         ],
         "💶 Economía Europea (BCE)": [
+            {
+                "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
+                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
+                "date": "Mon, 19 Oct 2026 08:00:00 +0200"
+            },
             {
                 "title": "Christine Lagarde: IMFC Statement",
                 "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
@@ -137,25 +142,20 @@
                 "title": "Meeting of 9-10 September 2026",
                 "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
                 "date": "Thu, 08 Oct 2026 13:30:00 +0200"
-            },
-            {
-                "title": "Piero Cipollone: Interview with Corriere della Sera",
-                "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
-                "date": "Thu, 08 Oct 2026 08:00:00 +0200"
             }
         ],
         "📈 Mercados (Yahoo Finance)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-10-18"
+                "date": "2026-10-19"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-10-18"
+                "date": "2026-10-19"
             }
         ]
     }
