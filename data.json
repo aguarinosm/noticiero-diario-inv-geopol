@@ -2,99 +2,119 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
-                "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
-                "link": "#",
-                "date": "2026-10-21"
+                "title": "Las agencias de la ONU piden ayuda para proteger a los más vulnerables de un El Niño sin precedentes",
+                "link": "https://news.un.org/feed/view/es/story/2026/10/1542091",
+                "date": "Wed, 21 Oct 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Cambio climático, El Niño, ébola, migrantes… Las noticias del miércoles",
+                "link": "https://news.un.org/feed/view/es/story/2026/10/1542089",
+                "date": "Wed, 21 Oct 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Sudán: se reanudan los esfuerzos de paz para poner fin a la \"guerra de drones\" que alimenta la crisis humanitaria",
+                "link": "https://news.un.org/feed/view/es/story/2026/10/1542088",
+                "date": "Wed, 21 Oct 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Es necesario recortar las emisiones un 18 % en cuatro años para limitar el pico de temperatura a 1,7 grados",
+                "link": "https://news.un.org/feed/view/es/story/2026/10/1542087",
+                "date": "Wed, 21 Oct 2026 12:00:00 +0000"
+            },
+            {
+                "title": "IA: la ONU alerta sobre el riesgo de una guerra dirigida por máquinas",
+                "link": "https://news.un.org/feed/view/es/story/2026/10/1542086",
+                "date": "Tue, 20 Oct 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Javier Milei llama \"impresentable dictador\" a Pedro Sánchez",
-                "link": "https://www.dw.com/es/javier-milei-llama-impresentable-dictador-a-pedro-sánchez/a-79720677?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-21"
+                "title": "Ucrania lamenta \"adulación\" y \"servilismo\" de Witkoff al llamar \"humanitario\" a Putin",
+                "link": "https://www.dw.com/es/ucrania-lamenta-adulación-y-servilismo-de-witkoff-al-llamar-humanitario-a-putin/a-79728650?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-22"
             },
             {
-                "title": "Papa León XIV retoma audiencias, sube al papamóvil, saluda a los fieles bajo la lluvia y mantiene el viaje a Sudamérica tras su operación",
-                "link": "https://www.dw.com/es/papa-león-xiv-retoma-audiencias-sube-al-papamóvil-saluda-a-los-fieles-bajo-la-lluvia-y-mantiene-el-viaje-a-sudamérica-tras-su-operación/a-79720519?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-21"
+                "title": "Meta enfrenta demanda colectiva en Australia por presuntos daños a niños",
+                "link": "https://www.dw.com/es/meta-enfrenta-demanda-colectiva-en-australia-por-presuntos-daños-a-niños/a-79727601?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-22"
             },
             {
-                "title": "Diputada australiana pierde las dos piernas tras un atropello deliberado",
-                "link": "https://www.dw.com/es/diputada-australiana-pierde-las-dos-piernas-tras-un-atropello-deliberado/a-79719678?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-21"
+                "title": "Rusia y Ucrania intercambian ataques con misiles y drones",
+                "link": "https://www.dw.com/es/rusia-y-ucrania-intercambian-ataques-con-misiles-y-drones/a-79727455?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-22"
             },
             {
-                "title": "Canciller de Irán dice que la negociación con EE.UU. continúa \"sin interrupción\"",
-                "link": "https://www.dw.com/es/canciller-de-irán-dice-que-la-negociación-con-ee-uu-continúa-sin-interrupción/a-79718924?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-21"
+                "title": "Editorial canadiense rompe con novelista acusado de usar IA",
+                "link": "https://www.dw.com/es/editorial-canadiense-rompe-con-novelista-acusado-de-usar-ia/a-79727189?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-22"
             },
             {
-                "title": "Trump sopesa convertir sala de prensa de la Casa Blanca en piscina",
-                "link": "https://www.dw.com/es/trump-sopesa-convertir-sala-de-prensa-de-la-casa-blanca-en-piscina/a-79718892?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-21"
+                "title": "Trump optimista y Rusia se muestra escéptica sobre fin de la guerra",
+                "link": "https://www.dw.com/es/trump-optimista-y-rusia-se-muestra-escéptica-sobre-fin-de-la-guerra/a-79727174?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-22"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "El Constitucional se dispone a rechazar el amparo presentado por la ‘ley de nietos’",
-                "link": "https://elpais.com/espana/2026-10-21/el-constitucional-se-dispone-a-rechazar-el-amparo-presentado-por-la-ley-de-nietos.html",
-                "date": "Wed, 21 Oct 2026 03:30:01 GMT"
+                "title": "Milei hace política exterior a golpe de insultos: choques con Sánchez, Lula, Petro y Arce",
+                "link": "https://elpais.com/argentina/2026-10-22/milei-instaura-una-politica-exterior-a-golpe-de-insultos-choques-con-sanchez-lula-petro-y-lopez-obrador.html",
+                "date": "Thu, 22 Oct 2026 04:00:00 GMT"
             },
             {
-                "title": "Huerta de Soto, el catedrático millonario que acoge a Milei en Madrid: “Es el anarcocapitalista más importante del mundo”",
-                "link": "https://elpais.com/educacion/2026-10-21/huerta-de-soto-el-catedratico-millonario-que-acoge-a-milei-en-madrid-es-el-anarcocapitalista-mas-importante-del-mundo.html",
-                "date": "Wed, 21 Oct 2026 03:30:01 GMT"
+                "title": "Milei agita la campaña con insultos a Sánchez y abrazos a Ayuso",
+                "link": "https://elpais.com/espana/2026-10-22/milei-agita-la-campana-con-insultos-a-sanchez-y-abrazos-a-ayuso.html",
+                "date": "Thu, 22 Oct 2026 03:30:01 GMT"
             },
             {
-                "title": "Ola de incendios en la selva: la Amazonia brasileña arde al calor de El Niño y la campaña electoral",
-                "link": "https://elpais.com/america-futura/2026-10-21/ola-de-incendios-en-la-selva-la-amazonia-brasilena-arde-al-calor-de-el-nino-y-la-campana-electoral.html",
-                "date": "Wed, 21 Oct 2026 09:30:00 GMT"
+                "title": "Por qué Milei necesita enemigos más allá de la Argentina",
+                "link": "https://elpais.com/argentina/2026-10-22/por-que-milei-necesita-enemigos-mas-alla-de-la-argentina.html",
+                "date": "Thu, 22 Oct 2026 09:30:00 GMT"
             },
             {
-                "title": "El presidente Lula abre el grifo del dinero público en la campaña para las reñidas elecciones en Brasil",
-                "link": "https://elpais.com/america/2026-10-21/el-presidente-lula-abre-el-grifo-del-dinero-publico-en-la-campana-para-las-renidas-elecciones-en-brasil.html",
-                "date": "Wed, 21 Oct 2026 09:30:00 GMT"
+                "title": "El abogado de afectados por la ‘ley de nietos’ asume que no podrán votar: “El Constitucional era la única vía posible”",
+                "link": "https://elpais.com/espana/elecciones-generales/2026-10-22/el-abogado-de-afectados-por-la-ley-de-nietos-asume-que-no-podran-votar-el-constitucional-era-la-unica-via-posible.html",
+                "date": "Thu, 22 Oct 2026 03:30:01 GMT"
             },
             {
-                "title": "Tenéis que entenderlo",
-                "link": "https://elpais.com/opinion/2026-10-21/teneis-que-entenderlo.html",
-                "date": "Wed, 21 Oct 2026 03:30:01 GMT"
+                "title": "John Kerry: “La decisión de Trump de permitir la compra de petróleo ruso es contraproducente y peligrosa”",
+                "link": "https://elpais.com/economia/2026-10-22/john-kerry-la-decision-de-trump-de-permitir-la-compra-de-petroleo-ruso-es-contraproducente-y-peligrosa.html",
+                "date": "Thu, 22 Oct 2026 03:45:01 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-10-21"
+                "date": "2026-10-22"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "¿Logrará el discreto Presupuesto del Reino Unido tranquilizar a los mercados?",
-                "link": "https://es.investing.com/news/economy-news/lograra-el-discreto-presupuesto-del-reino-unido-tranquilizar-a-los-mercados-3883169",
-                "date": "2026-10-21 11:07:59"
+                "title": "El banco central de Filipinas sube los tipos de interés 50 puntos básicos hasta el 5,25%",
+                "link": "https://es.investing.com/news/economy-news/el-banco-central-de-filipinas-sube-los-tipos-de-interes-50-puntos-basicos-hasta-el-525-93CH-3884999",
+                "date": "2026-10-22 08:42:29"
             },
             {
-                "title": "Banco Indonesia mantiene los tipos de interés en el 5,75%",
-                "link": "https://es.investing.com/news/economy-news/banco-indonesia-mantiene-los-tipos-de-interes-en-el-575-93CH-3882696",
-                "date": "2026-10-21 08:39:33"
+                "title": "Los ingresos de Meta superan previsiones; Tesla rebaja su objetivo anual de ventas",
+                "link": "https://es.investing.com/news/economy-news/los-ingresos-de-meta-superan-previsiones-tesla-rebaja-su-objetivo-anual-de-ventas-3884945",
+                "date": "2026-10-22 07:58:37"
             },
             {
-                "title": "Musk habla de posible fusión SpaceX-Tesla; Meta presentará resultados",
-                "link": "https://es.investing.com/news/economy-news/musk-habla-de-posible-fusion-spacextesla-meta-presentara-resultados-3882591",
-                "date": "2026-10-21 07:55:52"
+                "title": "El Banco de Corea mantiene los tipos en el 3% tras dos subidas consecutivas",
+                "link": "https://es.investing.com/news/economy-news/el-banco-de-corea-mantiene-los-tipos-al-3-tras-subidas-consecutivas-el-won-se-fortalece-3884593",
+                "date": "2026-10-22 01:27:43"
             },
             {
-                "title": "Netanyahu presiona para reanudar ataques a gran escala contra Irán",
-                "link": "https://es.investing.com/news/economy-news/netanyahu-presiona-para-reanudar-ataques-a-gran-escala-contra-iran-3882319",
-                "date": "2026-10-21 05:25:29"
+                "title": "EE.UU. e Israel preparan nuevos ataques contra Irán tras las elecciones",
+                "link": "https://es.investing.com/news/economy-news/eeuu-e-israel-preparan-nuevos-ataques-contra-iran-tras-las-elecciones-3884574",
+                "date": "2026-10-22 00:20:24"
             },
             {
-                "title": "La inflación en Australia está \"materialmente peor\", advierte el vicegobernador del RBA",
-                "link": "https://es.investing.com/news/economy-news/la-inflacion-en-australia-esta-materialmente-peor-advierte-el-vicegobernador-del-rba-3882267",
-                "date": "2026-10-21 01:04:56"
+                "title": "Nigeria apuesta por el capital privado y descarta las subvenciones al combustible",
+                "link": "https://es.investing.com/news/economy-news/nigeria-apuesta-por-el-capital-privado-y-descarta-las-subvenciones-al-combustible-93CH-3884241",
+                "date": "2026-10-21 19:39:41"
             }
         ],
         "💶 Economía Europea (BCE)": [
@@ -128,14 +148,14 @@
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-10-21"
+                "date": "2026-10-22"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-10-21"
+                "date": "2026-10-22"
             }
         ]
     }
