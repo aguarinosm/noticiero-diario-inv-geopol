@@ -2,122 +2,127 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "Coste de la vida, crecimiento en América Latina, el Niño, Corte Penal Internacional… Las noticias del jueves",
+                "link": "https://news.un.org/feed/view/es/story/2026/10/1542094",
+                "date": "Thu, 22 Oct 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Los equipos de respuesta al ébola, bajo presión mientras el brote se expande",
+                "link": "https://news.un.org/feed/view/es/story/2026/10/1542095",
+                "date": "Thu, 22 Oct 2026 12:00:00 +0000"
+            },
+            {
+                "title": "La CEPAL rebaja al 2,0 % el crecimiento de América Latina en 2026 por las tensiones geopolíticas",
+                "link": "https://news.un.org/feed/view/es/story/2026/10/1542093",
+                "date": "Thu, 22 Oct 2026 12:00:00 +0000"
+            },
+            {
+                "title": "\"Unan los puntos\" entre las protestas callejeras y la agitación global, pide Guterres",
+                "link": "https://news.un.org/feed/view/es/story/2026/10/1542092",
+                "date": "Thu, 22 Oct 2026 12:00:00 +0000"
+            },
+            {
                 "title": "Las agencias de la ONU piden ayuda para proteger a los más vulnerables de un El Niño sin precedentes",
                 "link": "https://news.un.org/feed/view/es/story/2026/10/1542091",
                 "date": "Wed, 21 Oct 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Cambio climático, El Niño, ébola, migrantes… Las noticias del miércoles",
-                "link": "https://news.un.org/feed/view/es/story/2026/10/1542089",
-                "date": "Wed, 21 Oct 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Sudán: se reanudan los esfuerzos de paz para poner fin a la \"guerra de drones\" que alimenta la crisis humanitaria",
-                "link": "https://news.un.org/feed/view/es/story/2026/10/1542088",
-                "date": "Wed, 21 Oct 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Es necesario recortar las emisiones un 18 % en cuatro años para limitar el pico de temperatura a 1,7 grados",
-                "link": "https://news.un.org/feed/view/es/story/2026/10/1542087",
-                "date": "Wed, 21 Oct 2026 12:00:00 +0000"
-            },
-            {
-                "title": "IA: la ONU alerta sobre el riesgo de una guerra dirigida por máquinas",
-                "link": "https://news.un.org/feed/view/es/story/2026/10/1542086",
-                "date": "Tue, 20 Oct 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Ucrania lamenta \"adulación\" y \"servilismo\" de Witkoff al llamar \"humanitario\" a Putin",
-                "link": "https://www.dw.com/es/ucrania-lamenta-adulación-y-servilismo-de-witkoff-al-llamar-humanitario-a-putin/a-79728650?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-22"
+                "title": "Taiwán se paraliza ante la llegada del poderoso tifón Champi",
+                "link": "https://www.dw.com/es/taiwán-se-paraliza-ante-la-llegada-del-poderoso-tifón-champi/a-79738541?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-23"
             },
             {
-                "title": "Meta enfrenta demanda colectiva en Australia por presuntos daños a niños",
-                "link": "https://www.dw.com/es/meta-enfrenta-demanda-colectiva-en-australia-por-presuntos-daños-a-niños/a-79727601?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-22"
+                "title": "Arabia Saudita afirma que interceptó misil hutí contra Riad",
+                "link": "https://www.dw.com/es/arabia-saudita-afirma-que-interceptó-misil-hutí-contra-riad/a-79738533?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-23"
             },
             {
-                "title": "Rusia y Ucrania intercambian ataques con misiles y drones",
-                "link": "https://www.dw.com/es/rusia-y-ucrania-intercambian-ataques-con-misiles-y-drones/a-79727455?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-22"
+                "title": "París mantiene toques de queda en varias zonas tras disturbios y pillaje",
+                "link": "https://www.dw.com/es/parís-mantiene-toques-de-queda-en-varias-zonas-tras-disturbios-y-pillaje/a-79738133?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-23"
             },
             {
-                "title": "Editorial canadiense rompe con novelista acusado de usar IA",
-                "link": "https://www.dw.com/es/editorial-canadiense-rompe-con-novelista-acusado-de-usar-ia/a-79727189?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-22"
+                "title": "Terremoto de magnitud 7 deja al menos 16 muertos en región china de Tíbet",
+                "link": "https://www.dw.com/es/terremoto-de-magnitud-7-deja-al-menos-16-muertos-en-región-china-de-tíbet/a-79738107?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-23"
             },
             {
-                "title": "Trump optimista y Rusia se muestra escéptica sobre fin de la guerra",
-                "link": "https://www.dw.com/es/trump-optimista-y-rusia-se-muestra-escéptica-sobre-fin-de-la-guerra/a-79727174?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-22"
+                "title": "Putin dice que Rusia está lista para negociar la paz definitiva",
+                "link": "https://www.dw.com/es/putin-dice-que-rusia-está-lista-para-negociar-la-paz-definitiva/a-79738139?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-23"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Milei hace política exterior a golpe de insultos: choques con Sánchez, Lula, Petro y Arce",
-                "link": "https://elpais.com/argentina/2026-10-22/milei-instaura-una-politica-exterior-a-golpe-de-insultos-choques-con-sanchez-lula-petro-y-lopez-obrador.html",
-                "date": "Thu, 22 Oct 2026 04:00:00 GMT"
+                "title": "Operación remontada: Con Rhian y Julia en la campaña para que Lula y la izquierda ganen en Brasil",
+                "link": "https://elpais.com/america/2026-10-23/operacion-remontada-con-rhian-y-julia-en-la-campana-para-que-lula-y-la-izquierda-ganen-en-brasil.html",
+                "date": "Fri, 23 Oct 2026 04:00:00 GMT"
             },
             {
-                "title": "Milei agita la campaña con insultos a Sánchez y abrazos a Ayuso",
-                "link": "https://elpais.com/espana/2026-10-22/milei-agita-la-campana-con-insultos-a-sanchez-y-abrazos-a-ayuso.html",
-                "date": "Thu, 22 Oct 2026 03:30:01 GMT"
+                "title": "Bernie Sanders y congresistas demócratas piden explicaciones a Meta por el supuesto trato de favor a Bolsonaro",
+                "link": "https://elpais.com/america/2026-10-23/bernie-sanders-y-congresistas-democratas-piden-explicaciones-a-meta-por-el-supuesto-trato-de-favor-a-bolsonaro.html",
+                "date": "Fri, 23 Oct 2026 09:30:00 GMT"
             },
             {
-                "title": "Por qué Milei necesita enemigos más allá de la Argentina",
-                "link": "https://elpais.com/argentina/2026-10-22/por-que-milei-necesita-enemigos-mas-alla-de-la-argentina.html",
-                "date": "Thu, 22 Oct 2026 09:30:00 GMT"
+                "title": "Brasil no puede permitirse los recortes de Bolsonaro",
+                "link": "https://elpais.com/opinion/2026-10-23/brasil-no-puede-permitirse-los-recortes-de-bolsonaro.html",
+                "date": "Fri, 23 Oct 2026 03:30:01 GMT"
             },
             {
-                "title": "El abogado de afectados por la ‘ley de nietos’ asume que no podrán votar: “El Constitucional era la única vía posible”",
-                "link": "https://elpais.com/espana/elecciones-generales/2026-10-22/el-abogado-de-afectados-por-la-ley-de-nietos-asume-que-no-podran-votar-el-constitucional-era-la-unica-via-posible.html",
-                "date": "Thu, 22 Oct 2026 03:30:01 GMT"
+                "title": "Torturados y encarcelados sin sentencia por un falso secuestro: tres inocentes salen de prisión en México tras casi un cuarto de siglo",
+                "link": "https://elpais.com/mexico/2026-10-23/torturados-y-encarcelados-sin-sentencia-por-un-falso-secuestro-tres-inocentes-salen-de-prision-en-mexico-tras-casi-un-cuarto-de-siglo.html",
+                "date": "Fri, 23 Oct 2026 09:30:00 GMT"
             },
             {
-                "title": "John Kerry: “La decisión de Trump de permitir la compra de petróleo ruso es contraproducente y peligrosa”",
-                "link": "https://elpais.com/economia/2026-10-22/john-kerry-la-decision-de-trump-de-permitir-la-compra-de-petroleo-ruso-es-contraproducente-y-peligrosa.html",
-                "date": "Thu, 22 Oct 2026 03:45:01 GMT"
+                "title": "Más de cuatro millones de jóvenes latinos, el electorado que más ha crecido, estrenan el derecho al voto en las ‘midterms’",
+                "link": "https://elpais.com/us/2026-10-23/mas-de-cuatro-millones-de-jovenes-latinos-el-electorado-que-mas-ha-crecido-estrenan-el-derecho-al-voto-en-las-midterms.html",
+                "date": "Fri, 23 Oct 2026 09:30:00 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-10-22"
+                "date": "2026-10-23"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "El banco central de Filipinas sube los tipos de interés 50 puntos básicos hasta el 5,25%",
-                "link": "https://es.investing.com/news/economy-news/el-banco-central-de-filipinas-sube-los-tipos-de-interes-50-puntos-basicos-hasta-el-525-93CH-3884999",
-                "date": "2026-10-22 08:42:29"
+                "title": "El banco central de Rusia mantiene los tipos de interés en el 14%",
+                "link": "https://es.investing.com/news/economy-news/el-banco-central-de-rusia-mantiene-los-tipos-de-interes-en-el-14-93CH-3887598",
+                "date": "2026-10-23 10:43:05"
             },
             {
-                "title": "Los ingresos de Meta superan previsiones; Tesla rebaja su objetivo anual de ventas",
-                "link": "https://es.investing.com/news/economy-news/los-ingresos-de-meta-superan-previsiones-tesla-rebaja-su-objetivo-anual-de-ventas-3884945",
-                "date": "2026-10-22 07:58:37"
+                "title": "Ventas tecnológicas por la IA, resultados WD y petróleo: 5 claves de Wall Street",
+                "link": "https://es.investing.com/news/economy-news/la-venta-masiva-de-ia-centra-la-atencion-western-digital-presenta-resultados-3887199",
+                "date": "2026-10-23 07:58:33"
             },
             {
-                "title": "El Banco de Corea mantiene los tipos en el 3% tras dos subidas consecutivas",
-                "link": "https://es.investing.com/news/economy-news/el-banco-de-corea-mantiene-los-tipos-al-3-tras-subidas-consecutivas-el-won-se-fortalece-3884593",
-                "date": "2026-10-22 01:27:43"
+                "title": "La bolsa hoy: IBEX 35, Euro Dólar,  caída de Meta y subida del petróleo",
+                "link": "https://es.investing.com/news/economy-news/la-bolsa-hoy-ibex-35-euro-dolar--caida-de-meta-y-subida-del-petroleo-3887180",
+                "date": "2026-10-23 07:48:39"
             },
             {
-                "title": "EE.UU. e Israel preparan nuevos ataques contra Irán tras las elecciones",
-                "link": "https://es.investing.com/news/economy-news/eeuu-e-israel-preparan-nuevos-ataques-contra-iran-tras-las-elecciones-3884574",
-                "date": "2026-10-22 00:20:24"
+                "title": "EE.UU. se prepara para un conflicto prolongado con Irán",
+                "link": "https://es.investing.com/news/economy-news/eeuu-se-prepara-para-un-conflicto-prolongado-con-iran-3887075",
+                "date": "2026-10-23 06:15:41"
             },
             {
-                "title": "Nigeria apuesta por el capital privado y descarta las subvenciones al combustible",
-                "link": "https://es.investing.com/news/economy-news/nigeria-apuesta-por-el-capital-privado-y-descarta-las-subvenciones-al-combustible-93CH-3884241",
-                "date": "2026-10-21 19:39:41"
+                "title": "Trump ordena negociaciones sobre importaciones de turbinas eólicas con plazo de 180 días",
+                "link": "https://es.investing.com/news/economy-news/trump-ordena-negociaciones-sobre-importaciones-de-turbinas-eolicas-con-plazo-de-180-dias-93CH-3886668",
+                "date": "2026-10-22 20:00:49"
             }
         ],
         "💶 Economía Europea (BCE)": [
+            {
+                "title": "ECB Consumer Expectations Survey results – September 2026",
+                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
+                "date": "Fri, 23 Oct 2026 10:00:00 +0200"
+            },
             {
                 "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
                 "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
@@ -137,25 +142,20 @@
                 "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
                 "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
                 "date": "Mon, 19 Oct 2026 08:00:00 +0200"
-            },
-            {
-                "title": "Christine Lagarde: IMFC Statement",
-                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
-                "date": "Sat, 17 Oct 2026 07:00:00 +0200"
             }
         ],
         "📈 Mercados (Yahoo Finance)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-10-22"
+                "date": "2026-10-23"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-10-22"
+                "date": "2026-10-23"
             }
         ]
     }
