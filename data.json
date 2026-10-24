@@ -2,6 +2,21 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "Sudán: los ataques con drones matan al menos a 306 personas en tres semanas",
+                "link": "https://news.un.org/feed/view/es/story/2026/10/1542100",
+                "date": "Fri, 23 Oct 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Cisjordania, Sudán, ébola, inteligencia artificial… Las noticias del viernes",
+                "link": "https://news.un.org/feed/view/es/story/2026/10/1542098",
+                "date": "Fri, 23 Oct 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Yemen: crece la preocupación por la ciudad de Taiz mientras la ayuda no puede entrar",
+                "link": "https://news.un.org/feed/view/es/story/2026/10/1542097",
+                "date": "Fri, 23 Oct 2026 12:00:00 +0000"
+            },
+            {
                 "title": "Coste de la vida, crecimiento en América Latina, el Niño, Corte Penal Internacional… Las noticias del jueves",
                 "link": "https://news.un.org/feed/view/es/story/2026/10/1542094",
                 "date": "Thu, 22 Oct 2026 12:00:00 +0000"
@@ -10,114 +25,104 @@
                 "title": "Los equipos de respuesta al ébola, bajo presión mientras el brote se expande",
                 "link": "https://news.un.org/feed/view/es/story/2026/10/1542095",
                 "date": "Thu, 22 Oct 2026 12:00:00 +0000"
-            },
-            {
-                "title": "La CEPAL rebaja al 2,0 % el crecimiento de América Latina en 2026 por las tensiones geopolíticas",
-                "link": "https://news.un.org/feed/view/es/story/2026/10/1542093",
-                "date": "Thu, 22 Oct 2026 12:00:00 +0000"
-            },
-            {
-                "title": "\"Unan los puntos\" entre las protestas callejeras y la agitación global, pide Guterres",
-                "link": "https://news.un.org/feed/view/es/story/2026/10/1542092",
-                "date": "Thu, 22 Oct 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Las agencias de la ONU piden ayuda para proteger a los más vulnerables de un El Niño sin precedentes",
-                "link": "https://news.un.org/feed/view/es/story/2026/10/1542091",
-                "date": "Wed, 21 Oct 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Taiwán se paraliza ante la llegada del poderoso tifón Champi",
-                "link": "https://www.dw.com/es/taiwán-se-paraliza-ante-la-llegada-del-poderoso-tifón-champi/a-79738541?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-23"
+                "title": "Un incendio destruye el 'Nido del Águila', la antigua residencia de montaña de Hitler en los Alpes",
+                "link": "https://www.dw.com/es/un-incendio-destruye-el-nido-del-águila-la-antigua-residencia-de-montaña-de-hitler-en-los-alpes/a-79748592?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-24"
             },
             {
-                "title": "Arabia Saudita afirma que interceptó misil hutí contra Riad",
-                "link": "https://www.dw.com/es/arabia-saudita-afirma-que-interceptó-misil-hutí-contra-riad/a-79738533?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-23"
+                "title": "Maven: la herramienta de IA que Estados Unidos comparte con Arabia Saudita",
+                "link": "https://www.dw.com/es/maven-la-herramienta-de-ia-que-estados-unidos-comparte-con-arabia-saudita/a-79747682?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-24"
             },
             {
-                "title": "París mantiene toques de queda en varias zonas tras disturbios y pillaje",
-                "link": "https://www.dw.com/es/parís-mantiene-toques-de-queda-en-varias-zonas-tras-disturbios-y-pillaje/a-79738133?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-23"
+                "title": "El tifón Champi deja a miles sin electricidad en Taiwán mientras se aleja y se enfila hacia Japón",
+                "link": "https://www.dw.com/es/el-tifón-champi-deja-a-miles-sin-electricidad-en-taiwán-mientras-se-aleja-y-se-enfila-hacia-japón/a-79748259?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-24"
             },
             {
-                "title": "Terremoto de magnitud 7 deja al menos 16 muertos en región china de Tíbet",
-                "link": "https://www.dw.com/es/terremoto-de-magnitud-7-deja-al-menos-16-muertos-en-región-china-de-tíbet/a-79738107?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-23"
+                "title": "EE.UU. revela que Irán intensifica plan para atacar a sus funcionarios",
+                "link": "https://www.dw.com/es/ee-uu-revela-que-irán-intensifica-plan-para-atacar-a-sus-funcionarios/a-79748105?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-24"
             },
             {
-                "title": "Putin dice que Rusia está lista para negociar la paz definitiva",
-                "link": "https://www.dw.com/es/putin-dice-que-rusia-está-lista-para-negociar-la-paz-definitiva/a-79738139?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-23"
+                "title": "Dos explosiones sacuden Riad tras una alerta de ataque",
+                "link": "https://www.dw.com/es/dos-explosiones-sacuden-riad-tras-una-alerta-de-ataque/a-79747889?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-24"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Operación remontada: Con Rhian y Julia en la campaña para que Lula y la izquierda ganen en Brasil",
-                "link": "https://elpais.com/america/2026-10-23/operacion-remontada-con-rhian-y-julia-en-la-campana-para-que-lula-y-la-izquierda-ganen-en-brasil.html",
-                "date": "Fri, 23 Oct 2026 04:00:00 GMT"
+                "title": "La agenda ultra inunda Brasil con líderes cada vez más jóvenes",
+                "link": "https://elpais.com/america/2026-10-24/la-agenda-ultra-inunda-brasil-con-lideres-cada-vez-mas-jovenes.html",
+                "date": "Sat, 24 Oct 2026 04:00:00 GMT"
             },
             {
-                "title": "Bernie Sanders y congresistas demócratas piden explicaciones a Meta por el supuesto trato de favor a Bolsonaro",
-                "link": "https://elpais.com/america/2026-10-23/bernie-sanders-y-congresistas-democratas-piden-explicaciones-a-meta-por-el-supuesto-trato-de-favor-a-bolsonaro.html",
-                "date": "Fri, 23 Oct 2026 09:30:00 GMT"
+                "title": "Lula pone a Bolsonaro a la defensiva en el último debate antes de las urnas",
+                "link": "https://elpais.com/america/2026-10-24/lula-pone-a-bolsonaro-a-la-defensiva-en-el-ultimo-debate-antes-de-las-urnas.html",
+                "date": "Sat, 24 Oct 2026 04:08:59 GMT"
             },
             {
-                "title": "Brasil no puede permitirse los recortes de Bolsonaro",
-                "link": "https://elpais.com/opinion/2026-10-23/brasil-no-puede-permitirse-los-recortes-de-bolsonaro.html",
-                "date": "Fri, 23 Oct 2026 03:30:01 GMT"
+                "title": "Los memes, la inteligencia artificial y los ‘jingles’ triunfan en la intensa campaña electoral que Brasil libra en redes sociales",
+                "link": "https://elpais.com/america/2026-10-24/los-memes-la-inteligencia-artificial-y-los-jingles-triunfan-en-la-intensa-campana-electoral-que-brasil-libra-en-redes-sociales.html",
+                "date": "Sat, 24 Oct 2026 09:30:00 GMT"
             },
             {
-                "title": "Torturados y encarcelados sin sentencia por un falso secuestro: tres inocentes salen de prisión en México tras casi un cuarto de siglo",
-                "link": "https://elpais.com/mexico/2026-10-23/torturados-y-encarcelados-sin-sentencia-por-un-falso-secuestro-tres-inocentes-salen-de-prision-en-mexico-tras-casi-un-cuarto-de-siglo.html",
-                "date": "Fri, 23 Oct 2026 09:30:00 GMT"
+                "title": "EL PAÍS se vuelca en Brasil en unas elecciones determinantes para América Latina",
+                "link": "https://elpais.com/america/2026-10-24/el-pais-se-vuelca-en-brasil-en-unas-elecciones-determinantes-para-america-latina.html",
+                "date": "Sat, 24 Oct 2026 09:30:00 GMT"
             },
             {
-                "title": "Más de cuatro millones de jóvenes latinos, el electorado que más ha crecido, estrenan el derecho al voto en las ‘midterms’",
-                "link": "https://elpais.com/us/2026-10-23/mas-de-cuatro-millones-de-jovenes-latinos-el-electorado-que-mas-ha-crecido-estrenan-el-derecho-al-voto-en-las-midterms.html",
-                "date": "Fri, 23 Oct 2026 09:30:00 GMT"
+                "title": "Vila Militar, el barrio de Río de Janeiro donde la trama golpista no existió",
+                "link": "https://elpais.com/america/2026-10-24/vila-militar-el-barrio-de-rio-de-janeiro-donde-la-trama-golpista-no-existio.html",
+                "date": "Sat, 24 Oct 2026 09:30:00 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-10-23"
+                "date": "2026-10-24"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "El banco central de Rusia mantiene los tipos de interés en el 14%",
-                "link": "https://es.investing.com/news/economy-news/el-banco-central-de-rusia-mantiene-los-tipos-de-interes-en-el-14-93CH-3887598",
-                "date": "2026-10-23 10:43:05"
+                "title": "Ucrania anuncia la restauración del servicio militar de Starlink tras 10 días de interrupción",
+                "link": "https://es.investing.com/news/economy-news/ucrania-anuncia-la-restauracion-del-servicio-militar-de-starlink-tras-10-dias-de-interrupcion-3888945",
+                "date": "2026-10-24 09:24:43"
             },
             {
-                "title": "Ventas tecnológicas por la IA, resultados WD y petróleo: 5 claves de Wall Street",
-                "link": "https://es.investing.com/news/economy-news/la-venta-masiva-de-ia-centra-la-atencion-western-digital-presenta-resultados-3887199",
-                "date": "2026-10-23 07:58:33"
+                "title": "El Reino Unido inyectará £20.400 millones en dos prestamistas estatales",
+                "link": "https://es.investing.com/news/economy-news/el-reino-unido-inyectara-20400-millones-de-libras-en-prestamistas-respaldados-por-el-estado-3888920",
+                "date": "2026-10-24 07:34:43"
             },
             {
-                "title": "La bolsa hoy: IBEX 35, Euro Dólar,  caída de Meta y subida del petróleo",
-                "link": "https://es.investing.com/news/economy-news/la-bolsa-hoy-ibex-35-euro-dolar--caida-de-meta-y-subida-del-petroleo-3887180",
-                "date": "2026-10-23 07:48:39"
+                "title": "El presupuesto del Reino Unido priorizará los mercados de bonos",
+                "link": "https://es.investing.com/news/economy-news/el-presupuesto-del-reino-unido-priorizara-los-mercados-de-bonos-3888914",
+                "date": "2026-10-24 06:47:46"
             },
             {
-                "title": "EE.UU. se prepara para un conflicto prolongado con Irán",
-                "link": "https://es.investing.com/news/economy-news/eeuu-se-prepara-para-un-conflicto-prolongado-con-iran-3887075",
-                "date": "2026-10-23 06:15:41"
+                "title": "Reino Unido presenta un plan de financiación de IA por 800 millones de dólares",
+                "link": "https://es.investing.com/news/economy-news/reino-unido-presenta-un-plan-de-financiacion-de-ia-por-800-millones-de-dolares-3888910",
+                "date": "2026-10-24 06:04:23"
             },
             {
-                "title": "Trump ordena negociaciones sobre importaciones de turbinas eólicas con plazo de 180 días",
-                "link": "https://es.investing.com/news/economy-news/trump-ordena-negociaciones-sobre-importaciones-de-turbinas-eolicas-con-plazo-de-180-dias-93CH-3886668",
-                "date": "2026-10-22 20:00:49"
+                "title": "Arabia Saudí intercepta un misil hutí mientras Trump amenaza con nuevos ataques",
+                "link": "https://es.investing.com/news/economy-news/arabia-saudi-intercepta-un-misil-huti-mientras-trump-amenaza-con-nuevos-ataques-3888896",
+                "date": "2026-10-24 03:52:35"
             }
         ],
         "💶 Economía Europea (BCE)": [
+            {
+                "title": "Piero Cipollone: Interview with Milano Finanza",
+                "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+                "date": "Sat, 24 Oct 2026 08:00:00 +0200"
+            },
             {
                 "title": "ECB Consumer Expectations Survey results – September 2026",
                 "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
@@ -137,25 +142,20 @@
                 "title": "Frank Elderson: Interview with Die Presse",
                 "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
                 "date": "Tue, 20 Oct 2026 09:00:00 +0200"
-            },
-            {
-                "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
-                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
-                "date": "Mon, 19 Oct 2026 08:00:00 +0200"
             }
         ],
         "📈 Mercados (Yahoo Finance)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-10-23"
+                "date": "2026-10-24"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-10-23"
+                "date": "2026-10-24"
             }
         ]
     }
