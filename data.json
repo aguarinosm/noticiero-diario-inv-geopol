@@ -2,6 +2,11 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "Construyendo Futuros: el reto de llevar la educación a las fronteras de Venezuela",
+                "link": "https://news.un.org/feed/view/es/story/2026/10/1542101",
+                "date": "Sat, 24 Oct 2026 12:00:00 +0000"
+            },
+            {
                 "title": "Sudán: los ataques con drones matan al menos a 306 personas en tres semanas",
                 "link": "https://news.un.org/feed/view/es/story/2026/10/1542100",
                 "date": "Fri, 23 Oct 2026 12:00:00 +0000"
@@ -20,101 +25,96 @@
                 "title": "Coste de la vida, crecimiento en América Latina, el Niño, Corte Penal Internacional… Las noticias del jueves",
                 "link": "https://news.un.org/feed/view/es/story/2026/10/1542094",
                 "date": "Thu, 22 Oct 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Los equipos de respuesta al ébola, bajo presión mientras el brote se expande",
-                "link": "https://news.un.org/feed/view/es/story/2026/10/1542095",
-                "date": "Thu, 22 Oct 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Un incendio destruye el 'Nido del Águila', la antigua residencia de montaña de Hitler en los Alpes",
-                "link": "https://www.dw.com/es/un-incendio-destruye-el-nido-del-águila-la-antigua-residencia-de-montaña-de-hitler-en-los-alpes/a-79748592?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-24"
+                "title": "Comienza la primera vuelta de las elecciones presidenciales de Bulgaria",
+                "link": "https://www.dw.com/es/comienza-la-primera-vuelta-de-las-elecciones-presidenciales-de-bulgaria/a-79753592?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-25"
             },
             {
-                "title": "Maven: la herramienta de IA que Estados Unidos comparte con Arabia Saudita",
-                "link": "https://www.dw.com/es/maven-la-herramienta-de-ia-que-estados-unidos-comparte-con-arabia-saudita/a-79747682?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-24"
+                "title": "Padre de Meghan Markle investigado en Filipinas por abuso infantil",
+                "link": "https://www.dw.com/es/padre-de-meghan-markle-investigado-en-filipinas-por-abuso-infantil/a-79753490?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-25"
             },
             {
-                "title": "El tifón Champi deja a miles sin electricidad en Taiwán mientras se aleja y se enfila hacia Japón",
-                "link": "https://www.dw.com/es/el-tifón-champi-deja-a-miles-sin-electricidad-en-taiwán-mientras-se-aleja-y-se-enfila-hacia-japón/a-79748259?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-24"
+                "title": "Ucrania restablece su conexión al sistema Starlink de SpaceX",
+                "link": "https://www.dw.com/es/ucrania-restablece-su-conexión-al-sistema-starlink-de-spacex/a-79753476?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-25"
             },
             {
-                "title": "EE.UU. revela que Irán intensifica plan para atacar a sus funcionarios",
-                "link": "https://www.dw.com/es/ee-uu-revela-que-irán-intensifica-plan-para-atacar-a-sus-funcionarios/a-79748105?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-24"
+                "title": "Israel bloquea a Cisjordania el día de las elecciones legislativas",
+                "link": "https://www.dw.com/es/israel-bloquea-a-cisjordania-el-día-de-las-elecciones-legislativas/a-79753468?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-25"
             },
             {
-                "title": "Dos explosiones sacuden Riad tras una alerta de ataque",
-                "link": "https://www.dw.com/es/dos-explosiones-sacuden-riad-tras-una-alerta-de-ataque/a-79747889?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-10-24"
+                "title": "Fiscal general de EEUU defiende demanda para frenar certificación electoral en Alaska",
+                "link": "https://www.dw.com/es/fiscal-general-de-eeuu-defiende-demanda-para-frenar-certificación-electoral-en-alaska/a-79753433?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-10-25"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "La agenda ultra inunda Brasil con líderes cada vez más jóvenes",
-                "link": "https://elpais.com/america/2026-10-24/la-agenda-ultra-inunda-brasil-con-lideres-cada-vez-mas-jovenes.html",
-                "date": "Sat, 24 Oct 2026 04:00:00 GMT"
+                "title": "Pedro Sánchez: “Un Gobierno del PP con Vox no es alternancia, es retroceder 50 años”",
+                "link": "https://elpais.com/espana/elecciones-generales/2026-10-25/pedro-sanchez-un-gobierno-del-pp-con-vox-no-es-alternancia-es-retroceder-50-anos.html",
+                "date": "Sun, 25 Oct 2026 04:30:01 GMT"
             },
             {
-                "title": "Lula pone a Bolsonaro a la defensiva en el último debate antes de las urnas",
-                "link": "https://elpais.com/america/2026-10-24/lula-pone-a-bolsonaro-a-la-defensiva-en-el-ultimo-debate-antes-de-las-urnas.html",
-                "date": "Sat, 24 Oct 2026 04:08:59 GMT"
+                "title": "Ceuta, ‘ley de nietos’ y vivienda: la entrevista con Pedro Sánchez en 10 titulares",
+                "link": "https://elpais.com/espana/elecciones-generales/2026-10-25/ceuta-ley-de-nietos-y-vivienda-la-entrevista-con-pedro-sanchez-en-10-titulares.html",
+                "date": "Sun, 25 Oct 2026 04:06:00 GMT"
             },
             {
-                "title": "Los memes, la inteligencia artificial y los ‘jingles’ triunfan en la intensa campaña electoral que Brasil libra en redes sociales",
-                "link": "https://elpais.com/america/2026-10-24/los-memes-la-inteligencia-artificial-y-los-jingles-triunfan-en-la-intensa-campana-electoral-que-brasil-libra-en-redes-sociales.html",
-                "date": "Sat, 24 Oct 2026 09:30:00 GMT"
+                "title": "Sánchez y Feijóo, por carriles paralelos",
+                "link": "https://elpais.com/espana/elecciones-generales/2026-10-25/sanchez-y-feijoo-por-carriles-paralelos.html",
+                "date": "Sun, 25 Oct 2026 04:30:01 GMT"
             },
             {
-                "title": "EL PAÍS se vuelca en Brasil en unas elecciones determinantes para América Latina",
-                "link": "https://elpais.com/america/2026-10-24/el-pais-se-vuelca-en-brasil-en-unas-elecciones-determinantes-para-america-latina.html",
-                "date": "Sat, 24 Oct 2026 09:30:00 GMT"
+                "title": "Brasil decide entregar todo el poder a los Bolsonaro o dar una última oportunidad a Lula",
+                "link": "https://elpais.com/america/2026-10-25/brasil-decide-entregar-todo-el-poder-a-los-bolsonaro-o-dar-una-ultima-oportunidad-a-lula.html",
+                "date": "Sun, 25 Oct 2026 04:30:01 GMT"
             },
             {
-                "title": "Vila Militar, el barrio de Río de Janeiro donde la trama golpista no existió",
-                "link": "https://elpais.com/america/2026-10-24/vila-militar-el-barrio-de-rio-de-janeiro-donde-la-trama-golpista-no-existio.html",
-                "date": "Sat, 24 Oct 2026 09:30:00 GMT"
+                "title": "Lula se asoma a otro triunfo épico o al abismo",
+                "link": "https://elpais.com/america/2026-10-24/lula-se-asoma-al-abismo-o-a-otro-triunfo-epico.html",
+                "date": "Sat, 24 Oct 2026 16:25:36 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-10-24"
+                "date": "2026-10-25"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Ucrania anuncia la restauración del servicio militar de Starlink tras 10 días de interrupción",
-                "link": "https://es.investing.com/news/economy-news/ucrania-anuncia-la-restauracion-del-servicio-militar-de-starlink-tras-10-dias-de-interrupcion-3888945",
-                "date": "2026-10-24 09:24:43"
+                "title": "Kim Jong Un visita China por sorpresa mientras se estrechan los lazos",
+                "link": "https://es.investing.com/news/economy-news/kim-jong-un-visita-china-por-sorpresa-mientras-se-estrechan-los-lazos-3889024",
+                "date": "2026-10-25 08:17:00"
             },
             {
-                "title": "El Reino Unido inyectará £20.400 millones en dos prestamistas estatales",
-                "link": "https://es.investing.com/news/economy-news/el-reino-unido-inyectara-20400-millones-de-libras-en-prestamistas-respaldados-por-el-estado-3888920",
-                "date": "2026-10-24 07:34:43"
+                "title": "La restricción migratoria del Reino Unido amenaza al sector de cuidados de 15.000 millones de libras",
+                "link": "https://es.investing.com/news/economy-news/la-restriccion-migratoria-del-reino-unido-amenaza-al-sector-de-cuidados-de-15000-millones-de-libras-3889017",
+                "date": "2026-10-25 07:23:43"
             },
             {
-                "title": "El presupuesto del Reino Unido priorizará los mercados de bonos",
-                "link": "https://es.investing.com/news/economy-news/el-presupuesto-del-reino-unido-priorizara-los-mercados-de-bonos-3888914",
-                "date": "2026-10-24 06:47:46"
+                "title": "Los Emiratos Árabes Unidos amplían el cierre de playas por vertido de petróleo",
+                "link": "https://es.investing.com/news/economy-news/los-emiratos-arabes-unidos-amplian-el-cierre-de-playas-por-vertido-de-petroleo-3889015",
+                "date": "2026-10-25 06:41:14"
             },
             {
-                "title": "Reino Unido presenta un plan de financiación de IA por 800 millones de dólares",
-                "link": "https://es.investing.com/news/economy-news/reino-unido-presenta-un-plan-de-financiacion-de-ia-por-800-millones-de-dolares-3888910",
-                "date": "2026-10-24 06:04:23"
+                "title": "¿Deberían los agregadores bloquear a los agentes de IA?",
+                "link": "https://es.investing.com/news/economy-news/deberian-los-agregadores-bloquear-a-los-agentes-de-ia-3889009",
+                "date": "2026-10-25 06:00:53"
             },
             {
-                "title": "Arabia Saudí intercepta un misil hutí mientras Trump amenaza con nuevos ataques",
-                "link": "https://es.investing.com/news/economy-news/arabia-saudi-intercepta-un-misil-huti-mientras-trump-amenaza-con-nuevos-ataques-3888896",
-                "date": "2026-10-24 03:52:35"
+                "title": "Obama critica a Trump por la inflación en la lucha por el Senado de Míchigan",
+                "link": "https://es.investing.com/news/economy-news/obama-critica-a-trump-por-la-inflacion-en-la-lucha-por-el-senado-de-michigan-3889004",
+                "date": "2026-10-25 04:07:10"
             }
         ],
         "💶 Economía Europea (BCE)": [
@@ -148,14 +148,14 @@
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-10-24"
+                "date": "2026-10-25"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-10-24"
+                "date": "2026-10-25"
             }
         ]
     }
