@@ -2,6 +2,21 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "La igualdad de género beneficia a las empresas: ¿por qué algunas dan marcha atrás?",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542138",
+                "date": "Tue, 03 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Haití: la ONU, entre los llamados al diálogo de las pandillas y la ofensiva militar de El Salvador",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542137",
+                "date": "Tue, 03 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Ébola, brecha de género, brecha digital… las noticias del martes",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542136",
+                "date": "Tue, 03 Nov 2026 12:00:00 +0000"
+            },
+            {
                 "title": "Seis de cada siete asesinatos de periodistas quedan impunes",
                 "link": "https://news.un.org/feed/view/es/story/2026/11/1542134",
                 "date": "Mon, 02 Nov 2026 12:00:00 +0000"
@@ -10,114 +25,104 @@
                 "title": "Periodistas asesinados, desinformación sobre migrantes, Ucrania, Sáhara Occidental… las noticias del lunes",
                 "link": "https://news.un.org/feed/view/es/story/2026/11/1542133",
                 "date": "Mon, 02 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "COP17: Los países acuerdan una hoja de ruta para acelerar la protección de la biodiversidad",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542131",
-                "date": "Sun, 01 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "La IA está cambiando cómo pensamos: ¿Nos daremos cuenta a tiempo?",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542129",
-                "date": "Sun, 01 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Desconectarse para conectar: la juventud argentina debate los retos de la era digital",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542125",
-                "date": "Sun, 01 Nov 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Cuatro vuelos reciben amenazas en Europa y obligan a activar dispositivos de seguridad",
-                "link": "https://www.dw.com/es/cuatro-vuelos-reciben-amenazas-en-europa-y-obligan-a-activar-dispositivos-de-seguridad/a-79841753?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-03"
+                "title": "XXX Cumbre Iberoamericana en Madrid, con Milei, sin Lula ni Sheinbaum",
+                "link": "https://www.dw.com/es/xxx-cumbre-iberoamericana-en-madrid-con-milei-sin-lula-ni-sheinbaum/a-79855479?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-04"
             },
             {
-                "title": "Tasa de personas conectadas a internet en el mundo supera por primera vez el 75 %",
-                "link": "https://www.dw.com/es/tasa-de-personas-conectadas-a-internet-en-el-mundo-supera-por-primera-vez-el-75/a-79840551?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-03"
+                "title": "León XIV y Kast conversan en el Vaticano sobre paz, declive demográfico y migración",
+                "link": "https://www.dw.com/es/león-xiv-y-kast-conversan-en-el-vaticano-sobre-paz-declive-demográfico-y-migración/a-79854568?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-04"
             },
             {
-                "title": "Abren colegios electorales en la costa este de EE. UU. en elecciones intermedias cruciales",
-                "link": "https://www.dw.com/es/abren-colegios-electorales-en-la-costa-este-de-ee-uu-en-elecciones-intermedias-cruciales/a-79840523?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-03"
+                "title": "El ministro español de Economía asume Transportes tras grave accidente de trenes",
+                "link": "https://www.dw.com/es/el-ministro-español-de-economía-asume-transportes-tras-grave-accidente-de-trenes/a-79853307?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-04"
             },
             {
-                "title": "Muere el delantero del Tenerife Jesús de Miguel tras golpe y paro cardíaco sufridos en un partido de Segunda División",
-                "link": "https://www.dw.com/es/muere-el-delantero-del-tenerife-jesús-de-miguel-tras-golpe-y-paro-cardíaco-sufridos-en-un-partido-de-segunda-división/a-79837882?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-03"
+                "title": "Tenerife rendirá homenaje al fallecido Jesús de Miguel",
+                "link": "https://www.dw.com/es/tenerife-rendirá-homenaje-al-fallecido-jesús-de-miguel/a-79854139?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-04"
             },
             {
-                "title": "Lula, Sheinbaum y Delcy Rodríguez no participarán en la XXX Cumbre Iberoamericana en Madrid",
-                "link": "https://www.dw.com/es/lula-sheinbaum-y-delcy-rodríguez-no-participarán-en-la-xxx-cumbre-iberoamericana-en-madrid/a-79837532?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-03"
+                "title": "Murió Janosch, el autor e ilustrador alemán de libros infantiles como ¡Qué bonito es Panamá!",
+                "link": "https://www.dw.com/es/murió-janosch-el-autor-e-ilustrador-alemán-de-libros-infantiles-como-¡qué-bonito-es-panamá/a-79851612?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-04"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Estados Unidos vota en unas ‘midterms’ decisivas para el poder de Trump: siete claves de las elecciones",
-                "link": "https://elpais.com/us/2026-11-03/estados-unidos-vota-en-unas-midterms-decisivas-para-el-poder-de-trump-siete-claves-de-las-elecciones.html",
-                "date": "Tue, 03 Nov 2026 05:00:00 GMT"
+                "title": "Los demócratas arrasan en las ‘midterms’ a lomos del voto de castigo a la caótica presidencia de Trump",
+                "link": "https://elpais.com/us/2026-11-04/los-democratas-arrasan-en-las-midterms-a-lomos-del-voto-de-castigo-a-la-caotica-presidencia-de-trump.html",
+                "date": "Wed, 04 Nov 2026 06:41:17 GMT"
             },
             {
-                "title": "Las ‘midterms’ 2026, en vivo | Abren los colegios en unas elecciones en las que se decide el control del Congreso",
-                "link": "https://elpais.com/us/2026-11-03/las-midterms-2026-en-vivo.html",
-                "date": "Tue, 03 Nov 2026 13:53:07 GMT"
+                "title": "Las ‘midterms’ 2026, en vivo| Estados Unidos asimila el impacto de la ola azul que arrebató el Congreso a los republicanos y repudió las políticas de Trump",
+                "link": "https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html",
+                "date": "Wed, 04 Nov 2026 14:00:12 GMT"
             },
             {
-                "title": "Más observadores en las urnas que nunca: el Gobierno y la oposición hacen un masivo despliegue para monitorear la votación",
-                "link": "https://elpais.com/us/2026-11-03/mas-observadores-en-las-urnas-que-nunca-el-gobierno-y-la-oposicion-hacen-un-masivo-despliegue-para-monitorear-la-votacion.html",
-                "date": "Tue, 03 Nov 2026 09:30:00 GMT"
+                "title": "Los resultados de las ‘midterms’ de 2026 en Estados Unidos, en vivo",
+                "link": "https://elpais.com/us/2026-11-03/los-resultados-de-las-midterms-de-2026-en-estados-unidos-en-vivo.html",
+                "date": "Wed, 04 Nov 2026 10:04:36 GMT"
             },
             {
-                "title": "El durísimo editorial de ‘The New York Times’ pidiendo el voto contra Trump: “El país empieza a deslizarse hacia la autocracia”",
-                "link": "https://elpais.com/internacional/2026-11-03/el-durisimo-editorial-de-the-new-york-times-pidiendo-el-voto-contra-trump-el-pais-empieza-a-deslizarse-hacia-la-autocracia.html",
-                "date": "Tue, 03 Nov 2026 12:56:15 GMT"
+                "title": "Trump admite la amarga derrota en las ‘midterms’: “Estoy un poco sorprendido. Pensé que lo haríamos mejor”",
+                "link": "https://elpais.com/us/2026-11-04/trump-admite-la-amarga-derrota-en-las-midterms-estoy-un-poco-sorprendido-pense-que-lo-hariamos-mejor.html",
+                "date": "Wed, 04 Nov 2026 07:09:18 GMT"
             },
             {
-                "title": "Las ‘midterms’, en mapas y gráficos: qué se vota este martes y cómo llega Trump",
-                "link": "https://elpais.com/us/2026-11-03/las-midterms-en-mapas-y-graficos-que-se-vota-este-martes-y-como-llega-trump.html",
-                "date": "Tue, 03 Nov 2026 01:06:58 GMT"
+                "title": "Cuatro victorias clave (y dos sorpresas): repaso de los triunfos demócratas en las elecciones",
+                "link": "https://elpais.com/us/2026-11-04/cuatro-victorias-clave-y-dos-sorpresas-repaso-a-los-triunfos-democratas-en-las-elecciones.html",
+                "date": "Wed, 04 Nov 2026 09:30:35 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-03"
+                "date": "2026-11-04"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Turquía detiene a seis personas en una investigación sobre fondos de inversión",
-                "link": "https://es.investing.com/news/economy-news/turquia-detiene-a-seis-personas-en-una-investigacion-sobre-fondos-de-inversion-93CH-3906816",
-                "date": "2026-11-03 13:12:28"
+                "title": "Los demócratas toman el Congreso; las acciones de AMD se disparan",
+                "link": "https://es.investing.com/news/economy-news/los-democratas-toman-el-congreso-las-acciones-de-amd-se-disparan-3908362",
+                "date": "2026-11-04 08:56:25"
             },
             {
-                "title": "El regulador alemán adjudica contratos de capacidad de gas en su primera subasta",
-                "link": "https://es.investing.com/news/economy-news/el-regulador-aleman-adjudica-contratos-de-capacidad-de-gas-en-su-primera-subasta-93CH-3906326",
-                "date": "2026-11-03 11:28:59"
+                "title": "Trump dice al NYT que aceptará los resultados electorales",
+                "link": "https://es.investing.com/news/economy-news/trump-dice-al-nyt-que-aceptara-los-resultados-electorales-3908000",
+                "date": "2026-11-04 04:17:51"
             },
             {
-                "title": "Apple y Palantir publican resultados; elecciones de medio mandato en EE.UU.",
-                "link": "https://es.investing.com/news/economy-news/apple-y-palantir-publican-resultados-se-acercan-las-elecciones-de-mitad-de-mandato-en-eeuu-3905891",
-                "date": "2026-11-03 08:59:30"
+                "title": "Los demócratas toman el control del Congreso en un duro golpe a la agenda de Trump",
+                "link": "https://es.investing.com/news/economy-news/resultados-de-las-elecciones-de-medio-mandato-en-eeuu-los-democratas-toman-la-delantera-en-el-senado-y-la-camara-3907986",
+                "date": "2026-11-04 03:37:34"
             },
             {
-                "title": "El RBA sube los tipos de interés a niveles de 2008 y prevé más alzas",
-                "link": "https://es.investing.com/news/economy-news/el-rba-sube-los-tipos-de-interes-a-niveles-de-2008-y-preve-mas-alzas-3905490",
-                "date": "2026-11-03 03:48:40"
+                "title": "El descuento del crudo canadiense frente al de EE.UU., en su nivel más amplio desde 2018",
+                "link": "https://es.investing.com/news/economy-news/el-descuento-del-crudo-canadiense-frente-al-de-eeuu-en-su-nivel-mas-amplio-desde-2018-3907556",
+                "date": "2026-11-03 20:30:19"
             },
             {
-                "title": "EE.UU. ataca la isla iraní de Qeshm, según el WSJ",
-                "link": "https://es.investing.com/news/economy-news/eeuu-ataca-la-isla-irani-de-qeshm-segun-el-wsj-3905460",
-                "date": "2026-11-03 01:48:58"
+                "title": "El BCE probablemente subirá los tipos de interés en diciembre, según Nagel",
+                "link": "https://es.investing.com/news/economy-news/el-bce-probablemente-subira-los-tipos-de-interes-en-diciembre-segun-nagel-3907368",
+                "date": "2026-11-03 18:18:10"
             }
         ],
         "💶 Economía Europea (BCE)": [
+            {
+                "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+                "date": "Wed, 04 Nov 2026 01:00:00 +0100"
+            },
             {
                 "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
                 "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
@@ -137,25 +142,20 @@
                 "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
                 "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
                 "date": "Fri, 30 Oct 2026 10:00:00 +0100"
-            },
-            {
-                "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
-                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
-                "date": "Thu, 29 Oct 2026 16:50:00 +0100"
             }
         ],
         "📈 Mercados (Yahoo Finance)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-03"
+                "date": "2026-11-04"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-03"
+                "date": "2026-11-04"
             }
         ]
     }
