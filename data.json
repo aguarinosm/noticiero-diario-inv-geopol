@@ -2,6 +2,21 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "Frente a la desinformación, hay que reconquistar la confianza en la ciencia",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542150",
+                "date": "Fri, 06 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "COP31, Sudán, Ucrania y precios de los alimentos… las noticias del viernes",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542149",
+                "date": "Fri, 06 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "En el Ártico y a la deriva, una expedición científica lanza un llamado a los líderes mundiales: Escuchen a la ciencia",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542147",
+                "date": "Fri, 06 Nov 2026 12:00:00 +0000"
+            },
+            {
                 "title": "Agua, Cumbre Iberoamericana y violencia sexual en el Reino Unido: las noticias del jueves",
                 "link": "https://news.un.org/feed/view/es/story/2026/11/1542145",
                 "date": "Thu, 05 Nov 2026 12:00:00 +0000"
@@ -10,111 +25,96 @@
                 "title": "COP31: ¿Qué está en juego este año en la cumbre climática de la ONU?",
                 "link": "https://news.un.org/feed/view/es/story/2026/11/1542143",
                 "date": "Thu, 05 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Un 25% de los adolescentes no hace suficiente ejercicio",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542142",
-                "date": "Wed, 04 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Clima y salud, clima y adaptación, el precio del petróleo… las noticias del miércoles",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542141",
-                "date": "Wed, 04 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "El mundo no está preparado para la adaptación climática: la financiación se queda muy corta",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542139",
-                "date": "Wed, 04 Nov 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Europa señala a TikTok y exige que cambie su diseño",
-                "link": "https://www.dw.com/es/europa-señala-a-tiktok-y-exige-que-cambie-su-diseño/a-79875544?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-06"
+                "title": "Piratas informáticos atacan al ministro de Relaciones Exteriores de Italia",
+                "link": "https://www.dw.com/es/piratas-informáticos-atacan-al-ministro-de-relaciones-exteriores-de-italia/a-79884576?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-07"
             },
             {
-                "title": "Dos muertos y 16 heridos en accidente de autobús en este de Francia",
-                "link": "https://www.dw.com/es/dos-muertos-y-16-heridos-en-accidente-de-autobús-en-este-de-francia/a-79874925?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-06"
+                "title": "Irán ejecuta a un hombre por un ataque armado contra una comisaría",
+                "link": "https://www.dw.com/es/irán-ejecuta-a-un-hombre-por-un-ataque-armado-contra-una-comisaría/a-79884496?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-07"
             },
             {
-                "title": "Comienza el juicio contra la organización extremista Königreich Deutschland",
-                "link": "https://www.dw.com/es/comienza-el-juicio-contra-la-organización-extremista-königreich-deutschland/a-79874423?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-06"
+                "title": "EE.UU. exige a China que respete el acuerdo comercial bilateral",
+                "link": "https://www.dw.com/es/ee-uu-exige-a-china-que-respete-el-acuerdo-comercial-bilateral/a-79882938?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-07"
             },
             {
-                "title": "\"No hay fecha\" para el regreso de Vincent Kompany al banquillo del Bayern Múnich",
-                "link": "https://www.dw.com/es/no-hay-fecha-para-el-regreso-de-vincent-kompany-al-banquillo-del-bayern-múnich/a-79874349?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-06"
+                "title": "Casa Blanca mantiene proyecto del arco del triunfo en Washington pese a revés judicial",
+                "link": "https://www.dw.com/es/casa-blanca-mantiene-proyecto-del-arco-del-triunfo-en-washington-pese-a-revés-judicial/a-79882868?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-07"
             },
             {
-                "title": "El mundo volverá a superar con casi \"total certeza\" este año los 1,5 ºC de calentamiento global",
-                "link": "https://www.dw.com/es/el-mundo-volverá-a-superar-con-casi-total-certeza-este-año-los-1-5-ºc-de-calentamiento-global/a-79873972?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-06"
+                "title": "A 37 años de la caída del Muro, en Alemania aún hay heridas abiertas",
+                "link": "https://www.dw.com/es/a-37-años-de-la-caída-del-muro-en-alemania-aún-hay-heridas-abiertas/a-79880980?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-07"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "El Papa regresa por primera vez a América bajo la sombra de Trump",
-                "link": "https://elpais.com/internacional/2026-11-06/el-papa-regresa-por-primera-vez-a-america-bajo-la-sombra-de-trump.html",
-                "date": "Fri, 06 Nov 2026 06:43:51 GMT"
+                "title": "¿En qué creen los latinoamericanos? El catolicismo retrocede y suben los que no profesan ninguna religión",
+                "link": "https://elpais.com/america/2026-11-07/en-que-creen-los-latinoamericanos-el-catolicismo-retrocede-y-suben-los-que-no-profesan-ninguna-religion.html",
+                "date": "Sat, 07 Nov 2026 09:30:00 GMT"
             },
             {
-                "title": "Roberto Velasco, canciller de México: “Las relaciones con España son excelentes y atraviesan un momento muy positivo”",
-                "link": "https://elpais.com/internacional/2026-11-06/roberto-velasco-canciller-de-mexico-las-relaciones-con-espana-son-excelentes-y-atraviesan-un-momento-muy-positivo.html",
-                "date": "Fri, 06 Nov 2026 04:30:01 GMT"
+                "title": "La visita de León XIV en Uruguay, en vivo | El Papa arranca su segundo día de gira sudamericana",
+                "link": "https://elpais.com/america/2026-11-07/la-visita-de-leon-xiv-en-uruguay-en-vivo-el-papa-arranca-su-segundo-dia-de-gira-sudamericana.html",
+                "date": "Sat, 07 Nov 2026 12:36:09 GMT"
             },
             {
-                "title": "El presidente y el Congreso de Paraguay se dirigen a un choque institucional tras un escándalo financiero",
-                "link": "https://elpais.com/america/2026-11-06/pena-desafia-al-congreso-paraguayo-y-se-defendera-en-el-juicio-politico-en-su-contra.html",
-                "date": "Fri, 06 Nov 2026 01:56:16 GMT"
+                "title": "La ruina de PDVSA abre las puertas al capital privado en la nueva era del petróleo venezolano",
+                "link": "https://elpais.com/america/2026-11-07/la-ruina-de-pdvsa-abre-las-puertas-al-capital-privado-en-la-nueva-era-del-petroleo-venezolano.html",
+                "date": "Sat, 07 Nov 2026 09:30:00 GMT"
             },
             {
-                "title": "Flávio Bolsonaro reaparece en la mansión de Trump en Mar-a-Lago en una gala de la Conferencia de Acción Política Conservadora",
-                "link": "https://elpais.com/america/2026-11-06/flavio-bolsonaro-reaparece-en-la-mansion-de-trump-en-mar-a-lago-en-una-gala-de-la-conferencia-de-accion-politica-conservadora.html",
-                "date": "Fri, 06 Nov 2026 04:10:37 GMT"
+                "title": "El presidente de Paraguay, Santiago Peña, destituido y detenido por presunta corrupción",
+                "link": "https://elpais.com/america/2026-11-06/santiago-pena-destituido-por-el-congreso-como-presidente-de-paraguay.html",
+                "date": "Fri, 06 Nov 2026 23:56:54 GMT"
             },
             {
-                "title": "Militantes bolsonaristas ante la huida de Flávio Bolsonaro a Florida: “Hizo lo correcto. Si no, iría preso”",
-                "link": "https://elpais.com/america/2026-11-06/militantes-bolsonaristas-ante-la-huida-de-flavio-bolsonaro-a-florida-hizo-lo-correcto-si-no-iria-preso.html",
-                "date": "Fri, 06 Nov 2026 09:30:00 GMT"
+                "title": "El ascenso de Stephen Miller: de escritor de discursos de Trump a artífice de su plan de deportaciones masivas",
+                "link": "https://elpais.com/us/2026-11-07/el-ascenso-de-stephen-miller-de-escritor-de-discursos-de-trump-a-artifice-de-su-plan-de-deportaciones-masivas.html",
+                "date": "Sat, 07 Nov 2026 09:30:00 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-06"
+                "date": "2026-11-07"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Los analistas esperan otra subida de tipos del BoE, probablemente en febrero",
-                "link": "https://es.investing.com/news/economy-news/los-analistas-esperan-otra-subida-de-tipos-del-boe-probablemente-en-febrero-3915919",
-                "date": "2026-11-06 11:52:40"
+                "title": "El candidato del BCE De Cos advierte sobre riesgos de inflación por la guerra de Irán",
+                "link": "https://es.investing.com/news/economy-news/el-candidato-del-bce-de-cos-advierte-sobre-riesgos-de-inflacion-por-la-guerra-de-iran-3917556",
+                "date": "2026-11-07 10:48:23"
             },
             {
-                "title": "Citi ve dos escenarios de subida de tipos para el BoK de Corea del Sur",
-                "link": "https://es.investing.com/news/economy-news/citi-ve-dos-escenarios-de-subida-de-tipos-para-el-bok-de-corea-del-sur-93CH-3915537",
-                "date": "2026-11-06 09:59:26"
+                "title": "China señala la debilidad de la demanda interna mientras prepara medidas para 2027",
+                "link": "https://es.investing.com/news/economy-news/china-senala-la-debilidad-de-la-demanda-interna-mientras-prepara-medidas-para-2027-3917548",
+                "date": "2026-11-07 09:54:30"
             },
             {
-                "title": "La debacle de la IA centra la atención; se acercan datos de empleo de EE.UU.",
-                "link": "https://es.investing.com/news/economy-news/la-debacle-de-la-ia-centra-la-atencion-se-acercan-datos-de-empleo-de-eeuu-3915250",
-                "date": "2026-11-06 09:01:59"
+                "title": "Los grupos ecologistas recurren a la IA pese a las emisiones de los centros de datos",
+                "link": "https://es.investing.com/news/economy-news/los-grupos-ecologistas-recurren-a-la-ia-pese-a-las-emisiones-de-los-centros-de-datos-3917531",
+                "date": "2026-11-07 07:38:27"
             },
             {
-                "title": "El banco central de México recorta su tasa clave al 6,25%",
-                "link": "https://es.investing.com/news/economy-news/el-banco-central-de-mexico-recorta-su-tasa-clave-al-625-93CH-3914320",
-                "date": "2026-11-05 20:10:09"
+                "title": "El primer ministro del Reino Unido busca acercarse a la UE en medio de tensiones por el Brexit",
+                "link": "https://es.investing.com/news/economy-news/el-primer-ministro-del-reino-unido-busca-acercarse-a-la-ue-en-medio-de-tensiones-por-el-brexit-3917529",
+                "date": "2026-11-07 07:01:55"
             },
             {
-                "title": "EE.UU. emite resolución para sancionar sectores clave de Cuba",
-                "link": "https://es.investing.com/news/economy-news/eeuu-emite-resolucion-para-sancionar-sectores-clave-de-cuba-93CH-3914276",
-                "date": "2026-11-05 19:21:11"
+                "title": "La Administración Trump retira la demanda sobre votos por correo en California",
+                "link": "https://es.investing.com/news/economy-news/la-administracion-trump-retira-la-demanda-sobre-votos-por-correo-en-california-3917526",
+                "date": "2026-11-07 06:35:14"
             }
         ],
         "💶 Economía Europea (BCE)": [
@@ -148,14 +148,14 @@
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-06"
+                "date": "2026-11-07"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-06"
+                "date": "2026-11-07"
             }
         ]
     }
