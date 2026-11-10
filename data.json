@@ -2,6 +2,21 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "La COP31 abre en Antalya: ¿pueden por fin las promesas climáticas dar resultados?",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542157",
+                "date": "Mon, 09 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "COP31, Ucrania, Gaza, Papa y sarampión… las noticias del lunes",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542155",
+                "date": "Mon, 09 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Las temperaturas extremas \"excepcionales\" continuarán el año que viene",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542152",
+                "date": "Mon, 09 Nov 2026 12:00:00 +0000"
+            },
+            {
                 "title": "La joven ingeniera nuclear que salió de la periferia de Brasil para conquistar el mundo",
                 "link": "https://news.un.org/feed/view/es/story/2026/11/1542146",
                 "date": "Sat, 07 Nov 2026 12:00:00 +0000"
@@ -10,114 +25,104 @@
                 "title": "Frente a la desinformación, hay que reconquistar la confianza en la ciencia",
                 "link": "https://news.un.org/feed/view/es/story/2026/11/1542150",
                 "date": "Fri, 06 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "COP31, Sudán, Ucrania y precios de los alimentos… las noticias del viernes",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542149",
-                "date": "Fri, 06 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "En el Ártico y a la deriva, una expedición científica lanza un llamado a los líderes mundiales: Escuchen a la ciencia",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542147",
-                "date": "Fri, 06 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Agua, Cumbre Iberoamericana y violencia sexual en el Reino Unido: las noticias del jueves",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542145",
-                "date": "Thu, 05 Nov 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Rescatan a un pianista que pasó nueve horas a la deriva en el Pacífico",
-                "link": "https://www.dw.com/es/rescatan-a-un-pianista-que-pasó-nueve-horas-a-la-deriva-en-el-pacífico/a-79902399?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-09"
+                "title": "Anthropic protagoniza una de las mayores apuestas bursátiles de la era de la IA",
+                "link": "https://www.dw.com/es/anthropic-protagoniza-una-de-las-mayores-apuestas-bursátiles-de-la-era-de-la-ia/a-79910575?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-10"
             },
             {
-                "title": "Lennart Karl y el regaño incómodo que funcionó",
-                "link": "https://www.dw.com/es/lennart-karl-y-el-regaño-incómodo-que-funcionó/a-79900360?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-09"
+                "title": "Vincent Kompany regresa al campo de entrenamiento del Bayern Múnich",
+                "link": "https://www.dw.com/es/vincent-kompany-regresa-al-campo-de-entrenamiento-del-bayern-múnich/a-79910293?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-10"
             },
             {
-                "title": "9 de noviembre: Alemania recuerda la caída del Muro y los pogromos de 1938",
-                "link": "https://www.dw.com/es/9-de-noviembre-alemania-recuerda-la-caída-del-muro-y-los-pogromos-de-1938/a-79899547?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-09"
+                "title": "Brasil impulsa en la COP31 una guía global para dejar el petróleo",
+                "link": "https://www.dw.com/es/brasil-impulsa-en-la-cop31-una-guía-global-para-dejar-el-petróleo/a-79909547?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-10"
             },
             {
-                "title": "Festividades con pirotecnia dejan contaminación severa en India",
-                "link": "https://www.dw.com/es/festividades-con-pirotecnia-dejan-contaminación-severa-en-india/a-79898962?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-09"
+                "title": "Brasil: un partido de fútbol termina con 51 tarjetas rojas",
+                "link": "https://www.dw.com/es/brasil-un-partido-de-fútbol-termina-con-51-tarjetas-rojas/a-79909188?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-10"
             },
             {
-                "title": "Ilse Aigner, la propuesta de Merz para la presidencia de Alemania",
-                "link": "https://www.dw.com/es/ilse-aigner-la-propuesta-de-merz-para-la-presidencia-de-alemania/a-79898458?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-09"
+                "title": "Niebla mortal en Bulgaria: 11 muertos en un choque con 50 vehículos",
+                "link": "https://www.dw.com/es/niebla-mortal-en-bulgaria-11-muertos-en-un-choque-con-50-vehículos/a-79908826?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-10"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "El Papa defiende en Argentina a las víctimas de la motosierra de Milei: “La economía debe estar al servicio de la persona”",
-                "link": "https://elpais.com/argentina/2026-11-09/el-papa-defiende-en-argentina-a-las-victimas-de-la-motosierra-de-milei-la-economia-debe-estar-al-servicio-de-la-persona.html",
-                "date": "Mon, 09 Nov 2026 02:02:24 GMT"
+                "title": "La visita del papa León XIV en Argentina, en vivo | Una multitud se congrega en Córdoba para ver y escuchar al Papa",
+                "link": "https://elpais.com/argentina/2026-11-10/la-visita-del-papa-leon-xiv-en-argentina-en-vivo.html",
+                "date": "Tue, 10 Nov 2026 13:36:32 GMT"
             },
             {
-                "title": "El segundo día de León XIV en Argentina, en vivo | El Papa preside una misa en Buenos Aires ante más de dos millones de personas",
-                "link": "https://elpais.com/america/2026-11-09/el-segundo-dia-de-leon-xiv-en-argentina-en-vivo-el-papa-visita-un-centro-de-discapacitados-en-su-segundo-dia-en-argentina.html",
-                "date": "Mon, 09 Nov 2026 15:36:17 GMT"
+                "title": "León XIV celebra la misa más masiva de su pontificado con 2,5 millones de fieles en Buenos Aires",
+                "link": "https://elpais.com/argentina/2026-11-10/leon-xiv-celebra-la-misa-mas-masiva-de-su-pontificado-con-25-millones-de-fieles-en-buenos-aires.html",
+                "date": "Tue, 10 Nov 2026 00:02:57 GMT"
             },
             {
-                "title": "Alice Huang, la espía china de pasado misterioso que llegó hasta el consejero delegado de Nvidia",
-                "link": "https://elpais.com/internacional/2026-11-09/alice-huang-la-espia-china-de-pasado-misterioso-que-llego-hasta-el-consejero-delegado-de-nvidia.html",
-                "date": "Mon, 09 Nov 2026 13:38:13 GMT"
+                "title": "La investigación vaticana del Sodalicio revela extracciones de ovarios y uso de psicofármacos para tratar la homosexualidad",
+                "link": "https://elpais.com/sociedad/2026-11-10/la-investigacion-vaticana-del-sodalicio-revela-extracciones-de-ovarios-y-uso-de-psicofarmacos-para-tratar-la-homosexualidad.html",
+                "date": "Tue, 10 Nov 2026 04:30:01 GMT"
             },
             {
-                "title": "Nvidia abre una investigación a su consejero delegado sobre su relación con una presunta espía china",
-                "link": "https://elpais.com/us/2026-11-08/nvidia-abre-una-investigacion-a-su-ceo-sobre-posible-espionaje.html",
-                "date": "Mon, 09 Nov 2026 02:37:21 GMT"
+                "title": "Así logró China engañar al empresario más poderoso de la IA con una operación de seducción",
+                "link": "https://elpais.com/tecnologia/2026-11-10/asi-logro-china-enganar-al-empresario-mas-poderoso-de-la-ia-con-una-operacion-de-seduccion.html",
+                "date": "Tue, 10 Nov 2026 04:30:01 GMT"
             },
             {
-                "title": "Nvidia sufre en Bolsa tras iniciar una investigación por una relación extramatrimonial de su CEO",
-                "link": "https://elpais.com/economia/2026-11-09/nvidia-se-desploma-en-bolsa-tras-confirmar-una-investigacion-sobre-la-relacion-extramatrimonial-de-su-ceo-con-una-presunta-espia-china.html",
-                "date": "Mon, 09 Nov 2026 15:34:35 GMT"
+                "title": "Trump asegura que el FBI investiga el caso de la presunta espía china vinculada al director de Nvidia",
+                "link": "https://elpais.com/internacional/2026-11-10/trump-asegura-que-el-fbi-investiga-el-caso-de-la-presunta-espia-china-vinculada-al-director-de-nvidia.html",
+                "date": "Tue, 10 Nov 2026 12:36:30 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-09"
+                "date": "2026-11-10"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Truflation prevé que los precios al consumidor de EE.UU. subirán un 3,8% interanual en octubre",
-                "link": "https://es.investing.com/news/economy-news/truflation-preve-que-los-precios-al-consumidor-de-eeuu-subiran-un-38-interanual-en-octubre-3918824",
-                "date": "2026-11-09 12:24:57"
+                "title": "Hegseth califica el intento de destitución del Congreso como una \"farsa\"",
+                "link": "https://es.investing.com/news/economy-news/hegseth-califica-el-intento-de-destitucion-del-congreso-como-una-farsa-3921551",
+                "date": "2026-11-10 13:38:03"
             },
             {
-                "title": "Alegaciones sobre Huang, resultados de Berkshire y regulación de IA",
-                "link": "https://es.investing.com/news/economy-news/alegaciones-sobre-huang-resultados-de-berkshire-y-regulacion-de-ia-3918063",
-                "date": "2026-11-09 08:43:15"
+                "title": "Waller (Fed) apoya subida de tipos y advierte sobre inflación de octubre",
+                "link": "https://es.investing.com/news/economy-news/waller-fed-apoya-subida-de-tipos-y-advierte-sobre-inflacion-de-octubre-3921021",
+                "date": "2026-11-10 11:52:31"
             },
             {
-                "title": "Reino Unido planea reducir su objetivo de vehículos eléctricos al 60% en 2030",
-                "link": "https://es.investing.com/news/economy-news/reino-unido-planea-reducir-su-objetivo-de-vehiculos-electricos-al-60-en-2030-93CH-3917832",
-                "date": "2026-11-09 06:02:46"
+                "title": "Oficial del banco central de Suecia apunta a posible subida de tipos en diciembre",
+                "link": "https://es.investing.com/news/economy-news/oficial-del-banco-central-de-suecia-apunta-a-posible-subida-de-tipos-en-diciembre-93CH-3920825",
+                "date": "2026-11-10 10:59:43"
             },
             {
-                "title": "Oficinas de Saudi Aramco en Riad atacadas por misiles hutíes",
-                "link": "https://es.investing.com/news/economy-news/oficinas-de-saudi-aramco-en-riad-atacadas-por-misiles-huties-3917670",
-                "date": "2026-11-08 10:23:55"
+                "title": "Datos de inflación en EE.UU. y escándalo de Huang: qué mueve los mercados",
+                "link": "https://es.investing.com/news/economy-news/datos-de-inflacion-de-eeuu-en-el-punto-de-mira-escandalo-de-huang-sacude-los-mercados-3920584",
+                "date": "2026-11-10 09:08:22"
             },
             {
-                "title": "UE y Reino Unido cerca de un acuerdo para vincular mercados de carbono",
-                "link": "https://es.investing.com/news/economy-news/ue-y-reino-unido-cerca-de-un-acuerdo-para-vincular-mercados-de-carbono-3917666",
-                "date": "2026-11-08 09:39:00"
+                "title": "Todos atentos al IPC de EEUU: esto se espera y así puede reaccionar el mercado",
+                "link": "https://es.investing.com/news/economy-news/todos-atentos-al-ipc-de-eeuu-esto-se-espera-y-asi-puede-reaccionar-el-mercado-3920441",
+                "date": "2026-11-10 06:45:48"
             }
         ],
         "💶 Economía Europea (BCE)": [
+            {
+                "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
+                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
+                "date": "Tue, 10 Nov 2026 15:00:00 +0100"
+            },
             {
                 "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
                 "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
@@ -137,25 +142,20 @@
                 "title": "Piero Cipollone: Shaping the future of money",
                 "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
                 "date": "Thu, 05 Nov 2026 08:30:00 +0100"
-            },
-            {
-                "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
-                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
-                "date": "Wed, 04 Nov 2026 01:00:00 +0100"
             }
         ],
         "📈 Mercados (Yahoo Finance)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-09"
+                "date": "2026-11-10"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-09"
+                "date": "2026-11-10"
             }
         ]
     }
