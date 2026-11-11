@@ -2,6 +2,16 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "COP31: la transición energética toma el protagonismo más allá de los combustibles fósiles",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542160",
+                "date": "Tue, 10 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Desigualdad en la COP31, Sudán, ébola y Estados Unidos: las noticias del martes",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542159",
+                "date": "Tue, 10 Nov 2026 12:00:00 +0000"
+            },
+            {
                 "title": "La COP31 abre en Antalya: ¿pueden por fin las promesas climáticas dar resultados?",
                 "link": "https://news.un.org/feed/view/es/story/2026/11/1542157",
                 "date": "Mon, 09 Nov 2026 12:00:00 +0000"
@@ -15,109 +25,104 @@
                 "title": "Las temperaturas extremas \"excepcionales\" continuarán el año que viene",
                 "link": "https://news.un.org/feed/view/es/story/2026/11/1542152",
                 "date": "Mon, 09 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "La joven ingeniera nuclear que salió de la periferia de Brasil para conquistar el mundo",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542146",
-                "date": "Sat, 07 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Frente a la desinformación, hay que reconquistar la confianza en la ciencia",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542150",
-                "date": "Fri, 06 Nov 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Anthropic protagoniza una de las mayores apuestas bursátiles de la era de la IA",
-                "link": "https://www.dw.com/es/anthropic-protagoniza-una-de-las-mayores-apuestas-bursátiles-de-la-era-de-la-ia/a-79910575?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-10"
+                "title": "El Gobierno alemán aprueba la creación de una reserva nacional de gas",
+                "link": "https://www.dw.com/es/el-gobierno-alemán-aprueba-la-creación-de-una-reserva-nacional-de-gas/a-79919507?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-11"
             },
             {
-                "title": "Vincent Kompany regresa al campo de entrenamiento del Bayern Múnich",
-                "link": "https://www.dw.com/es/vincent-kompany-regresa-al-campo-de-entrenamiento-del-bayern-múnich/a-79910293?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-10"
+                "title": "Evacúan cientos de colegios en Italia por una ola de amenazas de bomba",
+                "link": "https://www.dw.com/es/evacúan-cientos-de-colegios-en-italia-por-una-ola-de-amenazas-de-bomba/a-79918548?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-11"
             },
             {
-                "title": "Brasil impulsa en la COP31 una guía global para dejar el petróleo",
-                "link": "https://www.dw.com/es/brasil-impulsa-en-la-cop31-una-guía-global-para-dejar-el-petróleo/a-79909547?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-10"
+                "title": "España se paraliza: huelga general por vivienda y salarios",
+                "link": "https://www.dw.com/es/españa-se-paraliza-huelga-general-por-vivienda-y-salarios/a-79916308?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-11"
             },
             {
-                "title": "Brasil: un partido de fútbol termina con 51 tarjetas rojas",
-                "link": "https://www.dw.com/es/brasil-un-partido-de-fútbol-termina-con-51-tarjetas-rojas/a-79909188?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-10"
+                "title": "Nueva tensión: Rusia dice haber capturado a dos espías polacos",
+                "link": "https://www.dw.com/es/nueva-tensión-rusia-dice-haber-capturado-a-dos-espías-polacos/a-79916062?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-11"
             },
             {
-                "title": "Niebla mortal en Bulgaria: 11 muertos en un choque con 50 vehículos",
-                "link": "https://www.dw.com/es/niebla-mortal-en-bulgaria-11-muertos-en-un-choque-con-50-vehículos/a-79908826?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-10"
+                "title": "RD Congo supera barrera de los 11.000 casos de ébola, incluidos 5.387 muertos",
+                "link": "https://www.dw.com/es/rd-congo-supera-barrera-de-los-11-000-casos-de-ébola-incluidos-5-387-muertos/a-79914424?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-11"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "La visita del papa León XIV en Argentina, en vivo | Una multitud se congrega en Córdoba para ver y escuchar al Papa",
-                "link": "https://elpais.com/argentina/2026-11-10/la-visita-del-papa-leon-xiv-en-argentina-en-vivo.html",
-                "date": "Tue, 10 Nov 2026 13:36:32 GMT"
+                "title": "La visita del papa León XIV, en vivo | El Pontífice encabeza una multitudinaria misa en Luján",
+                "link": "https://elpais.com/america/2026-11-11/la-visita-del-papa-leon-xiv-en-vivo.html",
+                "date": "Wed, 11 Nov 2026 13:50:45 GMT"
             },
             {
-                "title": "León XIV celebra la misa más masiva de su pontificado con 2,5 millones de fieles en Buenos Aires",
-                "link": "https://elpais.com/argentina/2026-11-10/leon-xiv-celebra-la-misa-mas-masiva-de-su-pontificado-con-25-millones-de-fieles-en-buenos-aires.html",
-                "date": "Tue, 10 Nov 2026 00:02:57 GMT"
+                "title": "La ventaja estratégica de los chips de Nvidia convirtió a su primer ejecutivo en un objetivo de China",
+                "link": "https://elpais.com/us/2026-11-11/la-ventaja-estrategica-de-los-chips-de-nvidia-convirtio-a-su-primer-ejecutivo-en-un-objetivo-de-china.html",
+                "date": "Wed, 11 Nov 2026 05:48:59 GMT"
             },
             {
-                "title": "La investigación vaticana del Sodalicio revela extracciones de ovarios y uso de psicofármacos para tratar la homosexualidad",
-                "link": "https://elpais.com/sociedad/2026-11-10/la-investigacion-vaticana-del-sodalicio-revela-extracciones-de-ovarios-y-uso-de-psicofarmacos-para-tratar-la-homosexualidad.html",
-                "date": "Tue, 10 Nov 2026 04:30:01 GMT"
+                "title": "“Robo, engaño y encubrimiento”: los otros casos de espionaje industrial que evoca el escándalo de Nvidia",
+                "link": "https://elpais.com/us/2026-11-11/robo-engano-y-encubrimiento-otros-casos-de-espionaje-industrial-que-nos-recuerda-el-escandalo-de-nvidia.html",
+                "date": "Wed, 11 Nov 2026 04:30:00 GMT"
             },
             {
-                "title": "Así logró China engañar al empresario más poderoso de la IA con una operación de seducción",
-                "link": "https://elpais.com/tecnologia/2026-11-10/asi-logro-china-enganar-al-empresario-mas-poderoso-de-la-ia-con-una-operacion-de-seduccion.html",
-                "date": "Tue, 10 Nov 2026 04:30:01 GMT"
+                "title": "IA vulnerable",
+                "link": "https://elpais.com/opinion/2026-11-11/ia-vulnerable.html",
+                "date": "Wed, 11 Nov 2026 04:30:01 GMT"
             },
             {
-                "title": "Trump asegura que el FBI investiga el caso de la presunta espía china vinculada al director de Nvidia",
-                "link": "https://elpais.com/internacional/2026-11-10/trump-asegura-que-el-fbi-investiga-el-caso-de-la-presunta-espia-china-vinculada-al-director-de-nvidia.html",
-                "date": "Tue, 10 Nov 2026 12:36:30 GMT"
+                "title": "Dos años del combate al crimen de Sheinbaum: menos homicidios, más detenciones y una mejora en la percepción de seguridad",
+                "link": "https://elpais.com/mexico/2026-11-11/dos-anos-del-combate-al-crimen-de-sheinbaum-menos-homicidios-mas-detenciones-y-una-mejora-en-la-percepcion-de-seguridad.html",
+                "date": "Wed, 11 Nov 2026 09:30:00 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-10"
+                "date": "2026-11-11"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Hegseth califica el intento de destitución del Congreso como una \"farsa\"",
-                "link": "https://es.investing.com/news/economy-news/hegseth-califica-el-intento-de-destitucion-del-congreso-como-una-farsa-3921551",
-                "date": "2026-11-10 13:38:03"
+                "title": "¿Habrá sorpresa en la Fed de diciembre tras el IPC de EEUU?",
+                "link": "https://es.investing.com/news/economy-news/habra-sorpresa-en-la-fed-de-diciembre-tras-el-ipc-de-eeuu-3923543",
+                "date": "2026-11-11 12:53:43"
             },
             {
-                "title": "Waller (Fed) apoya subida de tipos y advierte sobre inflación de octubre",
-                "link": "https://es.investing.com/news/economy-news/waller-fed-apoya-subida-de-tipos-y-advierte-sobre-inflacion-de-octubre-3921021",
-                "date": "2026-11-10 11:52:31"
+                "title": "Jefe de seguridad de Irán rechaza transferir materiales nucleares al exterior",
+                "link": "https://es.investing.com/news/economy-news/jefe-de-seguridad-de-iran-rechaza-transferir-materiales-nucleares-al-exterior-3923550",
+                "date": "2026-11-11 12:53:10"
             },
             {
-                "title": "Oficial del banco central de Suecia apunta a posible subida de tipos en diciembre",
-                "link": "https://es.investing.com/news/economy-news/oficial-del-banco-central-de-suecia-apunta-a-posible-subida-de-tipos-en-diciembre-93CH-3920825",
-                "date": "2026-11-10 10:59:43"
+                "title": "Perspectivas de CoreWeave; los ingresos de OpenAI se disparan",
+                "link": "https://es.investing.com/news/economy-news/resultados-de-coreweave-los-ingresos-de-openai-se-disparan-3922986",
+                "date": "2026-11-11 09:07:52"
             },
             {
-                "title": "Datos de inflación en EE.UU. y escándalo de Huang: qué mueve los mercados",
-                "link": "https://es.investing.com/news/economy-news/datos-de-inflacion-de-eeuu-en-el-punto-de-mira-escandalo-de-huang-sacude-los-mercados-3920584",
-                "date": "2026-11-10 09:08:22"
+                "title": "El pico de tipos del BoE del 4,25% \"no será suficiente\", según el NIESR",
+                "link": "https://es.investing.com/news/economy-news/el-pico-de-tipos-del-boe-del-425-no-sera-suficiente-segun-el-niesr-3922973",
+                "date": "2026-11-11 08:59:07"
             },
             {
-                "title": "Todos atentos al IPC de EEUU: esto se espera y así puede reaccionar el mercado",
-                "link": "https://es.investing.com/news/economy-news/todos-atentos-al-ipc-de-eeuu-esto-se-espera-y-asi-puede-reaccionar-el-mercado-3920441",
-                "date": "2026-11-10 06:45:48"
+                "title": "Goldman prevé tres subidas de tipos de la Fed tras otro dato de inflación al alza",
+                "link": "https://es.investing.com/news/economy-news/goldman-preve-tres-subidas-de-tipos-de-la-fed-tras-otro-dato-de-inflacion-al-alza-3922975",
+                "date": "2026-11-11 08:53:51"
             }
         ],
         "💶 Economía Europea (BCE)": [
+            {
+                "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
+                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
+                "date": "Tue, 10 Nov 2026 17:45:00 +0100"
+            },
             {
                 "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
                 "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
@@ -137,25 +142,20 @@
                 "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
                 "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
                 "date": "Thu, 05 Nov 2026 09:00:00 +0100"
-            },
-            {
-                "title": "Piero Cipollone: Shaping the future of money",
-                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
-                "date": "Thu, 05 Nov 2026 08:30:00 +0100"
             }
         ],
         "📈 Mercados (Yahoo Finance)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-10"
+                "date": "2026-11-11"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-10"
+                "date": "2026-11-11"
             }
         ]
     }
