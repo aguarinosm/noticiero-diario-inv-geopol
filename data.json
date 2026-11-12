@@ -2,6 +2,21 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "Guterres: Es el momento de la verdad: o actuamos o nos asamos",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542164",
+                "date": "Wed, 11 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "COP31, sequía en Centroamérica, Gaza, ébola… las noticias del miércoles",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542163",
+                "date": "Wed, 11 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "El Corredor Seco: “Cuando no hay agua, ahí termina toda la inteligencia”",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542151",
+                "date": "Wed, 11 Nov 2026 12:00:00 +0000"
+            },
+            {
                 "title": "COP31: la transición energética toma el protagonismo más allá de los combustibles fósiles",
                 "link": "https://news.un.org/feed/view/es/story/2026/11/1542160",
                 "date": "Tue, 10 Nov 2026 12:00:00 +0000"
@@ -10,111 +25,96 @@
                 "title": "Desigualdad en la COP31, Sudán, ébola y Estados Unidos: las noticias del martes",
                 "link": "https://news.un.org/feed/view/es/story/2026/11/1542159",
                 "date": "Tue, 10 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "La COP31 abre en Antalya: ¿pueden por fin las promesas climáticas dar resultados?",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542157",
-                "date": "Mon, 09 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "COP31, Ucrania, Gaza, Papa y sarampión… las noticias del lunes",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542155",
-                "date": "Mon, 09 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Las temperaturas extremas \"excepcionales\" continuarán el año que viene",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542152",
-                "date": "Mon, 09 Nov 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "El Gobierno alemán aprueba la creación de una reserva nacional de gas",
-                "link": "https://www.dw.com/es/el-gobierno-alemán-aprueba-la-creación-de-una-reserva-nacional-de-gas/a-79919507?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-11"
+                "title": "Miriam González: \"La población inmigrante en España es un activo\"",
+                "link": "https://www.dw.com/es/miriam-gonzález-la-población-inmigrante-en-españa-es-un-activo/a-79927366?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-12"
             },
             {
-                "title": "Evacúan cientos de colegios en Italia por una ola de amenazas de bomba",
-                "link": "https://www.dw.com/es/evacúan-cientos-de-colegios-en-italia-por-una-ola-de-amenazas-de-bomba/a-79918548?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-11"
+                "title": "Dimite Jensen Huang y sacude al gigante de la IA Nvidia",
+                "link": "https://www.dw.com/es/dimite-jensen-huang-y-sacude-al-gigante-de-la-ia-nvidia/a-79931741?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-12"
             },
             {
-                "title": "España se paraliza: huelga general por vivienda y salarios",
-                "link": "https://www.dw.com/es/españa-se-paraliza-huelga-general-por-vivienda-y-salarios/a-79916308?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-11"
+                "title": "Trump amenaza con duplicar aranceles a México si no frena a migrantes",
+                "link": "https://www.dw.com/es/trump-amenaza-con-duplicar-aranceles-a-méxico-si-no-frena-a-migrantes/a-79931643?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-12"
             },
             {
-                "title": "Nueva tensión: Rusia dice haber capturado a dos espías polacos",
-                "link": "https://www.dw.com/es/nueva-tensión-rusia-dice-haber-capturado-a-dos-espías-polacos/a-79916062?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-11"
+                "title": "Italia mantiene las clases pese a una nueva ola de amenazas de bomba",
+                "link": "https://www.dw.com/es/italia-mantiene-las-clases-pese-a-una-nueva-ola-de-amenazas-de-bomba/a-79930803?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-12"
             },
             {
-                "title": "RD Congo supera barrera de los 11.000 casos de ébola, incluidos 5.387 muertos",
-                "link": "https://www.dw.com/es/rd-congo-supera-barrera-de-los-11-000-casos-de-ébola-incluidos-5-387-muertos/a-79914424?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-11"
+                "title": "Hallan con vida a un joven desaparecido seis días en Australia",
+                "link": "https://www.dw.com/es/hallan-con-vida-a-un-joven-desaparecido-seis-días-en-australia/a-79929497?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-12"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "La visita del papa León XIV, en vivo | El Pontífice encabeza una multitudinaria misa en Luján",
-                "link": "https://elpais.com/america/2026-11-11/la-visita-del-papa-leon-xiv-en-vivo.html",
-                "date": "Wed, 11 Nov 2026 13:50:45 GMT"
+                "title": "Jensen Huang renuncia como consejero delegado de Nvidia forzado por el escándalo sobre sus infidelidades y el caso de espionaje",
+                "link": "https://elpais.com/us/2026-11-12/jensen-huang-dimite-como-consejero-delegado-de-nvidia-tras-destaparse-el-escandalo-sobre-sus-infidelidades-y-el-caso-de-espionaje.html",
+                "date": "Thu, 12 Nov 2026 13:59:47 GMT"
             },
             {
-                "title": "La ventaja estratégica de los chips de Nvidia convirtió a su primer ejecutivo en un objetivo de China",
-                "link": "https://elpais.com/us/2026-11-11/la-ventaja-estrategica-de-los-chips-de-nvidia-convirtio-a-su-primer-ejecutivo-en-un-objetivo-de-china.html",
-                "date": "Wed, 11 Nov 2026 05:48:59 GMT"
+                "title": "El ascenso de los hijos de Huang en Nvidia aviva las dudas por la gobernanza: de chef y barman a ejecutivos de la mayor compañía del mundo",
+                "link": "https://elpais.com/us/2026-11-12/el-ascenso-de-los-hijos-de-huang-en-nvidia-aviva-las-dudas-por-la-gobernanza-de-chef-y-barman-a-ejecutivos-de-la-mayor-compania-del-mundo.html",
+                "date": "Thu, 12 Nov 2026 12:50:39 GMT"
             },
             {
-                "title": "“Robo, engaño y encubrimiento”: los otros casos de espionaje industrial que evoca el escándalo de Nvidia",
-                "link": "https://elpais.com/us/2026-11-11/robo-engano-y-encubrimiento-otros-casos-de-espionaje-industrial-que-nos-recuerda-el-escandalo-de-nvidia.html",
-                "date": "Wed, 11 Nov 2026 04:30:00 GMT"
+                "title": "Nvidia agrava su desplome en Bolsa con el despido de su consejero delegado y la acción pierde un 37% en un mes",
+                "link": "https://elpais.com/economia/2026-11-12/nvidia-sufre-una-tormenta-de-crisis-encadenadas-y-pierde-el-30-de-su-valor-bursatil-en-un-mes.html",
+                "date": "Thu, 12 Nov 2026 14:25:50 GMT"
             },
             {
-                "title": "IA vulnerable",
-                "link": "https://elpais.com/opinion/2026-11-11/ia-vulnerable.html",
-                "date": "Wed, 11 Nov 2026 04:30:01 GMT"
+                "title": "La visita de León XIV a perú, en vivo | El Papa se reúne con los obispos",
+                "link": "https://elpais.com/america/2026-11-12/la-visita-de-leon-xiv-a-peru-en-vivo-el-papa-se-reun-con-los-obispos.html",
+                "date": "Thu, 12 Nov 2026 14:55:19 GMT"
             },
             {
-                "title": "Dos años del combate al crimen de Sheinbaum: menos homicidios, más detenciones y una mejora en la percepción de seguridad",
-                "link": "https://elpais.com/mexico/2026-11-11/dos-anos-del-combate-al-crimen-de-sheinbaum-menos-homicidios-mas-detenciones-y-una-mejora-en-la-percepcion-de-seguridad.html",
-                "date": "Wed, 11 Nov 2026 09:30:00 GMT"
+                "title": "León XIV en Lima: “Las guerras reclaman una diplomacia que respete el derecho internacional”",
+                "link": "https://elpais.com/america/2026-11-12/leon-xiv-en-lima-las-guerras-reclaman-una-diplomacia-que-respete-el-derecho-internacional.html",
+                "date": "Thu, 12 Nov 2026 03:20:39 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-11"
+                "date": "2026-11-12"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "¿Habrá sorpresa en la Fed de diciembre tras el IPC de EEUU?",
-                "link": "https://es.investing.com/news/economy-news/habra-sorpresa-en-la-fed-de-diciembre-tras-el-ipc-de-eeuu-3923543",
-                "date": "2026-11-11 12:53:43"
+                "title": "Greer califica a Nvidia de \"empresa estructuralmente importante\"",
+                "link": "https://es.investing.com/news/economy-news/greer-califica-a-nvidia-de-empresa-estructuralmente-importante-3925862",
+                "date": "2026-11-12 14:27:48"
             },
             {
-                "title": "Jefe de seguridad de Irán rechaza transferir materiales nucleares al exterior",
-                "link": "https://es.investing.com/news/economy-news/jefe-de-seguridad-de-iran-rechaza-transferir-materiales-nucleares-al-exterior-3923550",
-                "date": "2026-11-11 12:53:10"
+                "title": "Turquía eleva su previsión de inflación para 2026 al 29,5%",
+                "link": "https://es.investing.com/news/economy-news/turquia-eleva-su-prevision-de-inflacion-para-2026-al-295-93CH-3925693",
+                "date": "2026-11-12 13:45:08"
             },
             {
-                "title": "Perspectivas de CoreWeave; los ingresos de OpenAI se disparan",
-                "link": "https://es.investing.com/news/economy-news/resultados-de-coreweave-los-ingresos-de-openai-se-disparan-3922986",
-                "date": "2026-11-11 09:07:52"
+                "title": "Irán advierte que su respuesta a nuevos ataques de EE.UU. sería \"10 veces más grave\"",
+                "link": "https://es.investing.com/news/economy-news/iran-advierte-que-su-respuesta-a-nuevos-ataques-de-eeuu-seria-10-veces-mas-grave-3925644",
+                "date": "2026-11-12 13:28:49"
             },
             {
-                "title": "El pico de tipos del BoE del 4,25% \"no será suficiente\", según el NIESR",
-                "link": "https://es.investing.com/news/economy-news/el-pico-de-tipos-del-boe-del-425-no-sera-suficiente-segun-el-niesr-3922973",
-                "date": "2026-11-11 08:59:07"
+                "title": "El banco central de Serbia sube su tasa clave al 6%",
+                "link": "https://es.investing.com/news/economy-news/el-banco-central-de-serbia-sube-su-tasa-clave-al-6-93CH-3925119",
+                "date": "2026-11-12 11:45:13"
             },
             {
-                "title": "Goldman prevé tres subidas de tipos de la Fed tras otro dato de inflación al alza",
-                "link": "https://es.investing.com/news/economy-news/goldman-preve-tres-subidas-de-tipos-de-la-fed-tras-otro-dato-de-inflacion-al-alza-3922975",
-                "date": "2026-11-11 08:53:51"
+                "title": "La sorpresa del crecimiento del Reino Unido abre la puerta a otra subida de tipos del BoE en diciembre",
+                "link": "https://es.investing.com/news/economy-news/la-sorpresa-del-crecimiento-del-reino-unido-abre-la-puerta-a-otra-subida-de-tipos-del-boe-en-diciembre-3924912",
+                "date": "2026-11-12 10:30:09"
             }
         ],
         "💶 Economía Europea (BCE)": [
@@ -148,14 +148,14 @@
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-11"
+                "date": "2026-11-12"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-11"
+                "date": "2026-11-12"
             }
         ]
     }
