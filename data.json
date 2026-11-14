@@ -2,99 +2,119 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
-                "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
-                "link": "#",
-                "date": "2026-11-13"
+                "title": "COP31: Sin dinero suficiente, crecen las voces para que paguen más los que más contaminan",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542174",
+                "date": "Fri, 13 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "El impacto devastador de la última tormenta en Gaza se podría haber evitado",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542173",
+                "date": "Fri, 13 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "COP31, ébola, robots asesinos, Gaza… las noticias del viernes",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542172",
+                "date": "Fri, 13 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "COP31: las ciudades están en la primera línea del cambio climático",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542169",
+                "date": "Thu, 12 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Gaza: la ONU denuncia los bloqueos mortales de Israel frente a las inclemencias del tiempo",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542168",
+                "date": "Thu, 12 Nov 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "La UE busca lugar en negociaciones sobre Ucrania, pero Rusia no asegura su presencia",
-                "link": "https://www.dw.com/es/la-ue-busca-lugar-en-negociaciones-sobre-ucrania-pero-rusia-no-asegura-su-presencia/a-79941778?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-13"
+                "title": "Estados Unidos propuso en Abu Dabi que Ucrania ceda territorio a Rusia a cambio de su adhesión a la OTAN",
+                "link": "https://www.dw.com/es/estados-unidos-propuso-en-abu-dabi-que-ucrania-ceda-territorio-a-rusia-a-cambio-de-su-adhesión-a-la-otan/a-79947817?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-14"
             },
             {
-                "title": "Alemania hace la \"reforma del siglo\" en sus servicios secretos",
-                "link": "https://www.dw.com/es/alemania-hace-la-reforma-del-siglo-en-sus-servicios-secretos/a-79941487?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-13"
+                "title": "Sudán del Sur planea celebrar las primeras elecciones de su historia en febrero tras un nuevo retraso",
+                "link": "https://www.dw.com/es/sudán-del-sur-planea-celebrar-las-primeras-elecciones-de-su-historia-en-febrero-tras-un-nuevo-retraso/a-79947309?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-14"
             },
             {
-                "title": "La Unión Europea celebra su primera cumbre sobre inteligencia artificial",
-                "link": "https://www.dw.com/es/la-unión-europea-celebra-su-primera-cumbre-sobre-inteligencia-artificial/a-79939634?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-13"
+                "title": "Irán informa de tres petroleros incendiados por la explosión de minas marinas en el estrecho de Ormuz y renueva sus advertencias",
+                "link": "https://www.dw.com/es/irán-informa-de-tres-petroleros-incendiados-por-la-explosión-de-minas-marinas-en-el-estrecho-de-ormuz-y-renueva-sus-advertencias/a-79946984?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-14"
             },
             {
-                "title": "Prosigue la caída mundial de Outlook: Microsoft descarta ciberataque",
-                "link": "https://www.dw.com/es/prosigue-la-caída-mundial-de-outlook-microsoft-descarta-ciberataque/a-79937998?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-13"
+                "title": "La Casa Blanca confirma la celebración de una cumbre inédita entre Donald Trump, Xi Jinping y Vladimir Putin la semana que viene",
+                "link": "https://www.dw.com/es/la-casa-blanca-confirma-la-celebración-de-una-cumbre-inédita-entre-donald-trump-xi-jinping-y-vladimir-putin-la-semana-que-viene/a-79946919?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-14"
             },
             {
-                "title": "Ciberataque contra el fabricante alemán de drones Quantum Systems",
-                "link": "https://www.dw.com/es/ciberataque-contra-el-fabricante-alemán-de-drones-quantum-systems/a-79937108?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-13"
+                "title": "Estados Unidos levanta suspensión de vuelos tras horas de caos aéreo",
+                "link": "https://www.dw.com/es/estados-unidos-levanta-suspensión-de-vuelos-tras-horas-de-caos-aéreo/a-79946394?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-14"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Los servicios de Microsoft empiezan a funcionar con normalidad tras una caída global de más de 18 horas",
-                "link": "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html",
-                "date": "Fri, 13 Nov 2026 08:06:10 GMT"
+                "title": "Estados Unidos reanuda el tráfico aéreo después de un parón de más de cuatro horas y 6.000 vuelos cancelados",
+                "link": "https://elpais.com/us/2026-11-14/estados-unidos-reanuda-el-trafico-aereo-despues-de-un-paron-de-mas-de-cuatro-horas-y-6000-vuelos-cancelados.html",
+                "date": "Sat, 14 Nov 2026 03:29:07 GMT"
             },
             {
-                "title": "Claves | Qué ha ocurrido con Microsoft y por qué lleva tantas horas fuera de juego",
-                "link": "https://elpais.com/tecnologia/2026-11-13/claves-que-ha-ocurrido-con-microsoft-y-por-que-lleva-tantas-horas-fuera-de-juego.html",
-                "date": "Fri, 13 Nov 2026 12:01:24 GMT"
+                "title": "“Los parches no funcionan”: el Gobierno de EE UU culpa al “anticuado” sistema de control aéreo por la suspensión de vuelos",
+                "link": "https://elpais.com/us/2026-11-14/los-parches-no-funcionan-el-gobierno-de-ee-uu-culpa-al-anticuado-sistema-de-control-aereo-por-la-suspension-de-vuelos.html",
+                "date": "Sat, 14 Nov 2026 03:54:05 GMT"
             },
             {
-                "title": "León XIV congrega a más de 50.000 jóvenes peruanos en un estadio de fútbol: “Apasiónense por todo lo que merece la pena”",
-                "link": "https://elpais.com/america/2026-11-13/leon-xiv-congrega-a-mas-de-50000-jovenes-peruanos-en-un-estadio-de-futbol-apasionense-por-todo-lo-que-merece-la-pena.html",
-                "date": "Fri, 13 Nov 2026 02:13:22 GMT"
+                "title": "Así se vació el cielo de Estados Unidos tras la suspensión de los vuelos",
+                "link": "https://elpais.com/us/2026-11-13/asi-se-vacio-el-cielo-de-estados-unidos-tras-la-suspension-de-los-vuelos.html",
+                "date": "Fri, 13 Nov 2026 23:55:00 GMT"
             },
             {
-                "title": "León XIV critica el machismo en Perú: “La violencia contra las mujeres hiere a toda la humanidad”",
-                "link": "https://elpais.com/america/2026-11-12/leon-xiv-critica-el-machismo-en-peru-la-violencia-contra-las-mujeres-hiere-a-toda-la-humanidad.html",
-                "date": "Thu, 12 Nov 2026 19:50:49 GMT"
+                "title": "Videoanálisis | León XIV vuelve a casa y se reencuentra con los fieles en Chiclayo",
+                "link": "https://elpais.com/america/2026-11-14/videoanalisis-leon-xiv-vuelve-a-casa-y-se-reencuentra-con-los-fieles-en-chiclayo.html",
+                "date": "Sat, 14 Nov 2026 09:30:00 GMT"
             },
             {
-                "title": "Una víctima de la dictadura argentina recibida por León XVI: “Queremos que nos ayude a hacer que las monjas hablen”",
-                "link": "https://elpais.com/argentina/2026-11-13/una-victima-de-la-dictadura-argentina-recibida-por-leon-xvi-queremos-que-nos-ayude-a-hacer-que-las-monjas-hablen.html",
-                "date": "Fri, 13 Nov 2026 09:30:00 GMT"
+                "title": "El papa León XIV se reencuentra con su pueblo de Chiclayo",
+                "link": "https://elpais.com/america/2026-11-13/el-papa-leon-xiv-se-reencuentra-con-su-pueblo-de-chiclayo.html",
+                "date": "Fri, 13 Nov 2026 17:52:48 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-13"
+                "date": "2026-11-14"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Bessent pide cautela a la Fed ante una subida de tipos por el shock energético",
-                "link": "https://es.investing.com/news/economy-news/bessent-pide-cautela-a-la-fed-ante-una-subida-de-tipos-por-el-shock-energetico-3927798",
-                "date": "2026-11-13 13:33:28"
+                "title": "EE.UU. propone a Ucrania entrada en la OTAN a cambio del Donbás",
+                "link": "https://es.investing.com/news/economy-news/eeuu-propone-a-ucrania-entrada-en-la-otan-a-cambio-del-donbas-3928650",
+                "date": "2026-11-14 10:51:38"
             },
             {
-                "title": "David Cameron apoya la salida del Reino Unido del Convenio Europeo de Derechos Humanos",
-                "link": "https://es.investing.com/news/economy-news/david-cameron-apoya-la-salida-del-reino-unido-del-convenio-europeo-de-derechos-humanos-93CH-3927631",
-                "date": "2026-11-13 13:04:51"
+                "title": "¿Es la estrategia de compra de uranio de China un juego geopolítico a largo plazo?",
+                "link": "https://es.investing.com/news/economy-news/es-la-estrategia-de-china-para-el-uranio-un-juego-geopolitico-a-largo-plazo-3928641",
+                "date": "2026-11-14 09:36:17"
             },
             {
-                "title": "BofA prevé que la Fed suba tipos en enero y eleva su previsión de tasa terminal",
-                "link": "https://es.investing.com/news/economy-news/bofa-preve-que-la-fed-suba-tipos-en-enero-y-eleva-su-prevision-de-tasa-terminal-3927300",
-                "date": "2026-11-13 11:31:56"
+                "title": "China y EE.UU. debaten recortes arancelarios antes de la cumbre Trump-Xi",
+                "link": "https://es.investing.com/news/economy-news/china-y-eeuu-debaten-recortes-arancelarios-antes-de-la-cumbre-trumpxi-3928632",
+                "date": "2026-11-14 08:51:47"
             },
             {
-                "title": "RBC ve un potencial alcista superior al 20% en los bancos franceses y prefiere este valor",
-                "link": "https://es.investing.com/news/economy-news/rbc-ve-un-potencial-alcista-superior-al-20-en-los-bancos-franceses-y-prefiere-este-valor-3927206",
-                "date": "2026-11-13 10:52:45"
+                "title": "Irán afirma que cuatro petroleros chocaron con minas en el estrecho de Ormuz",
+                "link": "https://es.investing.com/news/economy-news/iran-afirma-que-cuatro-petroleros-chocaron-con-minas-en-el-estrecho-de-ormuz-3928607",
+                "date": "2026-11-14 07:10:43"
             },
             {
-                "title": "Nvidia sube +2% en preapertura: ¿qué hacer con la acción?",
-                "link": "https://es.investing.com/news/economy-news/nvidia-sube-ligeramente-antes-de-la-apertura-tras-la-dimision-de-huang-3927123",
-                "date": "2026-11-13 09:59:08"
+                "title": "¿Cuánto tiempo puede mantenerse expansiva la política fiscal con yields al alza?",
+                "link": "https://es.investing.com/news/economy-news/cuanto-tiempo-puede-mantenerse-expansiva-la-politica-fiscal-con-yields-al-alza-3928536",
+                "date": "2026-11-14 01:33:35"
             }
         ],
         "💶 Economía Europea (BCE)": [
@@ -128,14 +148,14 @@
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-13"
+                "date": "2026-11-14"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-13"
+                "date": "2026-11-14"
             }
         ]
     }
