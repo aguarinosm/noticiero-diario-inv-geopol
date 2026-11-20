@@ -2,102 +2,127 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
-                "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
-                "link": "#",
-                "date": "2026-11-19"
+                "title": "No se necesita aprobación del gobierno para formar una asociación",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542195",
+                "date": "Thu, 19 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "COP31: Los combustibles fósiles quedan fuera del borrador del acuerdo",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542194",
+                "date": "Thu, 19 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Myanmar, COP31 y El Niño en Guatemala… las noticias del jueves",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542193",
+                "date": "Thu, 19 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "La Corte Internacional de Justicia declara a Myanmar culpable de genocidio contra los rohinyás",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542191",
+                "date": "Thu, 19 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "COP31: 21 asuntos sin resolver a tres días del final",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542190",
+                "date": "Wed, 18 Nov 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "El mensaje de Pierce Brosnan a Robert Pattinson tras convertirse en James Bond",
-                "link": "https://www.dw.com/es/el-mensaje-de-pierce-brosnan-a-robert-pattinson-tras-convertirse-en-james-bond/a-79994161?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-19"
+                "title": "La cumbre Xi-Trump-Putin en Shenzhen deja más dudas que acuerdos",
+                "link": "https://www.dw.com/es/la-cumbre-xi-trump-putin-en-shenzhen-deja-más-dudas-que-acuerdos/a-80004824?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-20"
             },
             {
-                "title": "Casi uno de cada cuatro niños y niñas vive actualmente en zonas de conflicto",
-                "link": "https://www.dw.com/es/casi-uno-de-cada-cuatro-niños-y-niñas-vive-actualmente-en-zonas-de-conflicto/a-79991651?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-19"
+                "title": "\"Humano\": la palabra del año en plena era de la inteligencia artificial",
+                "link": "https://www.dw.com/es/humano-la-palabra-del-año-en-plena-era-de-la-inteligencia-artificial/a-80004981?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-20"
             },
             {
-                "title": "México investiga el origen de un cuadro de Frida Kahlo que iba a subastarse en EE. UU.",
-                "link": "https://www.dw.com/es/méxico-investiga-el-origen-de-un-cuadro-de-frida-kahlo-que-iba-a-subastarse-en-ee-uu/a-79992141?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-19"
+                "title": "Potros, Schalke y Unión Berlín: el lado oscuro de la Bundesliga",
+                "link": "https://www.dw.com/es/potros-schalke-y-unión-berlín-el-lado-oscuro-de-la-bundesliga/a-80001685?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-20"
             },
             {
-                "title": "CIJ declara a Birmania culpable de genocidio contra los rohinyás",
-                "link": "https://www.dw.com/es/cij-declara-a-birmania-culpable-de-genocidio-contra-los-rohinyás/a-79990666?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-19"
+                "title": "Protestas y huelgas en Europa contra el costo de vida y la militarización",
+                "link": "https://www.dw.com/es/protestas-y-huelgas-en-europa-contra-el-costo-de-vida-y-la-militarización/a-80003501?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-20"
             },
             {
-                "title": "Xi, Trump y Putin adoptan \"Declaración de Paz\" sobre reforma de la ONU, desarme nuclear y petróleo",
-                "link": "https://www.dw.com/es/xi-trump-y-putin-adoptan-declaración-de-paz-sobre-reforma-de-la-onu-desarme-nuclear-y-petróleo/a-79990663?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-19"
+                "title": "Lufthansa reducirá 1.000 empleos y recortará rutas por pérdidas",
+                "link": "https://www.dw.com/es/lufthansa-reducirá-1-000-empleos-y-recortará-rutas-por-pérdidas/a-80003537?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-20"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Xi, Trump y Putin, tras la cumbre de Shenzhen: “Una guerra nuclear no se puede ganar y nunca debe librarse”",
-                "link": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
-                "date": "Thu, 19 Nov 2026 11:11:25 GMT"
+                "title": "“Preocupaciones apocalípticas”: la cadena de fallas tecnológicas desata la compra de provisiones en Estados Unidos",
+                "link": "https://elpais.com/us/2026-11-20/preocupaciones-apocalipticas-la-cadena-de-fallas-tecnologicas-desata-la-compra-de-provisiones-en-estados-unidos.html",
+                "date": "Fri, 20 Nov 2026 09:30:00 GMT"
             },
             {
-                "title": "El triunvirato de Shenzhen y la rebelión del resto del mundo",
-                "link": "https://elpais.com/internacional/2026-11-19/el-triunvirato-de-shenzhen-y-la-rebelion-del-resto-del-mundo.html",
-                "date": "Thu, 19 Nov 2026 12:58:15 GMT"
+                "title": "El movimiento MAGA se vuelca contra el secretario de Seguridad Nacional, Markwayne Mullin, tras los apagones en los sistemas de EE UU",
+                "link": "https://elpais.com/us/2026-11-20/el-movimiento-maga-se-vuelca-contra-el-secretario-de-seguridad-nacional-markwayne-mullin-tras-los-apagones-en-los-sistemas-de-ee-uu.html",
+                "date": "Fri, 20 Nov 2026 09:30:00 GMT"
             },
             {
-                "title": "Iván Cepeda: “En el Gobierno De la Espriella podemos terminar con miles de ciudadanos catalogados como terroristas”",
-                "link": "https://elpais.com/america-colombia/2026-11-19/ivan-cepeda-estamos-ante-un-aparato-criminal-que-se-esta-tomando-el-estado-colombiano.html",
-                "date": "Thu, 19 Nov 2026 06:30:00 GMT"
+                "title": "California investiga a Nvidia por posibles transferencias de chips avanzados a China",
+                "link": "https://elpais.com/us/2026-11-19/california-investiga-a-nvidia-por-posibles-transferencias-de-chips-avanzados-a-china.html",
+                "date": "Thu, 19 Nov 2026 23:36:56 GMT"
             },
             {
-                "title": "Anthropic desbanca a SpaceX como la mayor salida a Bolsa de la historia y fija su valoración en 1,5 billones de dólares",
-                "link": "https://elpais.com/economia/2026-11-18/anthropic-desbanca-a-spacex-y-protagoniza-la-mayor-salida-a-bolsa-de-la-historia.html",
-                "date": "Thu, 19 Nov 2026 00:25:13 GMT"
+                "title": "Una intensa semana en China consolida al México de Sheinbaum en la escena internacional",
+                "link": "https://elpais.com/mexico/2026-11-20/una-intensa-semana-en-china-consolida-al-mexico-de-sheinbaum-en-la-escena-internacional.html",
+                "date": "Fri, 20 Nov 2026 09:30:00 GMT"
             },
             {
-                "title": "Las dudas sobre el futuro CEO prolongan el castigo a Nvidia en Bolsa",
-                "link": "https://elpais.com/economia/2026-11-19/las-dudas-sobre-el-futuro-ceo-prolongan-el-castigo-a-nvidia-en-bolsa.html",
-                "date": "Thu, 19 Nov 2026 04:15:00 GMT"
+                "title": "Celso Amorim: “El énfasis de Trump en el Escudo de las Américas disminuirá un poco”",
+                "link": "https://elpais.com/america/2026-11-20/celso-amorim-el-enfasis-de-trump-en-el-escudo-de-las-americas-disminuira-un-poco.html",
+                "date": "Fri, 20 Nov 2026 09:30:00 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-19"
+                "date": "2026-11-20"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Acuerdos de Shenzhen: el mercado exige credibilidad, no solo una foto",
-                "link": "https://es.investing.com/news/economy-news/acuerdos-de-shenzhen-el-mercado-exige-credibilidad-no-solo-una-foto-3936022",
-                "date": "2026-11-19 12:01:55"
+                "title": "Acuerdos comerciales entre Reino Unido y la UE, retrasados hasta seis meses",
+                "link": "https://es.investing.com/news/economy-news/acuerdos-comerciales-entre-reino-unido-y-la-ue-retrasados-hasta-seis-meses-3937794",
+                "date": "2026-11-20 11:06:10"
             },
             {
-                "title": "EE.UU., China y Rusia acuerdan aumentar el suministro energético mundial",
-                "link": "https://es.investing.com/news/economy-news/trump-inicia-historicas-conversaciones-trilaterales-con-xi-y-putin-en-china-3935752",
-                "date": "2026-11-19 10:04:44"
+                "title": "Lagarde advierte: la IA y las ciberamenazas, el mayor riesgo financiero",
+                "link": "https://es.investing.com/news/economy-news/lagarde-advierte-la-ia-y-las-ciberamenazas-el-mayor-riesgo-financiero-93CH-3937665",
+                "date": "2026-11-20 10:14:57"
             },
             {
-                "title": "OPV histórica de Anthropic y actas de la Fed: claves del mercado",
-                "link": "https://es.investing.com/news/economy-news/la-historica-opv-de-anthropic-y-las-actas-de-la-fed-que-mueve-los-mercados-3935702",
-                "date": "2026-11-19 09:04:18"
+                "title": "Anthropic cae en el after-hours mientras persiste el nerviosismo por la IA",
+                "link": "https://es.investing.com/news/economy-news/anthropic-cae-en-el-mercado-tras-el-debut-mientras-persisten-los-temores-sobre-la-ia-3937589",
+                "date": "2026-11-20 09:07:16"
             },
             {
-                "title": "Los ciberincidentes en el Reino Unido alcanzan máximos históricos en octubre",
-                "link": "https://es.investing.com/news/economy-news/los-ciberincidentes-en-el-reino-unido-alcanzan-maximos-historicos-en-octubre-93CH-3935398",
-                "date": "2026-11-19 05:47:27"
+                "title": "Reino Unido y la UE acuerdan comercio alimentario y movilidad juvenil",
+                "link": "https://es.investing.com/news/economy-news/reino-unido-y-la-ue-acuerdan-comercio-alimentario-y-movilidad-juvenil-93CH-3937365",
+                "date": "2026-11-20 05:55:29"
             },
             {
-                "title": "Arizona investiga a OpenAI y otras empresas de IA por agentes descontrolados",
-                "link": "https://es.investing.com/news/economy-news/arizona-investiga-a-openai-y-otras-empresas-de-ia-por-agentes-descontrolados-3935331",
-                "date": "2026-11-19 03:35:00"
+                "title": "Minutas Banxico dividen a los analistas: ¿recorte de tasas o alza de 50pb en 2027?",
+                "link": "https://es.investing.com/news/economy-news/minutas-banxico-dividen-a-los-analistas-recorte-de-tasas-o-alza-de-50pb-en-2027-3937187",
+                "date": "2026-11-19 22:56:09"
             }
         ],
         "💶 Economía Europea (BCE)": [
+            {
+                "title": "Christine Lagarde: Acting in time",
+                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+                "date": "Fri, 20 Nov 2026 09:30:00 +0100"
+            },
             {
                 "title": "Boris Vujčić: Financial Stability Review - November 2026",
                 "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
@@ -117,25 +142,20 @@
                 "title": "Frank Elderson: Smart supervision for small banks",
                 "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
                 "date": "Mon, 16 Nov 2026 14:00:00 +0100"
-            },
-            {
-                "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
-                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
-                "date": "Mon, 16 Nov 2026 09:30:00 +0100"
             }
         ],
         "📈 Mercados (Yahoo Finance)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-19"
+                "date": "2026-11-20"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-19"
+                "date": "2026-11-20"
             }
         ]
     }
