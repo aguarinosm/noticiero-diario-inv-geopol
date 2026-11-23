@@ -2,6 +2,11 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "La COP31 termina sin pacto climático por la división sobre los combustibles fósiles",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542199",
+                "date": "Sun, 22 Nov 2026 12:00:00 +0000"
+            },
+            {
                 "title": "Discordia en la COP31, Ucrania, Afganistán y hambre global: las noticias del viernes",
                 "link": "https://news.un.org/feed/view/es/story/2026/11/1542198",
                 "date": "Fri, 20 Nov 2026 12:00:00 +0000"
@@ -20,104 +25,109 @@
                 "title": "COP31: Los combustibles fósiles quedan fuera del borrador del acuerdo",
                 "link": "https://news.un.org/feed/view/es/story/2026/11/1542194",
                 "date": "Thu, 19 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Myanmar, COP31 y El Niño en Guatemala… las noticias del jueves",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542193",
-                "date": "Thu, 19 Nov 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Ataques con drones alcanzan viviendas en la capital de Sudán",
-                "link": "https://www.dw.com/es/ataques-con-drones-alcanzan-viviendas-en-la-capital-de-sudán/a-80013560?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-22"
+                "title": "Rutte: retirada de la OTAN del flanco este es “inaceptable”",
+                "link": "https://www.dw.com/es/rutte-retirada-de-la-otan-del-flanco-este-es-inaceptable/a-80025927?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-23"
             },
             {
-                "title": "COP31 al borde del fracaso por diferencias sobre energía fósil",
-                "link": "https://www.dw.com/es/cop31-al-borde-del-fracaso-por-diferencias-sobre-energía-fósil/a-80013163?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-22"
+                "title": "El futuro del ajedrez mundial se juega en Asia",
+                "link": "https://www.dw.com/es/el-futuro-del-ajedrez-mundial-se-juega-en-asia/a-80023914?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-23"
             },
             {
-                "title": "Ataque ruso provoca derrumbe parcial de edificio en la región de Kiev",
-                "link": "https://www.dw.com/es/ataque-ruso-provoca-derrumbe-parcial-de-edificio-en-la-región-de-kiev/a-80013001?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-22"
+                "title": "'Mi pobre angelito' prepara su regreso con Macaulay Culkin a 36 años de su estreno",
+                "link": "https://www.dw.com/es/mi-pobre-angelito-prepara-su-regreso-con-macaulay-culkin-a-36-años-de-su-estreno/a-80022127?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-23"
             },
             {
-                "title": "China acusa restricción a sus compañías telefónicas en EE.UU.",
-                "link": "https://www.dw.com/es/china-acusa-restricción-a-sus-compañías-telefónicas-en-ee-uu/a-80012765?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-22"
+                "title": "El consejo de administración de Nvidia vuelve a nombrar a Jensen Huang como CEO y presidente",
+                "link": "https://www.dw.com/es/el-consejo-de-administración-de-nvidia-vuelve-a-nombrar-a-jensen-huang-como-ceo-y-presidente/a-80015982?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-23"
             },
             {
-                "title": "La industria automotriz alemana busca reinventarse para sobrevivir",
-                "link": "https://www.dw.com/es/la-industria-automotriz-alemana-busca-reinventarse-para-sobrevivir/a-80006050?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-22"
+                "title": "El Kremlin advierte contra una escalada en el Báltico tras ataque ucraniano a carguero ruso",
+                "link": "https://www.dw.com/es/el-kremlin-advierte-contra-una-escalada-en-el-báltico-tras-ataque-ucraniano-a-carguero-ruso/a-80021805?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-23"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "André Janones, el general del ejército digital de Lula: “Quiero contribuir al fin de la extrema derecha en el mundo”",
-                "link": "https://elpais.com/america/2026-11-22/andre-janones-el-general-del-ejercito-digital-de-lula-quiero-contribuir-al-fin-de-la-extrema-derecha-en-el-mundo.html",
-                "date": "Sun, 22 Nov 2026 04:30:00 GMT"
+                "title": "Nvidia recupera a Jensen Huang como consejero delegado",
+                "link": "https://elpais.com/economia/2026-11-23/nvidia-recupera-a-jensen-huang-como-consejero-delegado.html",
+                "date": "Mon, 23 Nov 2026 14:16:53 GMT"
             },
             {
-                "title": "La derrota republicana abre la puerta a una nueva era en el Supremo de Estados Unidos",
-                "link": "https://elpais.com/us/2026-11-22/la-derrota-republicana-abre-la-puerta-a-una-nueva-era-en-el-supremo-de-estados-unidos.html",
-                "date": "Sun, 22 Nov 2026 04:30:01 GMT"
+                "title": "Qué sigue para el futuro político de Cuba: ¿ataque de Trump antes de fin de año o giro demócrata?",
+                "link": "https://elpais.com/us/2026-11-23/que-sigue-para-el-futuro-politico-de-cuba-ataque-de-trump-antes-de-fin-de-ano-o-giro-democrata.html",
+                "date": "Mon, 23 Nov 2026 09:30:00 GMT"
             },
             {
-                "title": "Mikie Sherrill, gobernadora de Nueva Jersey: “Los demócratas tienen que mostrar resultados de inmediato”",
-                "link": "https://elpais.com/us/2026-11-22/mikie-sherrill-gobernadora-de-nueva-jersey-los-democratas-tienen-que-mostrar-resultados-de-inmediato.html",
-                "date": "Sun, 22 Nov 2026 04:30:00 GMT"
+                "title": "María Corina Machado sustituye los actos masivos por una agenda de consultas en todo el país",
+                "link": "https://elpais.com/america/2026-11-23/maria-corina-machado-sustituye-los-actos-masivos-por-una-agenda-de-consultas-en-todo-el-pais.html",
+                "date": "Mon, 23 Nov 2026 04:30:00 GMT"
             },
             {
-                "title": "La deuda de 4.000 fusiles que los disidentes de las FARC fueron a cobrar a Venezuela",
-                "link": "https://elpais.com/america-colombia/2026-11-22/la-deuda-de-4000-fusiles-que-los-disidentes-de-las-farc-fueron-a-cobrar-a-caracas.html",
-                "date": "Sun, 22 Nov 2026 09:30:00 GMT"
+                "title": "Bukele quiere coronarse rey antipandillas en X",
+                "link": "https://elpais.com/opinion/2026-11-23/bukele-quiere-coronarse-rey-antipandillas-en-x.html",
+                "date": "Mon, 23 Nov 2026 04:30:01 GMT"
             },
             {
-                "title": "La lucha de las mujeres que gestaron a niños en ‘la mansión de los horrores’ de Los Ángeles",
-                "link": "https://elpais.com/us/2026-11-22/la-lucha-de-las-mujeres-que-gestaron-a-ninos-en-la-mansion-de-los-horrores-de-los-angeles.html",
-                "date": "Sun, 22 Nov 2026 09:30:00 GMT"
+                "title": "México consolida el apoyo en inteligencia de Estados Unidos contra el narco",
+                "link": "https://elpais.com/mexico/2026-11-23/mexico-consolida-el-apoyo-en-inteligencia-de-estados-unidos-contra-el-narco.html",
+                "date": "Mon, 23 Nov 2026 09:30:00 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-22"
+                "date": "2026-11-23"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Ataque de dron ruso atrapa a 14 en Kyiv; buque arde frente a Finlandia",
-                "link": "https://es.investing.com/news/economy-news/ataque-de-dron-ruso-atrapa-a-14-en-kyiv-buque-arde-frente-a-finlandia-3939186",
-                "date": "2026-11-22 09:43:25"
+                "title": "El índice de inflación preferido de la Fed mostrará precios muy por encima del objetivo",
+                "link": "https://es.investing.com/news/economy-news/indice-de-inflacion-preferido-de-la-fed-mostrara-precios-muy-por-encima-del-objetivo-3940555",
+                "date": "2026-11-23 15:00:00"
             },
             {
-                "title": "Irán afirma control sobre Ormuz mientras escalan los ataques en Bahréin y Arabia Saudí",
-                "link": "https://es.investing.com/news/economy-news/iran-reafirma-control-sobre-ormuz-mientras-escalan-los-ataques-en-bahrein-y-arabia-saudi-3939171",
-                "date": "2026-11-22 08:10:19"
+                "title": "¿Qué implican unas condiciones financieras más restrictivas para la Fed?",
+                "link": "https://es.investing.com/news/economy-news/que-implican-unas-condiciones-financieras-mas-restrictivas-para-la-fed-3940070",
+                "date": "2026-11-23 12:13:20"
             },
             {
-                "title": "Australia rechaza las preocupaciones en torno a que el acuerdo AUKUS debilite la flota naval de EE.UU.",
-                "link": "https://es.investing.com/news/economy-news/australia-rechaza-las-preocupaciones-del-cbo-sobre-el-acuerdo-de-submarinos-aukus-3939162",
-                "date": "2026-11-22 06:43:55"
+                "title": "Cinco cosas a seguir en los mercados esta semana",
+                "link": "https://es.investing.com/news/economy-news/cinco-cosas-a-seguir-en-los-mercados-esta-semana-3939671",
+                "date": "2026-11-23 10:07:52"
             },
             {
-                "title": "Arrestos del ICE en aeropuerto de Seattle generan indignación",
-                "link": "https://es.investing.com/news/economy-news/arrestos-del-ice-en-aeropuerto-de-seattle-generan-indignacion-3939149",
-                "date": "2026-11-22 03:32:33"
+                "title": "Los futuros rebotan tras la caída de la IA; Bessent habla sobre la investigación a Nvidia",
+                "link": "https://es.investing.com/news/economy-news/los-futuros-rebotan-tras-la-caida-de-la-ia-bessent-habla-sobre-la-investigacion-a-nvidia-3939517",
+                "date": "2026-11-23 08:45:00"
             },
             {
-                "title": "Líderes del Reino Unido y Holanda debaten seguridad y apoyo a Ucrania",
-                "link": "https://es.investing.com/news/economy-news/lideres-del-reino-unido-y-holanda-debaten-seguridad-y-apoyo-a-ucrania-3939117",
-                "date": "2026-11-21 22:32:53"
+                "title": "La UE e Indonesia firman un acuerdo comercial que elimina la mayoría de los aranceles",
+                "link": "https://es.investing.com/news/economy-news/la-ue-e-indonesia-firman-un-acuerdo-comercial-que-elimina-la-mayoria-de-los-aranceles-93CH-3939322",
+                "date": "2026-11-23 05:58:38"
             }
         ],
         "💶 Economía Europea (BCE)": [
+            {
+                "title": "Philip R. Lane: Climate change and monetary policy",
+                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
+                "date": "Mon, 23 Nov 2026 15:30:00 +0100"
+            },
+            {
+                "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+                "date": "Mon, 23 Nov 2026 11:00:00 +0100"
+            },
             {
                 "title": "Christine Lagarde: Acting in time",
                 "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
@@ -132,30 +142,20 @@
                 "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
                 "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
                 "date": "Wed, 18 Nov 2026 10:00:00 +0100"
-            },
-            {
-                "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
-                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
-                "date": "Tue, 17 Nov 2026 19:30:00 +0100"
-            },
-            {
-                "title": "Frank Elderson: Smart supervision for small banks",
-                "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
-                "date": "Mon, 16 Nov 2026 14:00:00 +0100"
             }
         ],
         "📈 Mercados (Yahoo Finance)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-22"
+                "date": "2026-11-23"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-22"
+                "date": "2026-11-23"
             }
         ]
     }
