@@ -2,6 +2,21 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "Palestina, violencia de género, estrecho de Ormuz, Nepal… Las noticias del miércoles",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542211",
+                "date": "Wed, 25 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "La ONU pide actuar antes de que se comentan nuevos «crímenes atroces» contra los palestinos",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542209",
+                "date": "Wed, 25 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Violencia sexual: el hijo mayor de Gisèle Pelicot quiere acabar con el silencio de los hombres",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542208",
+                "date": "Wed, 25 Nov 2026 12:00:00 +0000"
+            },
+            {
                 "title": "47.000 feminicidios en 2025: América Latina entre las regiones más golpeadas",
                 "link": "https://news.un.org/feed/view/es/story/2026/11/1542207",
                 "date": "Tue, 24 Nov 2026 12:00:00 +0000"
@@ -10,114 +25,109 @@
                 "title": "La terquedad de trabajar por la paz: el músico colombiano que convirtió un fusil en guitarra",
                 "link": "https://news.un.org/feed/view/es/story/2026/11/1542203",
                 "date": "Tue, 24 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Proceso de paz en Colombia, violencia contra las mujeres, IA y guerras, gripe aviar… Las noticias del martes",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542206",
-                "date": "Tue, 24 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "La diáspora latinoamericana se triplica 30 años: 48 millones viven fuera de su país de nacimiento",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542204",
-                "date": "Mon, 23 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Guterres advierte que la IA traerá un cambio histórico de poder",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542202",
-                "date": "Mon, 23 Nov 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "La presidenta del Bundestag pone de ejemplo a España por la lucha contra violencia machista",
-                "link": "https://www.dw.com/es/la-presidenta-del-bundestag-pone-de-ejemplo-a-españa-por-la-lucha-contra-violencia-machista/a-80048069?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-25"
+                "title": "Bundesliga: Eintracht Frankfurt vuelve a mirar hacia arriba",
+                "link": "https://www.dw.com/es/bundesliga-eintracht-frankfurt-vuelve-a-mirar-hacia-arriba/a-80066599?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-26"
             },
             {
-                "title": "Ejército de Israel mata al jefe de la Seguridad Interna del norte de Gaza y a su familia",
-                "link": "https://www.dw.com/es/ejército-de-israel-mata-al-jefe-de-la-seguridad-interna-del-norte-de-gaza-y-a-su-familia/a-80045727?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-25"
+                "title": "Ucrania recibe 250 cuerpos de soldados en un canje con Rusia",
+                "link": "https://www.dw.com/es/ucrania-recibe-250-cuerpos-de-soldados-en-un-canje-con-rusia/a-80067690?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-26"
             },
             {
-                "title": "El expresidente catalán y líder independentista Puigdemont anuncia su regreso a Cataluña el 12 de diciembre",
-                "link": "https://www.dw.com/es/el-expresidente-catalán-y-líder-independentista-puigdemont-anuncia-su-regreso-a-cataluña-el-12-de-diciembre/a-80045772?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-25"
+                "title": "La FIFA sufre ciberataque y robo de datos personales",
+                "link": "https://www.dw.com/es/la-fifa-sufre-ciberataque-y-robo-de-datos-personales/a-80066313?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-26"
             },
             {
-                "title": "Jóvenes detenidos en redada contra grupo terrorista de extrema derecha en Alemania",
-                "link": "https://www.dw.com/es/jóvenes-detenidos-en-redada-contra-grupo-terrorista-de-extrema-derecha-en-alemania/a-80044766?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-25"
+                "title": "El español Pablo Hernández de Cos sucederá a Lagarde en la presidencia del BCE",
+                "link": "https://www.dw.com/es/el-español-pablo-hernández-de-cos-sucederá-a-lagarde-en-la-presidencia-del-bce/a-80065324?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-26"
             },
             {
-                "title": "China califica la Shenzhou-24, con el primer astronauta extranjero, de \"histórica\"",
-                "link": "https://www.dw.com/es/china-califica-la-shenzhou-24-con-el-primer-astronauta-extranjero-de-histórica/a-80043551?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-25"
+                "title": "Bayern Múnich busca aclarar el caso Musiala y deja preguntas abiertas",
+                "link": "https://www.dw.com/es/bayern-múnich-busca-aclarar-el-caso-musiala-y-deja-preguntas-abiertas/a-80061155?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-26"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Dinorah Figuera, negociadora de la transición con el chavismo: “Esto no es una mesa romántica”",
-                "link": "https://elpais.com/america/2026-11-25/dinorah-figuera-negociadora-de-la-transicion-con-el-chavismo-esto-no-es-una-mesa-romantica.html",
-                "date": "Wed, 25 Nov 2026 02:13:37 GMT"
+                "title": "Sánchez: “Estamos tocando con la yema de los dedos la mayoría progresista, si llegamos al 75% la podemos tener”",
+                "link": "https://elpais.com/espana/2026-11-26/sanchez-estamos-tocando-con-la-yema-de-los-dedos-la-mayoria-progresista-si-llegamos-al-75-la-podemos-tener.html",
+                "date": "Thu, 26 Nov 2026 04:30:01 GMT"
             },
             {
-                "title": "Dieciséis horas de una toma de rehenes en Cartagena de Indias, el corazón turístico de Colombia",
-                "link": "https://elpais.com/america-colombia/2026-11-25/catorce-horas-de-una-toma-de-rehenes-en-cartagena-de-indias-el-corazon-turistico-de-colombia.html",
-                "date": "Wed, 25 Nov 2026 04:00:00 GMT"
+                "title": "Los titulares en vídeo de la entrevista de Pedro Sánchez",
+                "link": "https://elpais.com/videos/2026-11-26/los-titulares-en-video-de-la-entrevista-a-pedro-sanchez.html",
+                "date": "Thu, 26 Nov 2026 04:30:01 GMT"
             },
             {
-                "title": "EE UU propone nuevos aranceles contra 14 socios comerciales, entre ellos China y la UE",
-                "link": "https://elpais.com/internacional/2026-11-25/ee-uu-anuncia-nuevos-aranceles-contra-14-socios-comerciales.html",
-                "date": "Wed, 25 Nov 2026 16:39:05 GMT"
+                "title": "¿Quién va a ganar las elecciones? La probabilidad de cada mayoría según las encuestas",
+                "link": "https://elpais.com/espana/elecciones-generales/2026-11-26/quien-va-a-ganar-las-elecciones-la-probabilidad-de-cada-mayoria-segun-las-encuestas.html",
+                "date": "Thu, 26 Nov 2026 04:30:01 GMT"
             },
             {
-                "title": "Kilmar Abrego García, víctima de las deportaciones masivas de Trump, abandona Estados Unidos y llega a España",
-                "link": "https://elpais.com/internacional/2026-11-25/kilmar-abrego-garcia-victima-de-las-deportaciones-masivas-de-trump-aterriza-en-madrid.html",
-                "date": "Wed, 25 Nov 2026 14:06:58 GMT"
+                "title": "Haití importa el ‘modelo Bukele’ con el anuncio de tres nuevas cárceles",
+                "link": "https://elpais.com/america/2026-11-26/haiti-importa-el-modelo-bukele-con-el-anuncio-de-tres-nuevas-carceles.html",
+                "date": "Thu, 26 Nov 2026 09:30:00 GMT"
             },
             {
-                "title": "Nacido en Denver y deportado pese a ser ciudadano: el caso que ha hecho recular al Gobierno de Trump",
-                "link": "https://elpais.com/us/migracion/2026-11-25/nacido-en-denver-y-deportado-pese-a-ser-ciudadano-el-caso-que-ha-hecho-recular-al-gobierno-de-trump.html",
-                "date": "Wed, 25 Nov 2026 09:30:00 GMT"
+                "title": "Edmundo González anuncia que vuelve a Venezuela para sumarse a una peregrinación el 5 de diciembre",
+                "link": "https://elpais.com/america/2026-11-26/edmundo-gonzalez-anuncia-que-vuelve-a-venezuela-para-sumarse-a-una-peregrinacion-el-5-de-diciembre.html",
+                "date": "Thu, 26 Nov 2026 15:05:16 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-25"
+                "date": "2026-11-26"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Los tipos de interés de México siguen siendo restrictivos tras el recorte",
-                "link": "https://es.investing.com/news/economy-news/los-tipos-de-interes-de-mexico-siguen-siendo-restrictivos-tras-el-recorte-93CH-3944035",
-                "date": "2026-11-25 15:04:07"
+                "title": "Las actas del BCE revelan que muchos miembros apoyarían subida de tipos en octubre",
+                "link": "https://es.investing.com/news/economy-news/las-actas-del-bce-revelan-que-muchos-miembros-apoyarian-subida-de-tipos-en-octubre-3944807",
+                "date": "2026-11-26 13:41:40"
             },
             {
-                "title": "FinCEN desconecta sistemas tras una brecha de ciberseguridad",
-                "link": "https://es.investing.com/news/economy-news/fincen-desconecta-sistemas-tras-una-brecha-de-ciberseguridad-93CH-3944030",
-                "date": "2026-11-25 14:59:46"
+                "title": "El Banco de Inglaterra reducirá los requisitos de capital de los grandes bancos",
+                "link": "https://es.investing.com/news/economy-news/el-banco-de-inglaterra-reducira-los-requisitos-de-capital-de-los-grandes-bancos-3944735",
+                "date": "2026-11-26 10:56:11"
             },
             {
-                "title": "EE.UU. podría limitar los aranceles a India al 17% si hay acuerdo comercial",
-                "link": "https://es.investing.com/news/economy-news/eeuu-podria-limitar-los-aranceles-a-india-al-17-si-hay-acuerdo-comercial-93CH-3943984",
-                "date": "2026-11-25 14:39:20"
+                "title": "El crecimiento de los préstamos corporativos en la eurozona se acelera al 4,5% en octubre, según el BCE",
+                "link": "https://es.investing.com/news/economy-news/el-crecimiento-de-los-prestamos-corporativos-en-la-eurozona-se-acelera-al-45-en-octubre-segun-el-bce-93CH-3944686",
+                "date": "2026-11-26 09:49:17"
             },
             {
-                "title": "Grecia prevé que su deuda pública caiga al 110% del PIB en 2030",
-                "link": "https://es.investing.com/news/economy-news/grecia-preve-que-su-deuda-publica-caiga-al-110-del-pib-en-2030-93CH-3943754",
-                "date": "2026-11-25 13:24:44"
+                "title": "Instalaciones de la Fuerza Aérea de Malasia usadas para traficar 37,91 millones de dólares en drogas",
+                "link": "https://es.investing.com/news/economy-news/instalaciones-de-la-fuerza-aerea-de-malasia-usadas-para-traficar-3791-millones-de-dolares-en-drogas-93CH-3944537",
+                "date": "2026-11-26 06:39:16"
             },
             {
-                "title": "La Administración Trump propone nuevos aranceles a 14 socios comerciales",
-                "link": "https://es.investing.com/news/economy-news/la-administracion-trump-propone-nuevos-aranceles-a-14-socios-comerciales-3943720",
-                "date": "2026-11-25 13:15:33"
+                "title": "Tamura (BoJ) aboga por subidas de tipos más rápidas ante el riesgo de inflación",
+                "link": "https://es.investing.com/news/economy-news/tamura-boj-aboga-por-subidas-de-tipos-mas-rapidas-ante-el-riesgo-de-inflacion-3944453",
+                "date": "2026-11-26 03:55:28"
             }
         ],
         "💶 Economía Europea (BCE)": [
+            {
+                "title": "Meeting of 28-29 October 2026",
+                "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+                "date": "Thu, 26 Nov 2026 13:30:00 +0100"
+            },
+            {
+                "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+                "date": "Wed, 25 Nov 2026 18:30:00 +0100"
+            },
             {
                 "title": "Card payments edge past cash in shops; euro area consumers want both",
                 "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
@@ -132,30 +142,20 @@
                 "title": "Philip R. Lane: Climate change and monetary policy",
                 "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
                 "date": "Mon, 23 Nov 2026 15:30:00 +0100"
-            },
-            {
-                "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
-                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
-                "date": "Mon, 23 Nov 2026 11:00:00 +0100"
-            },
-            {
-                "title": "Christine Lagarde: Acting in time",
-                "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
-                "date": "Fri, 20 Nov 2026 09:30:00 +0100"
             }
         ],
         "📈 Mercados (Yahoo Finance)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-25"
+                "date": "2026-11-26"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-25"
+                "date": "2026-11-26"
             }
         ]
     }
