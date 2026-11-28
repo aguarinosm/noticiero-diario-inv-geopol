@@ -2,6 +2,21 @@
     "Política, Geopolítica y Macroeconomía": {
         "🌎 Global (ONU)": [
             {
+                "title": "Corredor Seco, recortes y refugiadas, Costa Rica, España... Las noticias del viernes",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542220",
+                "date": "Fri, 27 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "El Corredor Seco de América Central entra en la lista de focos de hambre por El Niño",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542219",
+                "date": "Fri, 27 Nov 2026 12:00:00 +0000"
+            },
+            {
+                "title": "Los recortes debilitan la protección de mujeres y niñas refugiadas frente a la violencia",
+                "link": "https://news.un.org/feed/view/es/story/2026/11/1542218",
+                "date": "Fri, 27 Nov 2026 12:00:00 +0000"
+            },
+            {
                 "title": "El comercio marítimo mundial se estanca y amenaza con encarecer el costo de la vida",
                 "link": "https://news.un.org/feed/view/es/story/2026/11/1542217",
                 "date": "Thu, 26 Nov 2026 12:00:00 +0000"
@@ -10,114 +25,104 @@
                 "title": "Aumentan los casos de mpox en las Américas y llaman a reforzar la vacunación",
                 "link": "https://news.un.org/feed/view/es/story/2026/11/1542216",
                 "date": "Thu, 26 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Mpox en las Américas, comercio marítimo, Haití, conflicto y ébola…Las noticias del jueves",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542215",
-                "date": "Thu, 26 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "Palestina, violencia de género, estrecho de Ormuz, Nepal… Las noticias del miércoles",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542211",
-                "date": "Wed, 25 Nov 2026 12:00:00 +0000"
-            },
-            {
-                "title": "La ONU pide actuar antes de que se comentan nuevos «crímenes atroces» contra los palestinos",
-                "link": "https://news.un.org/feed/view/es/story/2026/11/1542209",
-                "date": "Wed, 25 Nov 2026 12:00:00 +0000"
             }
         ],
         "🇪🇺 Europa (DW Español)": [
             {
-                "title": "Elecciones España 2026: candidatos, fechas y resultados",
-                "link": "https://www.dw.com/es/elecciones-españa-2026-candidatos-fechas-y-resultados/a-80078108?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-27"
+                "title": "Veteranos militares israelíes de alto rango acompañan a palestinos en la cosecha de aceitunas para evitar abusos",
+                "link": "https://www.dw.com/es/veteranos-militares-israelíes-de-alto-rango-acompañan-a-palestinos-en-la-cosecha-de-aceitunas-para-evitar-abusos/a-80085667?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-28"
             },
             {
-                "title": "Alemania aprueba el presupuesto para 2027 tras larga pulseada, dando luz verde a un mayor gasto y endeudamiento",
-                "link": "https://www.dw.com/es/alemania-aprueba-el-presupuesto-para-2027-tras-larga-pulseada-dando-luz-verde-a-un-mayor-gasto-y-endeudamiento/a-80077862?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-27"
+                "title": "El Kuomintang retiene las alcaldías de Taipéi y Nuevo Taipéi en las elecciones municipales de Taiwán",
+                "link": "https://www.dw.com/es/el-kuomintang-retiene-las-alcaldías-de-taipéi-y-nuevo-taipéi-en-las-elecciones-municipales-de-taiwán/a-80085629?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-28"
             },
             {
-                "title": "Kanal-Centre Pompidou: el nuevo museo de Bruselas abre sus puertas",
-                "link": "https://www.dw.com/es/kanal-centre-pompidou-el-nuevo-museo-de-bruselas-abre-sus-puertas/a-80076353?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-27"
+                "title": "España celebra este domingo unas elecciones generales decisivas para el futuro político del país y de la orientación de la Unión Europea",
+                "link": "https://www.dw.com/es/españa-celebra-este-domingo-unas-elecciones-generales-decisivas-para-el-futuro-político-del-país-y-de-la-orientación-de-la-unión-europea/a-80084800?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-28"
             },
             {
-                "title": "Florian Wirtz: el talento que brilla sin que Alemania se conmueva",
-                "link": "https://www.dw.com/es/florian-wirtz-el-talento-que-brilla-sin-que-alemania-se-conmueva/a-80073948?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-27"
+                "title": "Taiwán vota en unas disputadas elecciones locales que podrían adelantar indicios del futuro político del país",
+                "link": "https://www.dw.com/es/taiwán-vota-en-unas-disputadas-elecciones-locales-que-podrían-adelantar-indicios-del-futuro-político-del-país/a-80084273?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-28"
             },
             {
-                "title": "SAP confirma un incidente de seguridad informática y toma medidas de protección",
-                "link": "https://www.dw.com/es/sap-confirma-un-incidente-de-seguridad-informática-y-toma-medidas-de-protección/a-80074314?maca=spa-rss-sp-all-1122-rdf",
-                "date": "2026-11-27"
+                "title": "Siete muertos y casi un centenar de heridos en una explosión accidental junto a una escuela en Afganistán",
+                "link": "https://www.dw.com/es/siete-muertos-y-casi-un-centenar-de-heridos-en-una-explosión-accidental-junto-a-una-escuela-en-afganistán/a-80084073?maca=spa-rss-sp-all-1122-rdf",
+                "date": "2026-11-28"
             }
         ],
         "🌎 América (El País)": [
             {
-                "title": "Sánchez confía en revalidar el Gobierno progresista sin depender de Junts y Feijóo insiste en que los socios del PSOE han estado “calladitos y calladitas”",
-                "link": "https://elpais.com/espana/elecciones-generales/2026-11-27/sanchez-confia-en-revalidar-el-gobierno-progresista-sin-depender-de-junts-y-feijoo-insiste-en-que-los-socios-del-psoe-han-estado-calladitos-y-calladitas.html",
-                "date": "Fri, 27 Nov 2026 11:23:39 GMT"
+                "title": "¿Quién va a ganar las elecciones? La probabilidad de cada mayoría según las encuestas",
+                "link": "https://elpais.com/espana/elecciones-generales/2026-11-26/quien-va-a-ganar-las-elecciones-la-probabilidad-de-cada-mayoria-segun-las-encuestas.html",
+                "date": "Thu, 26 Nov 2026 04:30:01 GMT"
             },
             {
-                "title": "Cierre de campaña de las elecciones generales del 29-N, en directo | El PP denuncia ante la Junta Electoral presuntas irregularidades en el voto por correo y el reparto de la propaganda electoral",
-                "link": "https://elpais.com/espana/elecciones-generales/2026-11-27/cierre-de-campana-de-las-elecciones-generales-del-29-n-en-directo.html",
-                "date": "Fri, 27 Nov 2026 15:39:18 GMT"
+                "title": "Voto útil con todas las encuestas: Las opciones de izquierda y derecha en cada provincia",
+                "link": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html",
+                "date": "Fri, 27 Nov 2026 04:30:01 GMT"
             },
             {
-                "title": "Mentiras y medias verdades del debate electoral a cuatro entre Sánchez, Feijóo, Abascal y Colau",
-                "link": "https://elpais.com/espana/elecciones-generales/2026-11-26/mentiras-y-medias-verdades-del-debate-electoral-a-cuatro-entre-sanchez-feijoo-abascal-y-colau.html",
-                "date": "Thu, 26 Nov 2026 22:17:00 GMT"
+                "title": "Comparador de los programas electorales para las elecciones generales del 29-N",
+                "link": "https://elpais.com/espana/elecciones-generales/2026-11-25/comparador-de-los-programas-electorales-para-las-elecciones-generales-del-29-n.html",
+                "date": "Wed, 25 Nov 2026 04:30:01 GMT"
             },
             {
-                "title": "Cierran las urnas en el exterior para las elecciones españolas",
-                "link": "https://elpais.com/argentina/2026-11-27/cierran-las-urnas-en-el-exterior-para-las-elecciones-espanolas.html",
-                "date": "Fri, 27 Nov 2026 03:30:00 GMT"
+                "title": "La victoria del PSOE y otras sorpresas posibles, según las encuestas",
+                "link": "https://elpais.com/actualidad/newsletter-kiko-llaneras/2026-11-28/la-victoria-del-psoe-y-otras-sorpresas-posibles-segun-las-encuestas.html",
+                "date": "Sat, 28 Nov 2026 04:30:01 GMT"
             },
             {
-                "title": "Un hackeo al sistema informático de la Fuerza Aérea vuelve a cuestionar la seguridad de las infraestructuras estratégicas de EE UU",
-                "link": "https://elpais.com/us/2026-11-27/un-hackeo-al-sistema-informatico-de-la-fuerza-aerea-vuelve-a-cuestionar-la-seguridad-de-las-infraestructuras-estrategicas-de-ee-uu.html",
-                "date": "Fri, 27 Nov 2026 16:12:01 GMT"
+                "title": "Sánchez culmina su sexta campaña con el mitin más multitudinario de su trayectoria: “Tenemos la mayoría progresista a la vista, ¡sí se puede!”",
+                "link": "https://elpais.com/espana/elecciones-generales/2026-11-27/sanchez-culmina-su-sexta-campana-con-el-mitin-mas-multitudinario-de-su-trayectoria-tenemos-la-mayoria-progresista-a-la-vista-si-se-puede.html",
+                "date": "Fri, 27 Nov 2026 20:05:55 GMT"
             }
         ],
         "🌏 Asia-Pacífico (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-27"
+                "date": "2026-11-28"
             }
         ]
     },
     "Inversión, Finanzas y Mercados": {
         "🏦 Bancos Centrales (Investing)": [
             {
-                "title": "Las subidas de tipos del BCE no bastan para alcanzar el objetivo de inflación del 2%",
-                "link": "https://es.investing.com/news/economy-news/las-subidas-de-tipos-del-bce-no-bastan-para-alcanzar-el-objetivo-de-inflacion-del-2-3945330",
-                "date": "2026-11-27 13:02:40"
+                "title": "Perspectivas de BofA para la economía de EE.UU. en 2027",
+                "link": "https://es.investing.com/news/economy-news/perspectivas-de-bofa-para-la-economia-de-eeuu-en-2027-3945683",
+                "date": "2026-11-28 14:02:23"
             },
             {
-                "title": "¿Cómo podría afectar el resultado electoral en España a sus bancos?",
-                "link": "https://es.investing.com/news/economy-news/como-podria-afectar-el-resultado-electoral-en-espana-a-sus-bancos-3945241",
-                "date": "2026-11-27 11:33:07"
+                "title": "Rusia reporta masivo ataque de drones ucranianos en medio de tensiones por Libia",
+                "link": "https://es.investing.com/news/economy-news/rusia-reporta-masivo-ataque-de-drones-ucranianos-en-medio-de-tensiones-por-libia-3945665",
+                "date": "2026-11-28 10:23:08"
             },
             {
-                "title": "Las recientes medidas del BCT descartan un recorte en diciembre: Citi",
-                "link": "https://es.investing.com/news/economy-news/las-recientes-medidas-del-bct-descartan-un-recorte-en-diciembre-citi-93CH-3945138",
-                "date": "2026-11-27 09:47:51"
+                "title": "El ejército de EE.UU. repelió drones en una base aérea británica con Irán como sospechoso",
+                "link": "https://es.investing.com/news/economy-news/el-ejercito-de-eeuu-repelio-drones-en-una-base-aerea-britanica-con-iran-como-sospechoso-3945660",
+                "date": "2026-11-28 09:01:37"
             },
             {
-                "title": "El Departamento de Trabajo y Pensiones del Reino Unido sufre un ciberataque",
-                "link": "https://es.investing.com/news/economy-news/el-departamento-de-trabajo-y-pensiones-del-reino-unido-sufre-un-ciberataque-93CH-3945121",
-                "date": "2026-11-27 09:08:02"
+                "title": "¿El muro arancelario de EE.UU. llegó para quedarse? ING analiza",
+                "link": "https://es.investing.com/news/economy-news/el-muro-arancelario-de-eeuu-llego-para-quedarse-ing-analiza-3945652",
+                "date": "2026-11-28 07:47:12"
             },
             {
-                "title": "Las perspectivas de J.P. Morgan para 2027 impulsan Swatch y Pandora pero pesan sobre Adidas y Puma",
-                "link": "https://es.investing.com/news/economy-news/jp-morgan-ve-estancamiento-en-ventas-de-lujo-en-2027-que-categoria-destaca-3945027",
-                "date": "2026-11-27 06:58:16"
+                "title": "La demanda logística de importaciones de China cae un 0,6% entre enero y octubre",
+                "link": "https://es.investing.com/news/economy-news/la-demanda-logistica-de-importaciones-de-china-cae-un-06-en-enerooctubre-3945637",
+                "date": "2026-11-28 05:02:55"
             }
         ],
         "💶 Economía Europea (BCE)": [
+            {
+                "title": "Boris Vujčić: Interview with Kurier",
+                "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+                "date": "Sat, 28 Nov 2026 09:00:00 +0100"
+            },
             {
                 "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
                 "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
@@ -137,25 +142,20 @@
                 "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
                 "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
                 "date": "Wed, 25 Nov 2026 18:30:00 +0100"
-            },
-            {
-                "title": "Card payments edge past cash in shops; euro area consumers want both",
-                "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
-                "date": "Wed, 25 Nov 2026 11:00:00 +0100"
             }
         ],
         "📈 Mercados (Yahoo Finance)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-27"
+                "date": "2026-11-28"
             }
         ],
         "📊 Wall Street & Global (CNBC)": [
             {
                 "title": "⚠️ Actualizando datos. Fuente temporalmente no disponible.",
                 "link": "#",
-                "date": "2026-11-27"
+                "date": "2026-11-28"
             }
         ]
     }
